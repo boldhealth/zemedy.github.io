@@ -1,0 +1,40 @@
+.div_wrapper{
+  margin-top: 2em;
+  p{
+    margin-bottom: 4em;
+  }
+  h2{
+    margin-bottom: 2em;
+  }
+}
+.app-main-web{
+    padding:1em !important;
+    display: none;
+}
+.bg-section{
+  background: #F8CB95;  
+}
+.bg-section-web{
+  display: none; 
+}
+.app-main{
+  padding:1em !important;
+  height: 100%;
+  background: #FDF6F3;
+  p, div{
+    color: #443B76;
+  }
+}
+
+.div_wrapper-web{
+  display: none;
+  p{
+  margin-bottom: 4em;
+  }
+  h2{
+  margin-bottom: 2em;
+  }
+}
+
+  
+

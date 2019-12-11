@@ -1,0 +1,199 @@
+hr {
+	border: 2px solid #443B76;
+	margin: 10px 0 2em 0;
+}
+.image_slide_section {
+  padding: 1rem 2rem;
+  background: white;
+  width: 100%;
+  text-align: center;
+  img {
+    width: 300%;
+    margin-bottom: 2rem;
+  }
+  .slide_control {
+    width: 50%;
+    height: 5px;
+    float: left;
+    background: #E0E0E0;   
+    &:hover {
+      cursor: pointer;
+    } 
+  }
+  .slide_active {
+    width: 50%;
+    height: 5px;
+    float: left;
+    background: #EB6054;
+    &:hover {
+      cursor: default !important;
+    } 
+  }
+}
+.sciencewrapper {
+	background: #FDF6F3;
+}
+.sciencelanding {
+	text-align: center;
+	background: url(../img/sciencebg.svg);
+	background-repeat: no-repeat;
+	h5 {
+		padding: 2em 1em;
+	}
+	h2 {
+		padding: 0 1em 2em 1em;
+	}
+}
+.cbt_section {
+	p {
+		text-transform: uppercase;
+		padding: 0 1em;
+		margin-bottom: 0;
+	}
+	h2 {
+		padding: 25px;
+	}
+	h5 {
+		padding: 25px;
+	}
+}
+.cbt_explainer {
+	background: #FDEBD7;
+	padding: 4em 3em;
+	text-align: center;
+}
+.why_cbt_section {
+	padding: 2em 1em;
+	h5 {
+		padding: 2em 0;
+	}
+  img {
+    width: 100%;
+  }
+}
+.nhs_section {
+	background: #FDEBD7;
+	padding: 4em 2em;
+  span {
+    color: #EB6054;
+  }
+}
+.bumps_image {
+	position: relative;
+	left: 65%;
+}
+.brain_gut_section {
+	p {
+		padding: 3em 1em 0 1em;
+		font-weight: 200;
+		text-transform: uppercase;
+	}
+    h2 {
+    	padding: 1em 1em 0 1em;
+    }
+    h5 {
+    	padding: 2em 1em;
+    }
+}
+.gut_brain_section {
+	background: #DAF6F5;
+	padding: 3em 2em;
+	text-align: center;
+	h5 {
+		margin-bottom: 2em;
+	}
+	.p14 {
+		font-size: 14px;
+		padding: 1em 0;
+	}
+	p {
+		padding: 1em 0 0 0; 
+	}
+}
+.zemedy_studies {
+	padding: 2em 1em;
+	h2 {
+		text-align: center;
+		padding: 1em 0;
+	}
+	h5 {
+		text-align: center;
+		padding: 0 0 1em 0;
+		margin-bottom: 1em;
+	}
+}
+.school_card {
+	background: #EB6054;
+	border-radius: 10px;
+	padding: 3em 1.5em;
+	margin-bottom: 2em;
+	img {
+		margin-bottom: 1em;
+	}
+	h5 {
+		text-align: left;
+		color: white;
+	}
+	p {
+		color: white;
+	}
+	.p_no_margin {
+		margin: 0;
+	}
+	.last_p {
+		margin-bottom: 1em;
+	}
+}
+.references_container {
+	padding: 3em 1.5em;
+	background: #DAF6F5;
+	h1 {
+		font-size: 50px;
+		color: $blue;
+		font-weight: 300;
+		margin-bottom: .5em;
+	}
+	h2 {
+		margin-bottom: 1em;
+	}
+	hr {
+		width: 70%;
+		border: 1px solid #443B76;
+	}
+	p {
+		margin-bottom: 3em;
+	}
+}
+.sciencelandingweb {
+	display: none;
+}
+.ce_bottom {
+  p {
+    margin-bottom: 4rem;
+  }
+  .mid {
+    margin-top: 4rem;
+  }
+  .last {
+    margin-top: 4rem;
+    margin-bottom: 0;
+  }
+  .first {
+    margin-top: 2rem;
+  }
+  img {
+    transform: rotate(90deg);
+    /* Legacy vendor prefixes that you probably don't need... */
+    /* Safari */
+    -webkit-transform: rotate(90deg);
+    /* Firefox */
+    -moz-transform: rotate(90deg);
+    /* IE */
+    -ms-transform: rotate(90deg);
+    /* Opera */
+    -o-transform: rotate(90deg);
+  }
+}
+.references_container_web {
+  display: none;
+}

@@ -1,0 +1,64 @@
+@media (min-width: 768px){
+
+    .bg-section-web{
+        padding:0 13% 0 13% !important;
+        display: block !important;
+        background: #FDF6F3;
+    
+    
+          }
+    .microbiome-sec-web{
+        position: absolute;
+        width: 3em;
+        height: 2em;
+        top: 10em;  
+        left: 50%;
+        display: block;
+        
+          }
+
+
+    .app-main-web{
+        padding:1em 15% 0 15% !important;
+        display: block !important;
+        background: #FDF6F3;
+        height: 100%;
+        P, div{
+            color: #443B76;
+          }
+        }
+        .cookies{
+         padding-bottom: 8em;
+        }
+    .app-main{
+        display: none;
+        }
+
+        .legalheader{
+           display: none;
+          }
+           
+    .div_wrapper-web{
+        display: block;
+        margin-top: -4em;
+        p{
+        margin-bottom: 4em;
+        }
+        h2{
+        margin-bottom: 2em;
+        }
+       }
+    
+    .div_wrapper{
+        display: none;
+        p{
+        margin-bottom: 4em;
+        }
+        h2{
+        margin-bottom: 2em;
+        }
+         }
+
+
+}
+        

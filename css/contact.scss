@@ -1,0 +1,97 @@
+.bg_hearder{
+  height: 5em;
+  background: #fdebd7;
+}
+.bg-section2{
+  background: #FDEBD7;
+}
+.lg_infor2 {
+  height: 200px;
+  font-family: Gibson; 
+  font-style: normal;
+  text-align: center; 
+  margin-left: 0 !important;
+  padding-top: 1em;  
+
+  h2 {
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+  }
+}
+.message {
+  height: 9em;
+  background: white;
+  border: 1px solid rgb(243, 239, 239);
+  margin-bottom: 2em;
+  width: 100%;   
+  border-bottom: 1px solid black;
+}
+.first-input {
+  height: 2em;
+  background: white;
+  border: 1px solid rgb(243, 239, 239);
+  margin-bottom: 2em;
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+.submit {
+  width: 80%;
+  background: #F58967;
+  border-radius: 100px;
+  border: 1px solid rgb(243, 239, 239);
+  margin: 2em auto;
+  margin-left: 2em; 
+  color: white;
+}
+.success{
+  color: #6872E7;
+  font-size: 15px;
+}
+.message-web{
+  display: none;
+}
+.first-input-web{
+  display: none;
+}
+.first-input-web2{
+  display: none;
+}
+.submit-web{
+  display: none;
+}
+.success-web{
+  display: none;
+}
+.bg-section-web1{
+  display: none;
+}
+.lg_infor-web1{
+  display: none;
+}
+.app-main{
+  padding:1em !important;
+  height: 100%;
+  background: #FDF6F3;
+}
+.app-main-web2{
+  display: none;
+}
+input:hover{
+  border: 2px solid rgb(0, 204, 255) ;
+}
+button:active{
+  background:  rgb(0, 204, 255);
+}
+.contactwrapper {
+  background: #FDEBD7;
+}
+    
+
+   
+
+
+  
+
+    

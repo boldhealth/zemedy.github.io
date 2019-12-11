@@ -1,0 +1,136 @@
+@media (min-width: 768px){
+  .bg-section-web1{
+    display: block !important;
+    background: #FDEBD7 !important;
+    height: 30em;
+    padding-top: 10em;
+    text-align: center !important;
+    color: #443B76;
+  } 
+  .webheader{
+    background: #FDF6F3;
+    height: 5em;
+  }
+  .bg-section{
+    display: none;  
+  }
+  .microbiome-sec{
+    display: none;
+  }
+  .app-main-web2{
+    padding:1em 25% 0 25% !important;
+    height: 100% !important;
+    display: block !important;
+    background: #FDF6F3;    
+  }
+  .app-main{
+    display: none;
+  }
+  .bg-section2{
+    display: none;
+  }
+  .lg_infor2{
+    display: none;
+  }
+  .lg_infor-web1{
+    display: block;
+  }
+  .message{
+    display: none;
+  }  
+  .first-input{
+    display: none;
+  }
+  .submit{
+    display: none;
+  }
+  .success{
+    display: none;
+  }
+  .message-web{
+    display: block;
+    height: 9em;
+    background: white;
+    border: 1px solid rgb(243, 239, 239);
+   
+    width: 100%;
+    border-bottom: 1px solid#443B76;
+  }
+  input:hover{
+    border: 2px solid rgb(0, 204, 255) ;
+  }
+  button:active{
+    background:  rgb(0, 204, 255);
+  }
+  .first-input-web{
+    display: block;
+    height: 3em;
+    background: white;
+    border: 1px solid rgb(243, 239, 239);
+    width: 97%;
+    border-bottom: 1px solid#443B76;
+  }
+  .sign-if{
+    text-align: center;
+    color: #443B76;
+    margin-top: 2em;
+    font-family: Gibson;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 150%;
+  }
+  .float-rigt{
+    float: right;
+    width: 50%;
+    height: 2em;
+    margin-top: 3em;
+  } 
+  .first-input-web2{
+    display: block;
+    height: 3em;
+    background: white;
+    border: 1px solid rgb(243, 239, 239);
+    margin-bottom: 2em;
+    width: 100%;
+    border-bottom: 1px solid#443B76;
+  }
+  .sign-up-wrapper-web{
+    float: left;
+    width: 50%;
+    height: 2em;
+    margin-top: 3em;
+  }
+  .meg-wrapper{
+    margin-top: 12em;  
+  }
+  .em-add{
+    color: #443B76;
+  }
+  .submitbtn{
+    display: block;
+    margin-top: 5em;
+    background: #F58967;
+    border-radius: 10px;
+    border: 1px solid rgb(243, 239, 239);
+    color: white;
+    padding: 1em 6em;
+    &:hover {
+      cursor: pointer;
+      background: #EB6054;
+    }
+  }
+  .submit-web1{
+    text-align: center;
+    button {
+      margin: 4em auto;
+      display: block;
+    }
+  }
+  .success-web{
+    margin-top: 2em;
+    text-align: center;
+    padding-bottom: 8em;
+    display: block;
+  }
+}

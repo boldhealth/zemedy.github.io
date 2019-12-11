@@ -1,0 +1,190 @@
+@media (min-width: 768px){
+  .image_slide_section {
+    padding: 5rem 6rem;
+    background: white;
+    width: 100%;
+    text-align: center;
+    img {
+      width: 60%;
+      margin-bottom: 4rem;
+    }
+    .slide_control {
+      width: 50%;
+      height: 5px;
+      float: left;
+      background: #E0E0E0;   
+      &:hover {
+        cursor: pointer;
+      } 
+    }
+    .slide_active {
+      width: 50%;
+      height: 5px;
+      float: left;
+      background: #EB6054;
+    }
+  }
+	.sciencelandingweb {
+		display: block;
+		text-align: center;
+		padding: 5rem 0 8rem 0;
+	}
+	.sciencelanding {
+		display: none;
+	}
+	.cbt_section {
+		padding-bottom: 5rem;
+		p {
+			padding: 2rem 7%;
+      font-weight: 200;
+		}
+		h2, h5 {
+			padding: 2rem 15% 0;
+		}
+	}
+	.cbt_explainer {
+		padding: 5rem 15%;
+		.ce_top {
+			width: 100%;
+			height: 8rem;
+			img {
+				float: left;
+			}
+			p {
+				width: 80%;
+				float: left;
+			}
+			h5 {
+				padding-top: 2.5rem;
+			    padding-left: 10rem;
+			    text-align: left;
+			}
+		}
+		.ce_bottom {
+			width: 100%;
+			p {
+				float: left;
+				width: 21%;
+				padding-top: 1.5rem;
+			}
+			.first {
+        margin-top: 2rem;
+				margin-right: 2em; 
+			}
+			.mid {
+        margin-top: 2rem;
+				margin-left: 2em; 
+				margin-right: 2em; 
+			}
+			.last {
+        margin-top: 2rem;
+				margin-left: 1em; 
+			}
+			img {
+				float: left;
+        margin-top: 3em;
+        transform: rotate(-90deg);
+        /* Legacy vendor prefixes that you probably don't need... */
+        /* Safari */
+        -webkit-transform: rotate(-360deg);
+        /* Firefox */
+        -moz-transform: rotate(-360deg);
+        /* IE */
+        -ms-transform: rotate(-360deg);
+        /* Opera */
+        -o-transform: rotate(-360deg);
+			}
+		}
+	}
+	.why_cbt_section {
+		padding: 5rem 12%;
+		.cbt_left {
+			float: left;
+			width: 50%;
+			padding: 0 2rem;
+			p {
+				margin-bottom: 4rem;
+			}
+      img {
+        width: 80%;
+      }
+		}
+		.cbt_right {
+      width: 50%;
+			padding: 0 2rem;
+      float: left;
+      img {
+        width: 60%;
+      }
+		}
+	}
+	.nhs_section {
+		padding: 3rem 15%;
+		img {
+			position: absolute;
+		}
+		span {
+			color: #EB6054;
+		}
+	}
+	.brain_gut_section  {
+		padding-bottom: 5rem;
+		p {
+			padding: 4rem 7% 2rem;
+		}
+		h2, h5 {
+			padding: 2rem 15% 0;
+		}
+	}
+	.gut_brain_section {
+		padding: 5rem 15%;
+		h5 {
+			text-align: center;
+		}
+		.gbsbox {
+			width: 25%;
+			float: left;
+		}
+    .gbsboxl {
+      width: 25%;
+      float: left;
+      img {
+        width: 17%
+      }
+    }
+	}
+	.zemedy_studies {
+		padding: 5rem 15%;
+		.school_card {
+			padding: 4rem;
+			width: 48%;
+			float: left;
+			margin: 0 1%;
+			height: 30rem;
+		}
+	}
+  .references_container {
+    display: none;
+  }
+  .references_container_web {
+    display: block;
+    padding: 5rem 15%;
+    background: #DAF6F5; 
+    h1 {
+      margin-bottom: 1em;
+    }
+    h2 {
+      margin-bottom: 2em;
+    }
+    hr {
+      border: 1px solid $blue;
+    }
+    .reference_container {
+      p {
+        width: 50%;
+        float: left;
+        padding-bottom: 3em;
+      }
+    }
+  }
+}

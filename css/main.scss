@@ -1,0 +1,93 @@
+$blue: #443B76;
+$orange: #EB6054;
+
+@media (min-width: 768px){
+  h1 {
+  font-size: 50px;
+  color: $blue;
+  font-weight: 300;
+  }
+  h2 {
+    font-size: 36px;
+    font-weight: 300;
+    color: $blue;
+  }
+  h5 {
+    font-size: 25px;
+    font-weight: 300;
+    color: $blue;
+  }
+  p {
+    font-size: 18px;
+    font-weight: 300;
+    color: $blue;
+  }
+  .p14 {
+    font-size: 14px;
+  }
+}
+
+/* For mobile phones: */ 
+@import "home";
+@import "homeweb";
+@import "header";
+@import "footer";
+@import "about";
+@import "aboutweb";
+@import "science";
+@import "scienceweb";
+@import "privacy";
+@import "privacyweb";
+@import "terms";
+@import "accessibility";
+@import "accessibilityweb";
+@import "contact";
+@import "contactweb";
+@import "termsweb";
+
+h1 {
+  font-size: 50px;
+  color: $blue;
+  font-weight: 300;
+}
+h2 {
+  font-size: 36px;
+  font-weight: 300;
+  color: $blue;
+}
+h5 {
+  font-size: 25px;
+  font-weight: 300;
+  color: $blue;
+}
+p {
+  font-size: 18px;
+  font-weight: 300;
+  color: $blue;
+}
+.p14 {
+  font-size: 14px;
+}
+.center_img {
+  text-align: center;
+}
+.blue-btn {
+  padding: 5px 2em;
+  background: #443B76;
+  border-radius: 50px;
+  color: white;
+  &:hover {
+    background: #6872E7;
+  }
+}
+    
+body {
+  @font-face {
+    font-family: 'Gibson' !important;
+    src: url(../fonts/Gibson-Light.otf) format('truetype') font-weight-lighter,
+         url(../fonts/Gibson-Regular.ttf) format('truetype') font-weight-normal,
+         url(../fonts/Gibson-RegularItalic.ttf) format('truetype') font-weight-italic,
+         url(../fonts/Gibson-bold.otf) format('truetype') font-weight-bold,
+         url(../fonts/Gibson-BoldItalic.ttf) format('truetype') font-italic font-weight-bold;
+  }
+}
