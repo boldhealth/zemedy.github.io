@@ -5,395 +5,882 @@ const PrivacyTemplate =
     <div class="termswrapper">
       <header-component></header-component>
       <div  class="microbiome-sec-web">
-        <img style="width: 3.3em;" src="img/Microbiome.svg">
-      </div>        
-      <section class="bg-section"> 
-        <div class="lg_infor">
-          <h2>Zemedy Legal Information</h2>
-        </div>
-      </section>
-      <section class="bg-section-web" >
-        <div class="lg_infor">
-          <h2>Private Policy</h2>    
-        </div>
-      </section>
-    <div class="app-main">
+  <img style="width: 3.3em;" src="img/Microbiome.svg">
+</div>        
+
+<section class="bg-section" >
+    
+<div class="lg_infor">
+
+    <h2>Zemedy Legal Information</h2>
+
+</div>
+</section>
+
+<section class="bg-section-web" >    
+    <div class="lg_infor">
+        <h2>Privacy Policy</h2>
+    </div>
+</section>
+
+<div class="app-main">
         
-    <div class="pri-policy" ><p><b>Private Policy</b></p></div>
-      <p>
-          This privacy policy applies between you, the User of this Website and Bold Health Limited,
-          the owner and provider of this Website. Bold Health Limited takes the privacy of your information very seriously.
-          This privacy policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website.
-      </p>
-      <p> This privacy policy should be read alongside, and in addition to, our Terms and Conditions, which can be found at:</p>
-      <p> <a class="links" href="www.bold.health/terms-of-use"></a> </p>  
-      <p>Please read this privacy policy carefully.</p>
-      <p> Definitions and interpretation </p> 
-      <p> 1.  In this privacy policy, the following definitions are used:</P>
-      <p> 
-        Data collectively all information that you submit to Bold Health Limited via the Website. 
-        his definition incorporates, where applicable, the definitions provided in the Data Protection Laws;
-      </p> 
-      <p> 
-          Cookies a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain
-          features of the Website. Details of the cookies used by this Website are set out in the clause below (Cookies); </p>
-      <p>
-          Data Protection Laws any applicable law relating to the processing of personal Data, including but not limited to the Directive 96/46/EC 
-          (Data Protection Directive) or the GDPR, and any national implementing laws, regulations and secondary legislation, for as long as the GDPR is effective in the UK; </p>
-      <p> GDPR the General Data Protection Regulation (EU) 2016/679; 
-          Bold Health Limited, or us Bold Health Limited, a company incorporated in England and Wales with registered number 11164150 whose registered office is at Queens Yard,
-          Unit 6, White Post Lane, London, England, , London, E9 5EN; UK and EU Cookie Law the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the 
-          Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011; 
-          User or you any third party that accesses the Website and is not either (i) employed by Bold Health Limited and acting in the course of their employment or
-          (ii) engaged as a consultant or otherwise providing services to Bold Health Limited and accessing the Website in connection with the provision of such services; 
-          and Website the website that you are currently using, www.bold.health, and any sub-domains of this site unless expressly excluded by their own terms and conditions. </p>
-      <p> this privacy policy, unless the context requires a different interpretation: </p>
-      <p>
-          the singular includes the plural and vice versa; references to sub-clauses,
-          clauses, schedules or appendices are to sub-clauses, clauses, schedules or appendices of this privacy policy;
-          a reference to a person includes firms, companies, government entities, trusts and partnerships; 
-          "including" is understood to mean "including without limitation"; 
-          reference to any statutory provision includes any modification or amendment of it; the headings and sub-headings do not
-          form part of this privacy policy. Scope of this privacy policy
-      </p>
-      <p> 
-          3. This privacy policy applies only to the actions of Bold Health Limited and Users with respect to this Website. It does     not extend
-          to any websites that can be accessed from this Website including, but not limited to, any links we may provide to social media websites.</p>
-<p> 
-    4. For purposes of the applicable Data Protection Laws, Bold Health Limited is the "data controller". 
-    This means that Bold Health Limited determines the purposes for which, and the manner in which, your Data is processed.</p>
-<p> 
-    Scope of this privacy policy</p>
+<div class="pri-policy" ><p><b>Private Policy</b></p></div>
+
 <p>
-    5. We may collect the following Data, which includes personal Data, from you:</p>
+<b>Last updated December 7th, 2019</b></p>
 <p> 
-    gender;</p> 
+<b> 
+    THIS POLICY DESCRIBES OUR POLICIES AND PROCEDURES FOR COLLECTION, USE, STORAGE, PROCESSING, DISCLOSURE AND PROTECTION OF ANY 
+    INFORMATION, INCLUDING, BUT NOT LIMITED TO, PERSONAL INFORMATION PROVIDED BY YOU AS A USER WHILE USING THE SERVICE. USER SHALL
+    MEAN ANY PERSON/ PERSONS, WHO VISITS, USES, DEALS WITH AND/ OR TRANSACTS THROUGH Zemedy APP (“Privacy Policy”).</b></p>
+
+
+
 <p>
-    contact Information such as email addresses and telephone numbers; demographic information such as postcode, preferences    and interests;
-    IP address (automatically collected); web browser type and version (automatically collected); operating system (automatically collected);
-    a list of URLs starting with a referring site, your activity on this Website, and the site you exit to (automatically collected); 
-    in each case, in accordance with this privacy policy.</p>
+    Thank you for choosing to be part of our community at Bold Health Limited (“company”, “we,'' “us”, or “our”). We are committed to 
+    protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our 
+    practices with regards to your personal information, please contact us at <a class="links" href="" >jossy@bold.health</a> .</p>
 <p> 
-    How we collect Data </p>
+    When you visit our mobile application, and use our services, you trust us with your personal information. We take your privacy very 
+    seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what 
+    information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it 
+    carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our 
+    Apps and our services. </p> 
+
 <p> 
-    6. We collect Data in the following ways:</p>
+    This privacy policy applies to all information collected through our mobile applications ("<b>Apps</b>"), and/or any related services, sales, 
+    marketing or events (we refer to them collectively in this Privacy policy as the " <b>Sites</b>").</P>
+<p> 
+<b>
+    Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.</b></p> 
+<p> 
+<b> 1. Definitions </b> </p>
+<p>
+<b> Personal Information</b> or personal data or personal identifiable information (PII) means information relating to an identified or identifiable 
+    natural person who can be directly or indirectly identified by reference to an identifier such as full name, identification numbers, location address, 
+    online identifier and other identifiers within the definitions of The Information Technology (Reasonable Security Practices and Procedures and Sensitive 
+    Personal Data or Information) Rules 2011 and General Data Protection Regulation (GDPR) (EU) 2016/679 regulation<p>
+
+<p> 
+    <b>Non-Personal Information </b> means any information that does not reveal Your specific identity either directly or indirectly. This includes information that is 
+    anonymized so that it does not allow easy identification of a specific individual. </P>
+    <p>
+    <b>Information</b> under this Privacy Policy means both Personal and Non-Personal Information.</P>
+<p> 
+    <b>A Cookie</b> is a small amount of data generated by a website and saved by your web browser. Cookies are used to store user preferences for a 
+    specific site. Use of cookies makes web-surfing easier. You may refuse to accept Cookies by activating the setting on Your browser which 
+    allows You to refuse the setting of Cookies.</P>
+<p> 
+    <b>Encryption</b> is the process of transforming information into unreadable text so that it is only eligible to those possessing an encryption key. 
+    The process of making encrypted information readable again is referred to as decryption.</P>
+<p> 
+    <b>Web Browser</b> is a software program that allows users to access, retrieve and view information on the World Wide Web. Examples of browsers include 
+    Internet Explorer, Firefox, Google Chrome and Safari.</P>
+<p>
+    <b> 2. What information do we collect and how do we use it?</b></p>
+
 <P>    
-    gender; </p> 
+    To provide You Our Service, Bold Health will collect, store and use the following Information provided by You: </P> 
+
 <p> 
-    data is given to us by you; data is received from other sources; and data is collected automatically. Data that is given to us by you </p>
-<p>
-    7. Bold Health Limited will collect your Data in a number of ways, for example:</p>
+<b> 1.  USER PROVIDED PERSONAL INFORMATION </b> </p>
 <p> 
-    when you contact us through the Website, by telephone, post, e-mail or through any other means; when you use our services; in each case, in accordance with this privacy policy.</p>
-<p>
-    Data that is received from third parties</p> 
+    
+    Zemedy does not collect Your Personal Information. Please do not share any Personal Information at any time in Your use of Our
+    Service such as while in conversation with the Zemedy App or when You contact Us with inquiries or send Us feedback. By voluntarily 
+    providing Us with Your Personal information, You are consenting to Our use of it in accordance with this Privacy Policy. If You provide 
+    Personal Information, You acknowledge and agree that such Personal Information may be transferred from Your current location to the
+    globally-located secure cloud servers of Our authorized third party data processor namely Amazon Web Services (AWS) or to Our own secure 
+    server locations.
+    </p>
+
 <p> 
-    7.  Bold Health Limited will receive Data about you from the following third parties:</p>
+<b>SET PIN FOR YOUR ZEMEDY APP</b></p>
 <p>
-    google analytics; Data that is collected automatically</p>
+    For Your privacy and security, You are advised to set your own Zemedy App PIN to protect unauthorized access of app usage data. You can extend Your 
+    mobile device screen password to include Zemedy App. To do so use "Enable passcode" feature under settings> security in the Zemedy App. You can also 
+    move Your PIN using the ‘toggle’ option under security. The PIN that You use is personal to You, and You are responsible for maintaining the 
+    confidentiality and security of Your PIN. You are further responsible for restricting access to Your mobile device to prevent unauthorized access 
+    to the Zemedy App. You agree to accept responsibility for all activities that occur under Your PIN. You should take all necessary steps to ensure that 
+    the PIN is kept confidential and secure and should inform Us immediately if You have any reason to believe that Your PIN has become known to anyone else, 
+    or if the PIN is being, or is likely to be, used in an unauthorized manner. 
+    The Data Protection Law sets out a number of different reasons for collecting and processing Your Personal Information. 
+    The lawful basis for processing all Your Personal Information is for the performance of this Agreement and as agreed by You.
+    </P>
 <p> 
-    8.  To the extent that you access the Website, we will collect your Data automatically,
-    for example: </p>
+    2.  USER PROVIDED NON-PERSONAL INFORMATION</p>
 <p>
-    we automatically collect some information about your visit to the Website. This information helps us to make improvements to Website content and navigation, and includes your IP address, the date, times and frequency with which you access the Website and the way you use and interact with its content. we will collect your Data automatically via cookies, in line with the cookie settings on your browser. For more information about cookies, and how we use them on the Website, see the section below, headed "Cookies".</P>
-<p> Our use of Data</p>
+    To provide You Our Service, Bold Health will collect, store and use the following non-personal Information provided by You:</p> 
+<p> 
+<b>1.  How do We handle Your conversation messages?</b></P>
+<p>
+    When You use the Service, all the conversation messages You have with the Zemedy App are private. You provide Your messages by way of 
+    choosing pre-formatted responses or by way of free-text. Each submitted message gets processed in real-time by the Zemedy App’s 
+    proprietary algorithms, and directed appropriately to subsequent context-based conversation based on a proprietary rule-based content 
+    management process. At no point during Your conversation with the Zemedy App does another natural person have access to, or gets to 
+    monitor or respond to Your messages. Your messages are not processed to send You unwanted content. Your submitted messages or app usage 
+    habits or Website browsing habits are not used to sell to advertisers. We do not ‘monetize’ the messages or the Information You submit 
+    to Us. The messages You send and receive are encrypted and stored securely.</p>
+<p> 
+    A limited set of Your conversation messages gets anonymized before being processed for internal operations and for research purposes. This i
+    to improve Your future experience when using Our Service. YOUR CONVERSATION IS NEVER SHARED WITH A THIRD PARTY WITHOUT YOUR EXPLICIT CONSENT. </P>
+    <p>
+    From time to time a new version of the Zemedy App is published in the Play Store or the App Store. ALWAYS CLOSE THE Zemedy APP VERSION IN 
+    YOUR MOBILE DEVICE BEFORE UPGRADING TO A NEWER VERSION TO PREVENT LOSS OF ONGOING OR PREVIOUS CONVERSATIONS.</P>
+
 
 <p>
-    9. Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website. Specifically, Data may be used by us for the following reasons:</p>
+<b>2.  Do We need to know Your full name?</b></P>
 
 <p>
-    internal record keeping; improvement of our products / services; in each case, in accordance with this privacy policy.</p>
+    When You use the Service, We will not ask for and will not require Your full name at any point of time during the conversation. After signing up, 
+    We take You through a one time on-boarding process. Here We ask for only Your <u> nickname/name</u> to help personalize Our conversation with You. Please 
+    do not share Your full name to maintain complete anonymity. You can change the nickname once provided to the Zemedy App by going to 
+    Settings > Account.</P>
 
 <p>
-    10.We may use your Data for the above purposes if we deem it necessary to do so for our legitimate interests. If you are not satisfied with this, you have the right to object in certain circumstances (see the section headed "Your rights" below). </p>
-<p>Who we share Data with</p> 
+<b>3.  Why do We ask about Your thoughts, feelings (emotions), mood, major event or life changes, goals and energy levels?</b></p> 
 
 <p>
-    11. We may share your Data with the following groups of people for the following reasons: any of our group companies or affiliates - _______________; our employees, agents and/or professional advisors - _______________; in each case, in accordance with this privacy policy.</p> 
-        
-<p>
-    Keeping Data secure</p>
+    When You use the Service, We may periodically ask You about Your thoughts, feelings or emotions, mood, major event / changes in life, Your resilience goals and Your energy levels. 
+    Your response is processed by Zemedy solely to provide You access to tools and techniques to manage Your emotional wellness and to encourage You in building resilience.
+    Your Information is encrypted during transmission and is securely stored. YOUR INFORMATION IS NEVER SHARED WITH A THIRD PARTY WITHOUT YOUR EXPLICIT CONSENT.
+    </p>
 <p> 
-    13. We will use technical and organisational measures to safeguard your Data, for example: access to your account is controlled by a password and a user name that is unique to you. we store your Data on secure servers. </p>
+<b>4.  How do we handle Your responses to health related questions? </b></P>
+
 
 <p>
-    14. We are certified to GDPR. This family of standards helps us manage your Data and keep it secure.</p>
+    When You use the Service, You will be asked to respond to health related questions. Response is voluntary and You can opt to not report to any of these questions. 
+    Zemedy App currently uses five validated assessment scales for understanding your IBS severity, quality of life and well-being. Other assessment scales may be introduced in the future.
+    You will also be asked to share how You cope with day to day activities as part of the health questions. Health related questions are a proven way to baseline and track the progress of 
+    Your symptoms. Your response is used solely for the purpose of providing you with feedback on your symptoms progression and to provide You access to validated and curated tools and techniques to manage your IBS
+    Your response is encrypted during transmission and is securely stored. YOUR INFORMATION IS NEVER SHARED WITH A THIRD PARTY WITHOUT YOUR EXPLICIT CONSENT. 
+    </p>
 <p>
-    15. Technical and organisational measures include measures to deal with any suspected data breach. If you suspect any misuse or loss or unauthorised access to your Data, please let us know immediately by contacting us via this e-mail address: hello@bold.health.</p>
+<b>  2.  AUTOMATICALLY COLLECTED NON-PERSONAL INFORMATION</b></p>
 <p> 
-    16. If you want detailed information from Get Safe Online on how to protect your information and your computers and devices against fraud, identity theft, viruses and many other online problems, please visit www.getsafeonline.org. Get Safe Online is supported by HM Government and leading businesses. </p>
-<p>Data retention</p> 
+     To provide You Our Service, Zemedy App will automatically collect, store and use the following non-personal Information:</p> 
 <p>
-    17. Unless a longer retention period is required or permitted by law, we will only hold your Data on our systems for the period necessary to fulfil the purposes outlined in this privacy policy or until you request that the Data be deleted.</p>
+<b>  1.  Why do We collect Device Information and access logs when You use Our Service?</b> </p>
 <p>
-    18. Even if we delete your Data, it may persist on backup or archival media for legal, tax or regulatory purposes. Your rights </p>
+    When You use the Service, We may also collect Non-Personal Information through the use of commonly-used information-gathering tools such as cookies, 
+    log files and web beacons. Such information may include standard information collected from Your mobile device (such as mobile application identifier, 
+    operating system, OS version, time zone, manufacturer, model and brand name) or from Our Website (such as browser type, browser language, Operating System, 
+    browser information including type and language settings) along with the actions You take on Our Website (such as the web pages viewed and the links clicked).
+    We use this information to detect and deter unauthorized or fraudulent use of or abuse of the Service, and to optimize Your experience for e.g. to make sure the 
+    Zemedy App is displayed correctly on Your phone, or Your usage settings are applied.
+    </p> 
 <p>
-    19. You have the following rights in relation to your Data:</p> 
+<b>  2.  Do We collect Passive Sensing Information from Your mobile device</b><p>
 <p>
-    Right to access - the right to request (i) copies of the information we hold about you at any time, or (ii) that we modify, update or delete such information. If we provide you with access to the information we hold about you, we will not charge you for this, unless your request is "manifestly unfounded or excessive." Where we are legally permitted to do so, we may refuse your request. If we refuse your request, we will tell you the reasons why. Right to correct - the right to have your Data rectified if it is inaccurate or incomplete. Right to erase - the right to request that we delete or remove your Data from our systems. Right to restrict our use of your Data - the right to "block" us from using your Data or limit the way in which we can use it. Right to data portability - the right to request that we move, copy or transfer your Data. Right to object - the right to object to our use of your Data including where we use it for our legitimate interests. To make enquiries, exercise any of your rights set out above, or withdraw your consent to the processing of your Data (where consent is our legal basis for processing your Data), please contact us via this e-mail address: hello@bold.health. If you are not satisfied with the way a complaint you make in relation to your Data is handled by us, you may be able to refer your complaint to the relevant data protection authority. For the UK, this is the Information Commissioner's Office (ICO). The ICO's contact details can be found on their website at https://ico.org.uk/. It is important that the Data we hold about you is accurate and current. Please keep us informed if your Data changes during the period for which we hold it. Links to other websites This Website may, from time to time, provide links to other websites. We have no control over such websites and are not responsible for the content of these websites. This privacy policy does not extend to your use of such websites. You are advised to read the privacy policy or statement of other websites prior to using them. Changes of business ownership and control<p>
-<p>
-    24. Bold Health Limited may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of Bold Health Limited. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this privacy policy, be permitted to use the Data for the purposes for which it was originally supplied to us.</p>
-<p>
-    25. We may also disclose Data to a prospective purchaser of our business or any part of it. </p>
+    When You use the Service, the Zemedy App<b> <u> does not </u></b> passively collect nor process any information from Your mobile device sensors, such as accelerometer, 
+    ambient light readings and screen on/off readings, including location (GPS) and call logs. </P>
 
-<p>26. In the above instances, we will take steps with the aim of ensuring your privacy is protected. </p>
+<p>  <b>3.  How do We use any Third Party Software?</b> </P>
 <p>
-    Cookies</p>
+    When You use the Service, non-personal device and app event information is pushed to third-party analytics software such as Firebase and 
+    Facebook Analytics via their secure API integrated within the Zemedy App. The events do not provide any individual user-specific information 
+    and are aggregated by this third-party software across all users and used to present charts, graphs and reports to help Us understand and improve Our 
+    Services. The events collected by the apps include session based events; feedback and rating events; pin management events; tool access event; setting 
+    changes events; connectivity or network events; health related question response events; notification access events; and app login event.
+    Apart from the app-pushed events, the third party software APIs also automatically collect some non-personal events. Firebase automatically collected 
+    events can be found here. Facebook Analytics automatically collected events can be found here.
+    </p>
 <p> 
-    27. This Website may place and access certain Cookies on your computer. Bold Health Limited uses Cookies to improve your experience of using the Website. 
-    old Health Limited has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.</p>
-<p> 
-    28. All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.</p>
-<p> 
-    29. Before the Website places Cookies on your computer, you will be presented with a message bar requesting your consent to set those Cookies.
-    By giving your consent to the placing of Cookies, you are enabling Bold Health Limited to provide a better experience and service to you.
-    You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended. </p>
-<p>
-    30. This Website may place the following Cookies:</p>
-<p> 
-    Type of Cookie Purpose Analytical/performance cookies They allow us to recognise and count the number of visitors and to see how visitors
-    move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding
-    what they are looking for easily.</p>
-<p>
-    31. You can find a list of Cookies that we use in the Cookies Schedule.</p> 
-<p>
-    32. You can choose to enable or disable Cookies
-    in your internet browser. By default, most internet browsers accept Cookies but this can be changed. For further details,
-    please consult the help menu in your internet browser.</p>
-<p>
-    33. You can choose to delete Cookies at any time; however you may 
-    lose any information that enables you to access the Website more quickly and efficiently including, but not limited to,
-    personalisation settings.</p> 
-<p> 
-    34. It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by
-    the developer of your internet browser if you are unsure about adjusting your privacy settings.</p>
-<p> 35. For more information generally on
+    The use of Firebase is governed by Firebase Terms of Service, Use Policy and Crashlytics Terms of Service. The use of Facebook Analytics is governed by Facebook Data Policy and Terms of Service.
 
-    cookies, including how to disable them, please refer to aboutcookies.org. You will also find details on how to delete cookies from your computer.</p>
-<p> General</p>
+</p>
+
+<p>    <b>3.  OTHER OPTIONAL INFORMATION</b></p>
 <p> 
-    36. You may not transfer any of your rights under this privacy policy to any other person. We may transfer our rights under
-    this privacy policy where we reasonably believe your rights will not be affected. </p>
+    To improve Your experience, We provide optional features in the Zemedy App. If You choose to use such features, We may ask You for additional Information:</p> 
+<p>
+<b>1.  OPTIONAL: Your feedback and ratings</b></p>
+<p>
+    When You use the Service, We ask You for Your feedback and Your rating of Zemedy App. You can also provide feedback using the Feedback feature 
+    provided in the Zemedy App “settings” section. You can use this feature to email Us Your feedback. This feedback and rating is used by Us to improve 
+    the product and Your product experience.
+    AS A BEST PRACTICE, IT IS ADVISED THAT YOU TAKE ADEQUATE PRECAUTIONS TO NOT SHARE YOUR HEALTH OR PERSONAL INFORMATION WHILE GIVING FEEDBACK 
+    OVER EMAIL NETWORKS
+    </P> 
 <p> 
-    37. If any court or competent authority 
-    finds that any provision of this privacy policy (or part of any provision) is invalid, illegal or unenforceable, that provision or part-provision will, to the extent required, 
-    be deemed to be deleted, and the validity and enforceability of the other provisions of this privacy policy will not be affected. </p>
+<b> 2.  OPTIONAL: Manage Notifications or reminders</b></p>
+<p> 
+
+    When You use the Service, You have the option to manage app-based notifications or reminders. The Zemedy App will ask Your preference for 
+    the time of day to receive notifications and will confirm Your local time to ensure reminders get sent as per Your preference. You can 
+    change or delete notifications at any time from settings > notification of Your Zemedy App. WE DO NOT SEND ANY MARKETING OR PROMOTIONAL 
+    NOTIFICATIONS TO YOU WITHOUT YOUR EXPLICIT PERMISSION.</p>
+<p> 
+<b>3.  OPTIONAL: Your Age Information</b> </p>
+<p> 
+    When You use the Service, You have the option to provide Your age information in the form of an age number (not date of birth This information 
+    is processed by the Zemedy App to understand the age profile of Our users and to help provide them access to tools and techniques or provide other 
+    operational information relevant to their age range.
+    WE DO NOT ASK, COLLECT OR PROCESS YOUR SPECIFIC DATE OF BIRTH AT ANY TIME DURING YOUR USE OF THE SERVICE.
+    </p>
 <p>  
-    38. Unless otherwise agreed, no delay, act or omission by a party in exercising any right or remedy will be deemed a waiver of that, or any other, 
-    right or remedy.</p>
+<b>4.  OPTIONAL: Location Information</b></p>
 <p> 
-    39. This Agreement will be governed by and interpreted according to the law of England and Wales. All disputes arising under 
-    the Agreement will be subject to the exclusive jurisdiction of the English and Welsh courts. Changes to this privacy policy</p>
-    
-<p> 
-    40. Bold Health Limited reserves the right to change this privacy policy as we may deem necessary from time to time or as may be
-    required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the privacy policy 
-    on your first use of the Website following the alterations. You may contact Bold Health Limited by email at hello@bold.health. Attribution</p>
-<p> 
-    41. This privacy policy was created using a document from Rocket Lawyer  <a class="links" href=""><b> https://www.rocketlawyer.co.uk.</b></a></p>
-<p> 
-    07 December 2018</p>
-    <p>Cookies</p>
-    <p> 
-        Below is a list of the cookies that we use. We have tried to ensure this is complete and up to date, but if you think that we have missed a cookie or there is 
-        any discrepancy, please let us know. Analytical/performance We use the following analytical/performance cookies: Description of Cookie Purpose Google 
-        Analytics We use this cookie to help us analyse how users use the website Description of Cookie Purpose Google Analytics We use this cookie to help us
-    analyse how users use the website</p>
+    To use the apps, You are not required to provide Your location information (“geolocation”). Zemedy App does not collect Your Geolocation 
+    information. We do however check Your device clock and collect Your date-time settings to help us offer a safe and improved experience.
+    If We collect or use Your geolocation data as an additional separate service, We will make sure that We provide notice and/or obtain Your 
+    consent. You can always turn off location sharing at any time using Your phone settings.
+    </p>
 
-    </div>
+<p> 
+<b>5.  OPTIONAL: Contact Information for customer support</b></p>
+<p>  
+    There may be occasions where You wish to contact Us to seek support. If You contact Us via Our website or by other means, 
+    We may need some Information from You, which You may choose to provide. This includes Your name, contact info such as your email 
+    address, phone number, as well as information about Your mobile device or personal computer such as device type, and OS type. We will 
+    use this Information to address and investigate the issues You have forwarded to Us, to provide You support and to improve Our customer 
+    support service.
+</p>
+<p> 
+<b>6.  OPTIONAL: Contact Information for promotional events and customer surveys</b>
+</P>
+<p> 
+    If You choose to participate in promotional events or surveys that Bold Health may offer from time to time, We may ask your contact 
+    details (e.g., name, location, phone number, email address, gender and date of birth) to administer the event, such as to confirm 
+    participation eligibility for the event, to enable You to fill out a questionnaire, to conduct to deliver the prizes to You. NO 
+    PROMOTIONAL EVENT NOTIFICATIONS WILL BE SENT WITHOUT YOUR EXPLICIT PERMISSION TO RECEIVE MARKETING NOTIFICATIONS.
+    Your survey submission will never be linked to Your Zemedy app account and hence Your Zemedy App conversations and activities will 
+    never identify You. Your submissions will reside in a secure and private storage area operated within the Zemedy G-suite account and 
+    managed by Google Forms (G-Suite security can be read here. The Zemedy G-Suite account is also protected by a two-factor secure 
+    authentication system. You can opt out at anytime by sending a request to hello@zemedy.com to delete Your personal Information or 
+    to discontinue receiving any further communication on this matter. On receipt of Your email, We will verify and remove only the 
+    specific identifiable Information as requested by You, within 72 hours of receiving the request. YOUR SUBMISSIONS WILL NEVER BE 
+    SHARED WITH A THIRD PARTY WITHOUT YOUR EXPLICIT CONSENT. 
+    </p>
 
-    </div>
-      <div class="app-main-web">
+<p>  
+<b> 7.  OPTIONAL: Follow on Instagram</b></p> 
+
+<p>   
+    You have the option to follow Us on Instagram using Your Instagram account by going to settings. You can set up an Instagram account, 
+    if you do not own one and follow us at<a href=""><b> @tryzemedy </b></a>. WE DO NOT ASSOCIATE YOUR INSTAGRAM ACCOUNT WITH YOUR Zemedy APP ACCOUNT.
+</p>
+
+<p>   <b>3. Other Important Information for You</b></p>
+
+<p>  To provide the Service, We may use Your Information based on Our legitimate interests for the following purposes. We Use legitimate interest basis 
+     to process Your Information in a way which might reasonably be expected as part of running Our business and which does not materially impact 
+     Your rights, freedom or interest.</p>
+
+<ol>
+    <li>  To detect and deter unauthorized or fraudulent use of or abuse of the Service;</li>
+
+    <li>  For transmission, use and disclosure to business associates or third party based on a business associate agreement. The business 
+            associate will not use or disclose personal information in any way that would violate the contract.</li>
+
+    <li>  For uses and disclosures required by law;</li>
+    <li>  For disclosures for judicial and administrative </li>
+    <li>   For disclosures for law enforcement purposes</li>
+    <li>    For uses and disclosures for public health reporting, and other public health activities;</li>
+    <li>   For uses and disclosures to avert a serious threat to health or safety to You, Us, or others;</li>
+    <li>   For using minimal de-identified data to improve and/or optimize the Service;</li>
+    <li>    To enable Us to provide customer support, and to respond effectively to Your inquiries and claims;</li>
+    <li>    For uses and disclosures for oversight activities such as audits, investigations, and inspections;</li>
+    <li>    For uses and disclosures for research purposes (subject to qualifications and exceptions);</li>
+    <li>    For any direct marketing purposes;</li>
+    <li>    To allow You to use the apps on multiple devices and transfer Your app account to another device;</li>
+
+
+</ol>  
+<p>    2.  By using the Service, You hereby agree to the use of Your Information for the above mentioned purposes.</p>      
+<p><b> 3.  How does Bold Health protect Your information?</b></p>
+
+<p> To fulfil Our commitment to respecting and protecting Your privacy and the confidentiality of Your Personal Information, Bold health has implemented industry-standard 
+    safeguards to prevent unauthorized access or disclosure, misuse, alteration or destruction of Your information. More specifically, We will comply with all applicable data 
+    protection and security laws in order to assure security, availability, processing integrity, confidentiality and privacy of data. All Information between the Zemedy App and server is encrypted and transmitted via SSL. 
+    Because no method of electronic transmission or method of data storage is perfect or impenetrable, We cannot guarantee that Your Information will be absolutely safe from intrusion during transmission or while stored in Our systems. 
+    To help protect Your privacy and confidentiality of Your Information, We also need to ask for Your cooperation regarding the following: Please do not copy and transmit Your chat conversations, health data and/or Personal Information with other people. Also, please notify at the contact information provided at the end of this policy, in the event You suspect any unauthorized use of Your account or any other breach of security via Our contact information.
+    </p>
+<p>   <b>4.  Where is Your Information transmitted and stored?</b></p>
+
+<p> To provide the Service in a reliable and responsible manner, Bold Health processes and stores Your Information on secure servers which may be physically 
+    located in different countries around the world, including countries outside the United Kingdom.
+    By continuing to use the Service, You agree that your Information may be internationally transferred and that Bold Health can process 
+    and store Your Information in a country other than where You submitted it.
+    </p>
+
+<p>    <b>Jurisdiction and Cross Border Transfer of Information</b></p>
+<p> Our Services are global and Your information (including any voluntarily provided Personal Information) may be stored and processed in 
+    any country where We have operations or where We engage with partner/s, and We may transfer information to countries outside of Your 
+    country of residence, to countries which may have Data Protection Law that are different from those of Your country. However, We will take 
+    adequate safeguards and steps reasonably necessary to ensure that any such transfers protect Your privacy, fundamental rights and freedoms, 
+    the exercise of Your rights, in accordance with this Privacy Policy and in compliance with
+    Data Protection Law. </p>
+
+<p>   <b>5.  How long does Bold Health keep Your Information?</b></p>
+<p> Bold Health retains any Information You provide or automatically collected while Your account is in existence, for the length of time 
+    needed to fulfil any of the applicable purposes of use described in this Privacy Policy, or to comply with applicable Data Protection Law.
+    We may retain Your Information even after Your account is closed if retention is reasonably necessary. These could be in situations 
+    where We need to comply with applicable Data Protection Law, regulations or legal obligations, provide and complete customer support 
+    service, resolve disputes between or with Bold Health users, or to detect and deter unauthorized or fraudulent use of or abuse of the 
+    Service.
+    </p>
+<p>   <b>6.  Does Bold health use outside service providers or agents?</b></p>
+
+<p> To facilitate and provide You with the Service, it sometimes is necessary for Bold Health to request third party partner service 
+    providers or agents to help Us process and/or store your Information. We strictly evaluate the partner service providers and agents, and 
+    We make every effort to ensure that they have established appropriate and secure information administration and organizational control 
+    systems, and We strictly require that they comply with confidentiality obligations and applicable laws and regulations including Data 
+    Protection Law as relevant. We also require that they access Your Information only to the extent necessary to perform tasks on Our behalf.</p>
+
+<p>    <b>7.  Does Bold Health give Your Information to third parties?</b></p>
+
+<p>     
+    Other than as described in this Privacy Policy and, where relevant, other applicable privacy policies or addendums, Bold Health will never 
+    provide Your Information to any third parties without Your explicit consent, unless We believe in good faith that We are required or 
+    permitted to do so under applicable contracts and laws, or to protect and defend Bold Health’s rights and/or property.
+    We may be involved in the transaction of a merger, acquisition, sale of assets, business reorganization, bankruptcy etc. During such a 
+    process, We may sell, transfer or otherwise share some or all of Our assets which may include Your Information. However, in such an event 
+    of sale or transfer, We shall reasonably ensure that Your Information collected and stored by the Us is stored and used by the transferee 
+    in a manner that is consistent with this Privacy Policy. Any such third party to whom We transfer or sell shall have the right to continue 
+    to use the Information that You provide to Us or collected by Us immediately prior to such transfer or sale. On completion of the sale or 
+    transfer, the privacy policy of the third party shall apply with respect to Your Information. To stay updated about such business 
+    transactions, please read this Privacy Policy from time to time.
+    </p>
+
+<p>    <b>8.  Does Bold Health use third-party modules?</b></p>
+<p> 
+    Bold health uses third party advertising agencies to place advertisements on the internet or in other media. To measure the effectiveness of 
+    the advertisements to determine how much to pay to the advertising agencies, We may install third-party modules within the Zemedy app. 
+    We may also install other third-party modules within the Zemedy App in order to deliver the Service and help Us understand how the Service 
+    is used.</p>
+<p>    <b>9.  What are Your data protection rights?</b></p>
+
+<p> 
+    You have certain rights under the Data Protection Law in relation to the Personal Information that You share with Us. We have tried to make it as easy as
+    possible for You to have control over Your Personal Information. To exercise any of Your rights, please email a request at the contact Information 
+    provided in this policy. Please note that We will require You to verify Your identity before responding to any requests to exercise Your rights. We 
+    may also limit Your individual rights requests (a) where denial of access is required or authorized by law; (b) when granting access would have a 
+    negative impact on other's privacy; (c) to protect our rights and properties; or (d) where the request is unjustified or excessive.
+    If You have provided and We process Your Personal Information based on this contract, You can always send Us a written email request at the 
+    contact Information provided in this policy at any time to check, rectify, erase, or restrict processing of Your Personal Information. 
+    Upon verification of Your identity, We will respond to Your request within one month and in accordance with relevant Data Protection Law. 
+    Bold Health will provide You with a request form that You will need to fill and submit back to Us via email. We will verify and erase only the 
+    specific identifiable Information as requested by You, within 72 hours of receiving the filled request form.
+    You have the right to object to the processing of Your Personal Information that is based on legitimate interests for the purposes explicitly 
+    mentioned in this policy by sending Us a written email request at the contact Information provided in this policy. 
+    You have the right of data portability to receive digital copy of Your Personal Information in a machine readable format. You can send Us a 
+    written email request at the contact Information provided in this policy. Upon verification of Your identity, We will respond to Your request 
+    within one month and in accordance with relevant Data Protection Law. We may charge You a small fee for this service. We do not ask any Personal 
+    Information during Your use of Service. We may at times be unable to address Your request, if We are unable to correctly identify You.
+    </p>
     
-        <p>
-            This privacy policy applies between you, the User of this Website and Bold Health Limited,
-            the owner and provider of this Website. Bold Health Limited takes the privacy of your information very seriously.
-            This privacy policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website.</p>
-        <p> 
-            This privacy policy should be read alongside, and in addition to, our Terms and Conditions, which can be found at:</p>
-        
-        
-            <p>  <a href="">www.bold.health/terms-of-use.</a> </p>
-        <p>
-        Please read this privacy policy carefully.</p>
-        <p> 
-            Definitions and interpretation </p> 
-        
-        <p> 
-            1.  In this privacy policy, the following definitions are used:</P>
-        <p> 
-            Data collectively all information that you submit to Bold Health Limited via the Website. 
-            his definition incorporates, where applicable, the definitions provided in the Data Protection Laws;</p> 
-        <p> 
-            Cookies a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain
-            features of the Website. Details of the cookies used by this Website are set out in the clause below (Cookies); </p>
-        <p>
-            Data Protection Laws any applicable law relating to the processing of personal Data, including but not limited to the Directive 96/46/EC 
-            (Data Protection Directive) or the GDPR, and any national implementing laws, regulations and secondary legislation, for as long as the GDPR is effective in the UK; </p>
-            <p>GDPR the General Data Protection Regulation (EU) 2016/679; 
-            Bold Health Limited, or us Bold Health Limited, a company incorporated in England and Wales with registered number 11164150 whose registered office is at Queens Yard,
-            Unit 6, White Post Lane, London, England, , London, E9 5EN; UK and EU Cookie Law the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the 
-            Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011; 
-            User or you any third party that accesses the Website and is not either (i) employed by Bold Health Limited and acting in the course of their employment or
-            (ii) engaged as a consultant or otherwise providing services to Bold Health Limited and accessing the Website in connection with the provision of such services; 
-            and Website the website that you are currently using, www.bold.health, and any sub-domains of this site unless expressly excluded by their own terms and conditions. <p>
+    <p>PLEASE NOTE:</p>
+    <ol>
+        <li>IF YOU HAVE UNINSTALLED THE ZEMEY APP PRIOR TO MAKING A REQUEST FOR ACCESS, THEN WE WILL BE UNABLE TO PROVIDE YOU ACCESS TO YOUR 
+            CONVERSATION MESSAGES.</li>
+    </ol>
+
+<p>   10.  If You are not happy about any aspect of the way We collect, share or Use Your Personal Information, please let Us know at the contact 
+      Information provided in this policy. You have the right to complain to a Data Protection supervisory authority in Your state of residence. </p>
+
+<p>     <b>4. Security</b></p>
+
+<p>   We do our very best to protect ToC BV and the App from unauthorized access, disclosure or destruction of data held by us. We do this through the 
+      following protective measures:</p>
+
+<ul>
+    <li>All personal information is stored in a separate, extra secure, server that is accessible by you as a user only. So we can assure a very 
+        high level of privacy for your personal data.</li>
+        <li>Data on your device is secured by encryption, only if you have created an account.</li>
+        <li>Your data is transferred from your device to our server using HTTPS and TLS for encryption. This means that all information that 
+             is sent remains confidential and is not legible by third parties.</li>
+        <li>Our web development provider is in compliance with ISO 27001. The ISO 27001 standard sets specific requirements for the security 
+            measures and prescribes how safety risks should be assessed and dealt with.</li>
+        <li>Our hosting provider is in compliance with ISO 27001, ISO 9001, NEN 7510 and has prepared ISAE 3402 type 
+            I and II reports. All standards have the aim to secure your data.</li>
+</ul>
         <p>  
-            2.  In this privacy policy, unless the context requires a different interpretation: </P>
+        <b> 5. DO WE COLLECT INFORMATION FROM MINORS?</b> 
+        </p>
+
         <p>
-            the singular includes the plural and vice versa; references to sub-clauses,
-            clauses, schedules or appendices are to sub-clauses, clauses, schedules or appendices of this privacy policy;
-            a reference to a person includes firms, companies, government entities, trusts and partnerships; 
-            "including" is understood to mean "including without limitation"; 
-            reference to any statutory provision includes any modification or amendment of it; the headings and sub-headings do not
-            form part of this privacy policy. Scope of this privacy policy</P>
-        <p> 
-            3. This privacy policy applies only to the actions of Bold Health Limited and Users with respect to this Website. It does     not extend
-            to any websites that can be accessed from this Website including, but not limited to, any links we may provide to social media websites.</P>
-        <p> 
-            4. For purposes of the applicable Data Protection Laws, Bold Health Limited is the "data controller". 
-            This means that Bold Health Limited determines the purposes for which, and the manner in which, your Data is processed.</P>
-        <p> 
-            Scope of this privacy policy</P>
-        <p>
-            5. We may collect the following Data, which includes personal Data, from you:</P>
-        <p> 
-            gender;</p> 
-        <p>
-            contact Information such as email addresses and telephone numbers; demographic information such as postcode, preferences    and interests;
-            IP address (automatically collected); web browser type and version (automatically collected); operating system (automatically collected);
-            a list of URLs starting with a referring site, your activity on this Website, and the site you exit to (automatically collected); 
-            in each case, in accordance with this privacy policy.</P>
-        <p> 
-            How we collect Data </P>
-        <p> 
-            6. We collect Data in the following ways:</P>
-        <P>    
-            gender; </P> 
-        <p> 
-            data is given to us by you; data is received from other sources; and data is collected automatically. Data that is given to us by you </p>
-        <p>
-            7. Bold Health Limited will collect your Data in a number of ways, for example:</P>
-        <p> 
-            when you contact us through the Website, by telephone, post, e-mail or through any other means; when you use our services; in each case, in accordance with this privacy policy.</p>
-        <p>
-            Data that is received from third parties</p> 
-        <p> 
-            7.  Bold Health Limited will receive Data about you from the following third parties:</P>
-        <p>
-            google analytics; Data that is collected automatically</p>
-        <p> 
-            8.  To the extent that you access the Website, we will collect your Data automatically,
-            for example: </P>
-        <p>
-            we automatically collect some information about your visit to the Website. This information helps us to make improvements to Website content and navigation, and includes your IP address, the date, times and frequency with which you access the Website and the way you use and interact with its content. we will collect your Data automatically via cookies, in line with the cookie settings on your browser. For more information about cookies, and how we use them on the Website, see the section below, headed "Cookies".</P>
-        <p> Our use of Data</P>
-        
-        <p>
-            9. Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website. Specifically, Data may be used by us for the following reasons:</P>
-        
-        <p>
-            internal record keeping; improvement of our products / services; in each case, in accordance with this privacy policy.</P>
-        
-        <p>
-            10.We may use your Data for the above purposes if we deem it necessary to do so for our legitimate interests. If you are not satisfied with this, you have the right to object in certain circumstances (see the section headed "Your rights" below). </P>
-        <p>Who we share Data with</p>
-        
-        <p>
-            11. We may share your Data with the following groups of people for the following reasons: any of our group companies or affiliates - _______________; our employees, agents and/or professional advisors - _______________; in each case, in accordance with this privacy policy.</P> 
-                
-        <p>
-            Keeping Data secure</p>
-        <p> 
-            13. We will use technical and organisational measures to safeguard your Data, for example: access to your account is controlled by a password and a user name that is unique to you. we store your Data on secure servers. </P>
-        
-        <p>
-            14. We are certified to GDPR. This family of standards helps us manage your Data and keep it secure.</p>
-        <p>
-            15. Technical and organisational measures include measures to deal with any suspected data breach. If you suspect any misuse or loss or unauthorised access to your Data, please let us know immediately by contacting us via this e-mail address: hello@bold.health.</p>
-        <p> 
-            16. If you want detailed information from Get Safe Online on how to protect your information and your computers and devices against fraud, identity theft, viruses and many other online problems, please visit www.getsafeonline.org. Get Safe Online is supported by HM Government and leading businesses. </p>
-        <p>Data retention</p> 
-        <p>
-            17. Unless a longer retention period is required or permitted by law, we will only hold your Data on our systems for the period necessary to fulfil the purposes outlined in this privacy policy or until you request that the Data be deleted.</p>
-        <p>
-            18. Even if we delete your Data, it may persist on backup or archival media for legal, tax or regulatory purposes. Your rights </p>
-        <p>
-            19. You have the following rights in relation to your Data:</p> 
-        <p>
-            Right to access - the right to request (i) copies of the information we hold about you at any time, or (ii) that we modify, update or delete such information. If we provide you with access to the information we hold about you, we will not charge you for this, unless your request is "manifestly unfounded or excessive." Where we are legally permitted to do so, we may refuse your request. If we refuse your request, we will tell you the reasons why. Right to correct - the right to have your Data rectified if it is inaccurate or incomplete. Right to erase - the right to request that we delete or remove your Data from our systems. Right to restrict our use of your Data - the right to "block" us from using your Data or limit the way in which we can use it. Right to data portability - the right to request that we move, copy or transfer your Data. Right to object - the right to object to our use of your Data including where we use it for our legitimate interests. To make enquiries, exercise any of your rights set out above, or withdraw your consent to the processing of your Data (where consent is our legal basis for processing your Data), please contact us via this e-mail address: hello@bold.health. If you are not satisfied with the way a complaint you make in relation to your Data is handled by us, you may be able to refer your complaint to the relevant data protection authority. For the UK, this is the Information Commissioner's Office (ICO). The ICO's contact details can be found on their website at https://ico.org.uk/. It is important that the Data we hold about you is accurate and current. Please keep us informed if your Data changes during the period for which we hold it. Links to other websites This Website may, from time to time, provide links to other websites. We have no control over such websites and are not responsible for the content of these websites. This privacy policy does not extend to your use of such websites. You are advised to read the privacy policy or statement of other websites prior to using them. Changes of business ownership and control<p>
-        <p>
-            24. Bold Health Limited may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of Bold Health Limited. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this privacy policy, be permitted to use the Data for the purposes for which it was originally supplied to us.</P>
-        <p>
-            25. We may also disclose Data to a prospective purchaser of our business or any part of it. </P>
-        
-        <p>26. In the above instances, we will take steps with the aim of ensuring your privacy is protected. </P>
-        <p>
-            Cookies</p>
-        <p> 
-            27. This Website may place and access certain Cookies on your computer. Bold Health Limited uses Cookies to improve your experience of using the Website. 
-            old Health Limited has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.</P>
-        <p> 
-            28. All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.</p>
-        <p> 
-            29. Before the Website places Cookies on your computer, you will be presented with a message bar requesting your consent to set those Cookies.
-            By giving your consent to the placing of Cookies, you are enabling Bold Health Limited to provide a better experience and service to you.
-            You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended. 
-        <p>
-            30. This Website may place the following Cookies:</p>
-        <p> 
-            Type of Cookie Purpose Analytical/performance cookies They allow us to recognise and count the number of visitors and to see how visitors
-            move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding
-            what they are looking for easily.
-        <p>
-            31. You can find a list of Cookies that we use in the Cookies Schedule.</p> 
-        <p>
-            32. You can choose to enable or disable Cookies
-            in your internet browser. By default, most internet browsers accept Cookies but this can be changed. For further details,
-            please consult the help menu in your internet browser.</p>
-        <p>
-            33. You can choose to delete Cookies at any time; however you may 
-            lose any information that enables you to access the Website more quickly and efficiently including, but not limited to,
-            personalisation settings.</P> 
-        <p> 
-            34. It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by
-            the developer of your internet browser if you are unsure about adjusting your privacy settings.</p>
-        <p> 35. For more information generally on
-        
-            cookies, including how to disable them, please refer to aboutcookies.org. You will also find details on how to delete cookies from your computer.</p>
-        <p> General</p>
-        <p> 
-            36. You may not transfer any of your rights under this privacy policy to any other person. We may transfer our rights under
-            this privacy policy where we reasonably believe your rights will not be affected. </p>
-        <p> 
-            37. If any court or competent authority 
-            finds that any provision of this privacy policy (or part of any provision) is invalid, illegal or unenforceable, that provision or part-provision will, to the extent required, 
-            be deemed to be deleted, and the validity and enforceability of the other provisions of this privacy policy will not be affected. </p>
-        <p>  
-            38. Unless otherwise agreed, no delay, act or omission by a party in exercising any right or remedy will be deemed a waiver of that, or any other, 
-            right or remedy.</p>
-        <p> 
-            39. This Agreement will be governed by and interpreted according to the law of England and Wales. All disputes arising under 
-            the Agreement will be subject to the exclusive jurisdiction of the English and Welsh courts. Changes to this privacy policy</p>
+        <b>In Short:</b> We do not knowingly collect data from or market to children under 13 years of age.
+        </p>
+
+<p>
+        We do not knowingly solicit data from or market to children under 13 years of age. By using the Apps, you represent that you are at least 13 or that 
+        you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Apps. If we learn that personal 
+        information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures 
+        to promptly delete such data from our records. If you become aware of any data we have collected from children under age 13, please 
+        contact us at jossy@bold.health
+        </p>
+
+<p>
+        <b>6. DO WE MAKE UPDATES TO THIS POLICY?</b>
+        </p>
+
+<p>
+        <b>In Short:</b> Yes, we will update this policy as necessary to stay compliant with relevant laws.
+        We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the 
+        updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you 
+        either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy 
+        policy frequently to be informed of how we are protecting your information. 
+
+        </p>
+
+<p>
+        <b>7. HOW CAN YOU CONTACT US ABOUT THIS POLICY?</b>
+        </p>
+
+<p>
+        If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), Jossy Onwude, 
+        by email at <a href=""><b>jossy@bold.health</b></a> , or by post to:
+        </p>
+
+        <div> Bold Health Limited</div>
+        <div>Jossy Onwude</div>
+        <div>The Stables 28 Britannia Street</div>
+        <div>London, London WC1X </div>
+        <div>United Kingdom   </div>
+
+<p>
+        <b>8. Governing Law and Dispute Resolution</b>
+        </p>
+
+ <p class="cookies">
+        This Privacy Policy shall be governed by and construed in accordance with the laws of the United Kingdom. The courts in the United
+        Kingdom shall have exclusive jurisdiction in relation to any disputes arising out of or in connection with this Privacy Policy. 
+        Bold health is a company based in London. By browsing/using the Services, You hereby acknowledge that Bold Health is not responsible or 
+        able in any manner to comply with any local laws of Your territory except the United Kingdom.
             
-        <p> 
-            40. Bold Health Limited reserves the right to change this privacy policy as we may deem necessary from time to time or as may be
-            required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the privacy policy 
-            on your first use of the Website following the alterations. You may contact Bold Health Limited by email at hello@bold.health. Attribution</p>
-        <p> 
-            41. This privacy policy was created using a document from Rocket Lawyer  <a class="links" href=""><b> https://www.rocketlawyer.co.uk.</b></a>
-        <p> 
-            07 December 2018</p>
-        <p>Cookies</P>
-        <p class="cookies"> 
-            Below is a list of the cookies that we use. We have tried to ensure this is complete and up to date, but if you think that we have missed a cookie or there is 
-            any discrepancy, please let us know. Analytical/performance We use the following analytical/performance cookies: Description of Cookie Purpose Google 
-            Analytics We use this cookie to help us analyse how users use the website Description of Cookie Purpose Google Analytics We use this cookie to help us
-            analyse how users use the website</p>
-        
+        </p>
         </div>
+<div class="app-main-web">
+            
+<p>
+        <b> Last updated December 7th, 2019</b></p>
+<p> 
+        <b> 
+        THIS POLICY DESCRIBES OUR POLICIES AND PROCEDURES FOR COLLECTION, USE, STORAGE, PROCESSING, DISCLOSURE AND PROTECTION OF ANY 
+        INFORMATION, INCLUDING, BUT NOT LIMITED TO, PERSONAL INFORMATION PROVIDED BY YOU AS A USER WHILE USING THE SERVICE. USER SHALL
+        MEAN ANY PERSON/ PERSONS, WHO VISITS, USES, DEALS WITH AND/ OR TRANSACTS THROUGH Zemedy APP (“Privacy Policy”).</b></p>
+    
+<p>
+        Thank you for choosing to be part of our community at Bold Health Limited (“company”, “we,'' “us”, or “our”). We are committed to 
+        protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our 
+        practices with regards to your personal information, please contact us at <a class="links" href="" >jossy@bold.health</a> .</p>
+<p> 
+        When you visit our mobile application, and use our services, you trust us with your personal information. We take your privacy very 
+        seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what 
+        information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it 
+        carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our 
+        Apps and our services. </p> 
+
+<p> 
+        This privacy policy applies to all information collected through our mobile applications ("<b>Apps</b>"), and/or any related services, sales, 
+        marketing or events (we refer to them collectively in this Privacy policy as the " <b>Sites</b>").</P>
+    <p> 
+        <b>
+        Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.</b></p> 
+<p> 
+        <b> 1. Definitions </b> </p>
+<p>
+        <b> Personal Information</b> or personal data or personal identifiable information (PII) means information relating to an identified or identifiable 
+        natural person who can be directly or indirectly identified by reference to an identifier such as full name, identification numbers, location address, 
+        online identifier and other identifiers within the definitions of The Information Technology (Reasonable Security Practices and Procedures and Sensitive 
+        Personal Data or Information) Rules 2011 and General Data Protection Regulation (GDPR) (EU) 2016/679 regulation<p>
+
+<p> 
+        <b>Non-Personal Information </b> means any information that does not reveal Your specific identity either directly or indirectly. This includes information that is 
+        anonymized so that it does not allow easy identification of a specific individual. </P>
+<p>
+        <b>Information</b> under this Privacy Policy means both Personal and Non-Personal Information.</P>
+<p> 
+        <b>A Cookie</b> is a small amount of data generated by a website and saved by your web browser. Cookies are used to store user preferences for a 
+        specific site. Use of cookies makes web-surfing easier. You may refuse to accept Cookies by activating the setting on Your browser which 
+        allows You to refuse the setting of Cookies.</P>
+<p> 
+    <b> Encryption</b> is the process of transforming information into unreadable text so that it is only eligible to those possessing an encryption key. 
+        The process of making encrypted information readable again is referred to as decryption.</P>
+<p> 
+        <b>Web Browser</b> is a software program that allows users to access, retrieve and view information on the World Wide Web. Examples of browsers include 
+        Internet Explorer, Firefox, Google Chrome and Safari.</P>
+<p>
+        <b> 2. What information do we collect and how do we use it?</b></p>
+
+<P>    
+        To provide You Our Service, Bold Health will collect, store and use the following Information provided by You: </P> 
+    
+<p> 
+    <b> 1.  USER PROVIDED PERSONAL INFORMATION </b> </p>
+<p> 
+            
+        Zemedy does not collect Your Personal Information. Please do not share any Personal Information at any time in Your use of Our
+        Service such as while in conversation with the Zemedy App or when You contact Us with inquiries or send Us feedback. By voluntarily 
+        providing Us with Your Personal information, You are consenting to Our use of it in accordance with this Privacy Policy. If You provide 
+        Personal Information, You acknowledge and agree that such Personal Information may be transferred from Your current location to the
+        globally-located secure cloud servers of Our authorized third party data processor namely Amazon Web Services (AWS) or to Our own secure 
+        server locations.
+        </p>
+    
+<p> 
+        <b>SET PIN FOR YOUR ZEMEDY APP</b></p>
+<p>
+        For Your privacy and security, You are advised to set your own Zemedy App PIN to protect unauthorized access of app usage data. You can extend Your 
+        mobile device screen password to include Zemedy App. To do so use "Enable passcode" feature under settings> security in the Zemedy App. You can also 
+        move Your PIN using the ‘toggle’ option under security. The PIN that You use is personal to You, and You are responsible for maintaining the 
+        confidentiality and security of Your PIN. You are further responsible for restricting access to Your mobile device to prevent unauthorized access 
+        to the Zemedy App. You agree to accept responsibility for all activities that occur under Your PIN. You should take all necessary steps to ensure that 
+        the PIN is kept confidential and secure and should inform Us immediately if You have any reason to believe that Your PIN has become known to anyone else, 
+        or if the PIN is being, or is likely to be, used in an unauthorized manner. 
+        The Data Protection Law sets out a number of different reasons for collecting and processing Your Personal Information. 
+        The lawful basis for processing all Your Personal Information is for the performance of this Agreement and as agreed by You.
+            </P>
+
+<p> 
+        2.  USER PROVIDED NON-PERSONAL INFORMATION</p>
+<p>
+        To provide You Our Service, Bold Health will collect, store and use the following non-personal Information provided by You:</p> 
+<p> 
+        <b>1.  How do We handle Your conversation messages?</b></P>
+<p>
+        When You use the Service, all the conversation messages You have with the Zemedy App are private. You provide Your messages by way of 
+        choosing pre-formatted responses or by way of free-text. Each submitted message gets processed in real-time by the Zemedy App’s 
+        proprietary algorithms, and directed appropriately to subsequent context-based conversation based on a proprietary rule-based content 
+        management process. At no point during Your conversation with the Zemedy App does another natural person have access to, or gets to 
+        monitor or respond to Your messages. Your messages are not processed to send You unwanted content. Your submitted messages or app usage 
+        habits or Website browsing habits are not used to sell to advertisers. We do not ‘monetize’ the messages or the Information You submit 
+        to Us. The messages You send and receive are encrypted and stored securely.</p>
+<p> 
+        A limited set of Your conversation messages gets anonymized before being processed for internal operations and for research purposes. This i
+        to improve Your future experience when using Our Service. YOUR CONVERSATION IS NEVER SHARED WITH A THIRD PARTY WITHOUT YOUR EXPLICIT CONSENT. </P>
+<p>
+        From time to time a new version of the Zemedy App is published in the Play Store or the App Store. ALWAYS CLOSE THE Zemedy APP VERSION IN 
+        YOUR MOBILE DEVICE BEFORE UPGRADING TO A NEWER VERSION TO PREVENT LOSS OF ONGOING OR PREVIOUS CONVERSATIONS.</P>
+
+
+<p>
+    <b>2.  Do We need to know Your full name?</b></P>
+
+<p>
+        When You use the Service, We will not ask for and will not require Your full name at any point of time during the conversation. After signing up, 
+        We take You through a one time on-boarding process. Here We ask for only Your <u> nickname/name</u> to help personalize Our conversation with You. Please 
+        do not share Your full name to maintain complete anonymity. You can change the nickname once provided to the Zemedy App by going to 
+        Settings > Account.</P>
+
+<p>
+    <b>3.  Why do We ask about Your thoughts, feelings (emotions), mood, major event or life changes, goals and energy levels?</b></p> 
+
+<p>
+        When You use the Service, We may periodically ask You about Your thoughts, feelings or emotions, mood, major event / changes in life, Your resilience goals and Your energy levels. 
+        Your response is processed by Zemedy solely to provide You access to tools and techniques to manage Your emotional wellness and to encourage You in building resilience.
+        Your Information is encrypted during transmission and is securely stored. YOUR INFORMATION IS NEVER SHARED WITH A THIRD PARTY WITHOUT YOUR EXPLICIT CONSENT.
+        </p>
+<p> 
+        <b>4.  How do we handle Your responses to health related questions? </b></P>
+
+
+<p>
+        When You use the Service, You will be asked to respond to health related questions. Response is voluntary and You can opt to not report to any of these questions. 
+        Zemedy App currently uses five validated assessment scales for understanding your IBS severity, quality of life and well-being. Other assessment scales may be introduced in the future.
+        You will also be asked to share how You cope with day to day activities as part of the health questions. Health related questions are a proven way to baseline and track the progress of 
+        Your symptoms. Your response is used solely for the purpose of providing you with feedback on your symptoms progression and to provide You access to validated and curated tools and techniques to manage your IBS
+        Your response is encrypted during transmission and is securely stored. YOUR INFORMATION IS NEVER SHARED WITH A THIRD PARTY WITHOUT YOUR EXPLICIT CONSENT. 
+        </p>
+<p>
+        <b> 2.  AUTOMATICALLY COLLECTED NON-PERSONAL INFORMATION</b></p>
+<p> 
+        To provide You Our Service, Zemedy App will automatically collect, store and use the following non-personal Information:</p> 
+<p>
+        <b> 1.  Why do We collect Device Information and access logs when You use Our Service?</b> </p>
+<p>
+        When You use the Service, We may also collect Non-Personal Information through the use of commonly-used information-gathering tools such as cookies, 
+        log files and web beacons. Such information may include standard information collected from Your mobile device (such as mobile application identifier, 
+        operating system, OS version, time zone, manufacturer, model and brand name) or from Our Website (such as browser type, browser language, Operating System, 
+        browser information including type and language settings) along with the actions You take on Our Website (such as the web pages viewed and the links clicked).
+        We use this information to detect and deter unauthorized or fraudulent use of or abuse of the Service, and to optimize Your experience for e.g. to make sure the 
+        Zemedy App is displayed correctly on Your phone, or Your usage settings are applied.
+            </p> 
+<p>
+        <b>2.  Do We collect Passive Sensing Information from Your mobile device</b><p>
+<p>
+        When You use the Service, the Zemedy App<b> <u> does not </u></b> passively collect nor process any information from Your mobile device sensors, such as accelerometer, 
+        ambient light readings and screen on/off readings, including location (GPS) and call logs. </P>
+
+<p>  <b>3.  How do We use any Third Party Software?</b> </P>
+<p>
+        When You use the Service, non-personal device and app event information is pushed to third-party analytics software such as Firebase and 
+        Facebook Analytics via their secure API integrated within the Zemedy App. The events do not provide any individual user-specific information 
+        and are aggregated by this third-party software across all users and used to present charts, graphs and reports to help Us understand and improve Our 
+        Services. The events collected by the apps include session based events; feedback and rating events; pin management events; tool access event; setting 
+        changes events; connectivity or network events; health related question response events; notification access events; and app login event.
+        Apart from the app-pushed events, the third party software APIs also automatically collect some non-personal events. Firebase automatically collected 
+        events can be found here. Facebook Analytics automatically collected events can be found here.
+        </p>
+<p> 
+        The use of Firebase is governed by Firebase Terms of Service, Use Policy and Crashlytics Terms of Service. The use of Facebook Analytics is governed by Facebook Data Policy and Terms of Service.
+    
+    </p>
+
+<p>    <b> 3.  OTHER OPTIONAL INFORMATION</b></p>
+<p> 
+        To improve Your experience, We provide optional features in the Zemedy App. If You choose to use such features, We may ask You for additional Information:</p> 
+<p>
+    <b> 1.  OPTIONAL: Your feedback and ratings</b></p>
+<p>
+        When You use the Service, We ask You for Your feedback and Your rating of Zemedy App. You can also provide feedback using the Feedback feature 
+        provided in the Zemedy App “settings” section. You can use this feature to email Us Your feedback. This feedback and rating is used by Us to improve 
+        the product and Your product experience.
+        AS A BEST PRACTICE, IT IS ADVISED THAT YOU TAKE ADEQUATE PRECAUTIONS TO NOT SHARE YOUR HEALTH OR PERSONAL INFORMATION WHILE GIVING FEEDBACK 
+        OVER EMAIL NETWORKS
+        </P> 
+<p> 
+        <b> 2.  OPTIONAL: Manage Notifications or reminders</b></p>
+<p> 
+
+        When You use the Service, You have the option to manage app-based notifications or reminders. The Zemedy App will ask Your preference for 
+        the time of day to receive notifications and will confirm Your local time to ensure reminders get sent as per Your preference. You can 
+        change or delete notifications at any time from settings > notification of Your Zemedy App. WE DO NOT SEND ANY MARKETING OR PROMOTIONAL 
+        NOTIFICATIONS TO YOU WITHOUT YOUR EXPLICIT PERMISSION.</p>
+<p> 
+    <b> 3.  OPTIONAL: Your Age Information</b> </p>
+<p> 
+        When You use the Service, You have the option to provide Your age information in the form of an age number (not date of birth This information 
+        is processed by the Zemedy App to understand the age profile of Our users and to help provide them access to tools and techniques or provide other 
+        operational information relevant to their age range.
+        WE DO NOT ASK, COLLECT OR PROCESS YOUR SPECIFIC DATE OF BIRTH AT ANY TIME DURING YOUR USE OF THE SERVICE.
+        </p>
+<p>  
+        <b>4.  OPTIONAL: Location Information</b></p>
+<p> 
+        To use the apps, You are not required to provide Your location information (“geolocation”). Zemedy App does not collect Your Geolocation 
+        information. We do however check Your device clock and collect Your date-time settings to help us offer a safe and improved experience.
+        If We collect or use Your geolocation data as an additional separate service, We will make sure that We provide notice and/or obtain Your 
+        consent. You can always turn off location sharing at any time using Your phone settings.
+        </p>
+    
+<p> 
+        <b>5.  OPTIONAL: Contact Information for customer support</b></p>
+<p>  
+        There may be occasions where You wish to contact Us to seek support. If You contact Us via Our website or by other means, 
+        We may need some Information from You, which You may choose to provide. This includes Your name, contact info such as your email 
+        address, phone number, as well as information about Your mobile device or personal computer such as device type, and OS type. We will 
+        use this Information to address and investigate the issues You have forwarded to Us, to provide You support and to improve Our customer 
+        support service.
+    </p>
+<p> 
+   <b>6.  OPTIONAL: Contact Information for promotional events and customer surveys</b>
+</P>
+<p> 
+        If You choose to participate in promotional events or surveys that Bold Health may offer from time to time, We may ask your contact 
+        details (e.g., name, location, phone number, email address, gender and date of birth) to administer the event, such as to confirm 
+        participation eligibility for the event, to enable You to fill out a questionnaire, to conduct to deliver the prizes to You. NO 
+        PROMOTIONAL EVENT NOTIFICATIONS WILL BE SENT WITHOUT YOUR EXPLICIT PERMISSION TO RECEIVE MARKETING NOTIFICATIONS.
+        Your survey submission will never be linked to Your Zemedy app account and hence Your Zemedy App conversations and activities will 
+        never identify You. Your submissions will reside in a secure and private storage area operated within the Zemedy G-suite account and 
+        managed by Google Forms (G-Suite security can be read here. The Zemedy G-Suite account is also protected by a two-factor secure 
+        authentication system. You can opt out at anytime by sending a request to hello@zemedy.com to delete Your personal Information or 
+        to discontinue receiving any further communication on this matter. On receipt of Your email, We will verify and remove only the 
+        specific identifiable Information as requested by You, within 72 hours of receiving the request. YOUR SUBMISSIONS WILL NEVER BE 
+        SHARED WITH A THIRD PARTY WITHOUT YOUR EXPLICIT CONSENT. 
+        </p>
+
+<p>  
+   <b> 7.  OPTIONAL: Follow on Instagram</b></p> 
+
+<p>   
+       You have the option to follow Us on Instagram using Your Instagram account by going to settings. You can set up an Instagram account, 
+       if you do not own one and follow us at<a href=""><b> @tryzemedy </b></a>. WE DO NOT ASSOCIATE YOUR INSTAGRAM ACCOUNT WITH YOUR Zemedy APP ACCOUNT.
+      </p>
+
+<p>   <b>3. Other Important Information for You</b></p>
+
+<p>     To provide the Service, We may use Your Information based on Our legitimate interests for the following purposes. We Use legitimate interest basis 
+        to process Your Information in a way which might reasonably be expected as part of running Our business and which does not materially impact 
+        Your rights, freedom or interest.</p>
+    
+    <ol>
+            <li>  To detect and deter unauthorized or fraudulent use of or abuse of the Service;</li>
+    
+            <li>  For transmission, use and disclosure to business associates or third party based on a business associate agreement. The business 
+                    associate will not use or disclose personal information in any way that would violate the contract.</li>
+    
+            <li>  For uses and disclosures required by law;</li>
+            <li>  For disclosures for judicial and administrative </li>
+            <li>   For disclosures for law enforcement purposes</li>
+            <li>    For uses and disclosures for public health reporting, and other public health activities;</li>
+            <li>   For uses and disclosures to avert a serious threat to health or safety to You, Us, or others;</li>
+            <li>   For using minimal de-identified data to improve and/or optimize the Service;</li>
+            <li>    To enable Us to provide customer support, and to respond effectively to Your inquiries and claims;</li>
+            <li>    For uses and disclosures for oversight activities such as audits, investigations, and inspections;</li>
+            <li>    For uses and disclosures for research purposes (subject to qualifications and exceptions);</li>
+            <li>    For any direct marketing purposes;</li>
+            <li>    To allow You to use the apps on multiple devices and transfer Your app account to another device;</li>
+            
+    
+    </ol>  
+<p>       2.  By using the Service, You hereby agree to the use of Your Information for the above mentioned purposes.</p>      
+<p>   <b> 3.  How does Bold Health protect Your information?</b></p>
+
+<p>     To fulfil Our commitment to respecting and protecting Your privacy and the confidentiality of Your Personal Information, Bold health has implemented industry-standard 
+        safeguards to prevent unauthorized access or disclosure, misuse, alteration or destruction of Your information. More specifically, We will comply with all applicable data 
+        protection and security laws in order to assure security, availability, processing integrity, confidentiality and privacy of data. All Information between the Zemedy App and server is encrypted and transmitted via SSL. 
+        Because no method of electronic transmission or method of data storage is perfect or impenetrable, We cannot guarantee that Your Information will be absolutely safe from intrusion during transmission or while stored in Our systems. 
+        To help protect Your privacy and confidentiality of Your Information, We also need to ask for Your cooperation regarding the following: Please do not copy and transmit Your chat conversations, health data and/or Personal Information with other people. Also, please notify at the contact information provided at the end of this policy, in the event You suspect any unauthorized use of Your account or any other breach of security via Our contact information.
+        </p>
+<p>   <b>4.  Where is Your Information transmitted and stored?</b></p>
+
+<p>     To provide the Service in a reliable and responsible manner, Bold Health processes and stores Your Information on secure servers which may be physically 
+        located in different countries around the world, including countries outside the United Kingdom.
+        By continuing to use the Service, You agree that your Information may be internationally transferred and that Bold Health can process 
+        and store Your Information in a country other than where You submitted it.
+        </p>
+
+<p>    <b>Jurisdiction and Cross Border Transfer of Information</b></p>
+<p>     Our Services are global and Your information (including any voluntarily provided Personal Information) may be stored and processed in 
+        any country where We have operations or where We engage with partner/s, and We may transfer information to countries outside of Your 
+        country of residence, to countries which may have Data Protection Law that are different from those of Your country. However, We will take 
+        adequate safeguards and steps reasonably necessary to ensure that any such transfers protect Your privacy, fundamental rights and freedoms, 
+        the exercise of Your rights, in accordance with this Privacy Policy and in compliance with
+        Data Protection Law. </p>
+
+<p>   <b>5.  How long does Bold Health keep Your Information?</b></p>
+<p>     Bold Health retains any Information You provide or automatically collected while Your account is in existence, for the length of time 
+        needed to fulfil any of the applicable purposes of use described in this Privacy Policy, or to comply with applicable Data Protection Law.
+        We may retain Your Information even after Your account is closed if retention is reasonably necessary. These could be in situations 
+        where We need to comply with applicable Data Protection Law, regulations or legal obligations, provide and complete customer support 
+        service, resolve disputes between or with Bold Health users, or to detect and deter unauthorized or fraudulent use of or abuse of the 
+        Service.
+        </p>
+<p>   <b>6.  Does Bold health use outside service providers or agents?</b></p>
+
+<p>     To facilitate and provide You with the Service, it sometimes is necessary for Bold Health to request third party partner service 
+        providers or agents to help Us process and/or store your Information. We strictly evaluate the partner service providers and agents, and 
+        We make every effort to ensure that they have established appropriate and secure information administration and organizational control 
+        systems, and We strictly require that they comply with confidentiality obligations and applicable laws and regulations including Data 
+        Protection Law as relevant. We also require that they access Your Information only to the extent necessary to perform tasks on Our behalf.</p>
+
+<p>    <b>7.  Does Bold Health give Your Information to third parties?</b></p>
+
+<p>     
+        Other than as described in this Privacy Policy and, where relevant, other applicable privacy policies or addendums, Bold Health will never 
+        provide Your Information to any third parties without Your explicit consent, unless We believe in good faith that We are required or 
+        permitted to do so under applicable contracts and laws, or to protect and defend Bold Health’s rights and/or property.
+        We may be involved in the transaction of a merger, acquisition, sale of assets, business reorganization, bankruptcy etc. During such a 
+        process, We may sell, transfer or otherwise share some or all of Our assets which may include Your Information. However, in such an event 
+        of sale or transfer, We shall reasonably ensure that Your Information collected and stored by the Us is stored and used by the transferee 
+        in a manner that is consistent with this Privacy Policy. Any such third party to whom We transfer or sell shall have the right to continue 
+        to use the Information that You provide to Us or collected by Us immediately prior to such transfer or sale. On completion of the sale or 
+        transfer, the privacy policy of the third party shall apply with respect to Your Information. To stay updated about such business 
+        transactions, please read this Privacy Policy from time to time.
+        </p>
+
+<p>    <b>8.  Does Bold Health use third-party modules?</b></p>
+<p> 
+        Bold health uses third party advertising agencies to place advertisements on the internet or in other media. To measure the effectiveness of 
+        the advertisements to determine how much to pay to the advertising agencies, We may install third-party modules within the Zemedy app. 
+        We may also install other third-party modules within the Zemedy App in order to deliver the Service and help Us understand how the Service 
+        is used.</p>
+<p>    <b>9.  What are Your data protection rights?</b></p>
+
+<p> 
+        You have certain rights under the Data Protection Law in relation to the Personal Information that You share with Us. We have tried to make it as easy as
+        possible for You to have control over Your Personal Information. To exercise any of Your rights, please email a request at the contact Information 
+        provided in this policy. Please note that We will require You to verify Your identity before responding to any requests to exercise Your rights. We 
+        may also limit Your individual rights requests (a) where denial of access is required or authorized by law; (b) when granting access would have a 
+        negative impact on other's privacy; (c) to protect our rights and properties; or (d) where the request is unjustified or excessive.
+        If You have provided and We process Your Personal Information based on this contract, You can always send Us a written email request at the 
+        contact Information provided in this policy at any time to check, rectify, erase, or restrict processing of Your Personal Information. 
+        Upon verification of Your identity, We will respond to Your request within one month and in accordance with relevant Data Protection Law. 
+        Bold Health will provide You with a request form that You will need to fill and submit back to Us via email. We will verify and erase only the 
+        specific identifiable Information as requested by You, within 72 hours of receiving the filled request form.
+        You have the right to object to the processing of Your Personal Information that is based on legitimate interests for the purposes explicitly 
+        mentioned in this policy by sending Us a written email request at the contact Information provided in this policy. 
+        You have the right of data portability to receive digital copy of Your Personal Information in a machine readable format. You can send Us a 
+        written email request at the contact Information provided in this policy. Upon verification of Your identity, We will respond to Your request 
+        within one month and in accordance with relevant Data Protection Law. We may charge You a small fee for this service. We do not ask any Personal 
+        Information during Your use of Service. We may at times be unable to address Your request, if We are unable to correctly identify You.
+        </p>
+            
+    <p>PLEASE NOTE:</p>
+            <ol>
+                <li> IF YOU HAVE UNINSTALLED THE ZEMEY APP PRIOR TO MAKING A REQUEST FOR ACCESS, THEN WE WILL BE UNABLE TO PROVIDE YOU ACCESS TO YOUR 
+                     CONVERSATION MESSAGES.</li>
+            </ol>
+
+<p>     10.  If You are not happy about any aspect of the way We collect, share or Use Your Personal Information, please let Us know at the contact 
+        Information provided in this policy. You have the right to complain to a Data Protection supervisory authority in Your state of residence. </p>
+
+<p>     <b>4. Security</b></p>
+
+<p>     We do our very best to protect ToC BV and the App from unauthorized access, disclosure or destruction of data held by us. We do this through the 
+        following protective measures:</p>
+    
+        <ul>
+            <li>All personal information is stored in a separate, extra secure, server that is accessible by you as a user only. So we can assure a very 
+                high level of privacy for your personal data.</li>
+                <li>  Data on your device is secured by encryption, only if you have created an account.</li>
+                <li>  Your data is transferred from your device to our server using HTTPS and TLS for encryption. This means that all information that 
+                    is sent remains confidential and is not legible by third parties.</li>
+                <li> Our web development provider is in compliance with ISO 27001. The ISO 27001 standard sets specific requirements for the security 
+                    measures and prescribes how safety risks should be assessed and dealt with.</li>
+                <li>Our hosting provider is in compliance with ISO 27001, ISO 9001, NEN 7510 and has prepared ISAE 3402 type 
+                    I and II reports. All standards have the aim to secure your data.</li>
+        </ul>
+    <p>  
+            <b> 5. DO WE COLLECT INFORMATION FROM MINORS?</b> 
+    </p>
+    
+    <p>
+        <b>In Short:</b> We do not knowingly collect data from or market to children under 13 years of age.
+    </p>
+    
+    <p>
+        We do not knowingly solicit data from or market to children under 13 years of age. By using the Apps, you represent that you are at least 13 or that 
+        you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Apps. If we learn that personal 
+        information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures 
+        to promptly delete such data from our records. If you become aware of any data we have collected from children under age 13, please 
+        contact us at jossy@bold.health
+    </p>
+    
+    <p>
+        <b>6. DO WE MAKE UPDATES TO THIS POLICY?</b>
+    </p>
+    
+    <p>
+        <b>In Short:</b> Yes, we will update this policy as necessary to stay compliant with relevant laws.
+        We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the 
+        updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you 
+        either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy 
+        policy frequently to be informed of how we are protecting your information. 
         
-        </div>
-        <footer-component></footer-component>
+    </p>
+    
+    <p>
+        <b>7. HOW CAN YOU CONTACT US ABOUT THIS POLICY?</b>
+    </p>
+    
+    <p>
+        If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), Jossy Onwude, 
+        by email at <a href=""><b>jossy@bold.health</b></a> , or by post to:
+    </p>
+        <div> Bold Health Limited</div>
+        <div>Jossy Onwude</div>
+        <div>The Stables 28 Britannia Street</div>
+        <div>London, London WC1X </div>
+        <div>United Kingdom   </div>
+    
+<p>
+    <b>8. Governing Law and Dispute Resolution</b>
+</p>
+
+<p class="cookies">
+    This Privacy Policy shall be governed by and construed in accordance with the laws of the United Kingdom. The courts in the United
+    Kingdom shall have exclusive jurisdiction in relation to any disputes arising out of or in connection with this Privacy Policy. 
+    Bold health is a company based in London. By browsing/using the Services, You hereby acknowledge that Bold Health is not responsible or 
+    able in any manner to comply with any local laws of Your territory except the United Kingdom.  
+</p>
+</div>
+      <footer-component></footer-component>
     </div>
   </div>
   </div>
