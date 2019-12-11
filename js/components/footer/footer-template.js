@@ -61,6 +61,7 @@ const FooterTemplate =
                 Copyright © 2019 Bold Health. All rights reserved
             </li>
         </ul>
+        <a href="javascript:window.Metomic('ConsentManager:show')">manage cookies</a>
     </footer>
   </div>
 `
