@@ -10,7 +10,8 @@ const AboutPage =
               <h1>Our Story</h1>
               <h2>Founded by a doctor and an IBS patient</h2>
               <p>Many people with IBS tell us they feel it rules their lives . So we created Zemedy to give patients back control over their own health.</p>
-              <button class="btn blue-btn">Read more</button>
+              <a href="#web_about" id="readmore_web" class="btn blue-btn">Read more</a>
+              <a href="#founders_section" id="readmore_mobile" class="btn blue-btn">Read more</a>
           </div>
           <div class="founders_img">
               <img class="fapp" src="img/founders.png">
@@ -18,7 +19,7 @@ const AboutPage =
           </div>
           <div style="clear: both;"></div>
       </section>
-      <section class="web_about_img">
+      <section id="web_about" class="web_about_img">
           <img src="img/weabout.png">
           <div class="about_animated">
             <div class="aa_download">
@@ -120,7 +121,7 @@ const AboutPage =
           </div>
       </section>
 
-      <section class="founder_section">
+      <section id="founders_section" class="founder_section">
           <h2>There’s no easy solution to irritable bowels</h2>
           <p>But here at Zemedy, we believe there are better ways to manage IBS than just a diet or medication.</p>
 
@@ -244,7 +245,7 @@ const AboutPage =
 
                 <p>Our products will always be centred around you and your needs. Everything we do is carefully crafted around the IBS experience.</p>
 
-                <h5>We'll never stop trying to improve. So if you have a suggestion on what we could be doing better or what you’d like to see more of, please <span>contact us </span></h5>
+                <h5>We'll never stop trying to improve. So if you have a suggestion on what we could be doing better or what you’d like to see more of, please <span><a href="/#/contact"> contact us </a> </span></h5>
             </div> 
             <div style="clear: both"></div>
         </section>

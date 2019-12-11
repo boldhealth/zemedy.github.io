@@ -41,14 +41,14 @@ const ScienceTemplate =
             <h5>Why CBT for IBS?</h5>
             <p>It’s a treatment you’ve probably heard of (or gone through) for anxiety and depression. Luckily, doctors and researchers have found that it’s also effective for IBS, even more so than diet and medication!</p>
             <div class="cl_img">
-              <img src="img/graph.svg">
+              <img src="img/graph.png">
             </div>
           </div>
           <div class="cbt_right">
             <h5>The Vicious Cycle</h5>
             <p>Our flare ups are often triggered by stress and anxiety, and then getting stressed or anxious about the condition in the first place can cause even more symptoms, <strong> what therapists call a ‘vicious cycle’.</strong></p>
             <div class="cb_img">
-             <img src="img/cycle.svg">
+             <img src="img/cycle.png">
             </div>
           </div>
           <div style="clear: both;"></div>

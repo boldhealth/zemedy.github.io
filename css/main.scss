@@ -1,6 +1,10 @@
 $blue: #443B76;
 $orange: #EB6054;
 
+html {
+  scroll-behavior: smooth;
+}
+
 @media (min-width: 768px){
   h1 {
   font-size: 50px;

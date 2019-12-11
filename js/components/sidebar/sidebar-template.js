@@ -3,7 +3,7 @@ const SidebarTemplate =
     <div id="sidebar-wrapper">
         <div class="sw-header">
             <div class="swhleft">
-                <a href="/zemedy-html/#/">
+                <a href="/#/">
                   <img class="side-img" src="img/whitelogo.svg"> 
                 </a>
             </div>
@@ -14,45 +14,45 @@ const SidebarTemplate =
         </div>
         <ul class="sidebarnav">
             <li class="sbbold">
-                <a href="/zemedy-html/#/about">
+                <a href="/#/about">
                      About
                 </a>
             </li>
             <li class="sbbold">
-                <a href="/zemedy-html/#/science">
+                <a href="/#/science">
                      Science
                 </a>
             </li>
             <li class="sbbold">
-                <a href="/zemedy-html/#/contact">
+                <a href="/#/contact">
                      Contact us
                 </a>
             </li>
             <li class="sbsmall">
-                <a href="/zemedy-html/#/terms">
+                <a href="/#/terms">
                      Terms of use
                 </a>
             </li>
             <li class="sbsmall">
-                <a href="/zemedy-html/#/privacy">
+                <a href="/#/privacy">
                      Privacy
                 </a>
             </li>
             <li class="sbsmall">
-                <a href="/zemedy-html/#/accessibility">
+                <a href="/#/accessibility">
                      Accessibility
                 </a>
             </li>
             <li class="sbbutton">
-                <a href="/zemedy-html/#/terms">
+                <a href="/#/terms">
                     <button class="btn sb-btn">download</button>
                 </a>
             </li>
             <li class="sbicons">
-                <a href="/zemedy-html/#/contact"><i class="far fa-envelope"></i></a>
+                <a href="/#/contact"><i class="far fa-envelope"></i></a>
                 <a href="https://www.facebook.com/tryzemedy/"><i class="fab fa-facebook-f"></i></a>
                 <a href="https://twitter.com/tryzemedy"><i class="fab fa-twitter"></i></a>
-                <a href="/zemedy-html/#/terms"><i class="fab fa-linkedin"></i></a>
+                <a href="/#/terms"><i class="fab fa-linkedin"></i></a>
                 <a href="https://www.instagram.com/tryzemedy/"><i class="fab fa-instagram"></i></a>
             </li>
         </ul>

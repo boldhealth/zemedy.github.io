@@ -4,7 +4,7 @@ $(function(){
   $('#testomonial4').hide();
   $('#testomonial5').hide();
 
-  $('#test_control_1').on('click', function(){
+  var test1 = $('#test_control_1').on('click', function(){
     $('#testomonial1').show();
     $('#testomonial2').hide();
     $('#testomonial3').hide();
@@ -17,7 +17,7 @@ $(function(){
     $('#test_control_5').removeClass('tactive');
   });
 
-  $('#test_control_2').on('click', function(){
+  var test2 = $('#test_control_2').on('click', function(){
     $('#testomonial1').hide();
     $('#testomonial2').show();
     $('#testomonial3').hide();
@@ -30,7 +30,7 @@ $(function(){
     $('#test_control_5').removeClass('tactive');
   });
 
-  $('#test_control_3').on('click', function(){
+  var test3 = $('#test_control_3').on('click', function(){
     $('#testomonial1').hide();
     $('#testomonial2').hide();
     $('#testomonial3').show();
@@ -43,7 +43,7 @@ $(function(){
     $('#test_control_5').removeClass('tactive');
   });
 
-  $('#test_control_4').on('click', function(){
+  var test4 = $('#test_control_4').on('click', function(){
     $('#testomonial1').hide();
     $('#testomonial2').hide();
     $('#testomonial3').hide();
@@ -56,7 +56,7 @@ $(function(){
     $('#test_control_5').removeClass('tactive');
   });
 
-  $('#test_control_5').on('click', function(){
+  var test5 = $('#test_control_5').on('click', function(){
     $('#testomonial1').hide();
     $('#testomonial2').hide();
     $('#testomonial3').hide();
@@ -68,6 +68,12 @@ $(function(){
     $('#test_control_4').removeClass('tactive');
     $('#test_control_5').addClass('tactive');
   });
+
+  for(var x=0; x<5; x++){
+    setInterval(function() {
+      console.log(x);
+    }, 3000);
+  }
 
   $("#menu-toggle").click(function(e) {
       console.log('clicked');
@@ -147,6 +153,11 @@ $(function(){
     $('#iphone3').hide();
     $('#iphone4').hide();
   }).mouseleave();
+
+  $('#read_more_btn').on('click', function(){
+    console.log('clicked');
+    $.scrollTo($('#web_about'), { duration: 0});
+  });
 
   var targetOffset = $("#science_behind").offset().top;
 

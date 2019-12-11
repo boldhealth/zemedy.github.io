@@ -1,3 +1,9 @@
+#readmore_web {
+  display: none;
+}
+#readmore_mobile {
+  margin-bottom: 3em;
+}
 .aboutwrapper {
 	background: #F8CB95;
 }
@@ -131,7 +137,7 @@
 		}
 		h5 {
 			padding: 2em 0 2em 0;
-			span {
+			span a{
 				color: #6872E7;
 			}
 		}
