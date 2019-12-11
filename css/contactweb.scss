@@ -52,7 +52,7 @@
     height: 9em;
     background: white;
     border: 1px solid rgb(243, 239, 239);
-   
+    padding: .5em;
     width: 100%;
     border-bottom: 1px solid#443B76;
   }
@@ -68,7 +68,8 @@
     background: white;
     border: 1px solid rgb(243, 239, 239);
     width: 97%;
-    border-bottom: 1px solid#443B76;
+    border-bottom: 1px solid #443B76;
+    padding: 0 .5em;
   }
   .sign-if{
     text-align: center;
@@ -93,7 +94,8 @@
     border: 1px solid rgb(243, 239, 239);
     margin-bottom: 2em;
     width: 100%;
-    border-bottom: 1px solid#443B76;
+    border-bottom: 1px solid #443B76;
+    padding: 0 .5em;
   }
   .sign-up-wrapper-web{
     float: left;
@@ -102,7 +104,11 @@
     margin-top: 3em;
   }
   .meg-wrapper{
-    margin-top: 12em;  
+    margin-top: 5em;  
+  }
+  .failure-web {
+    color: red;
+    text-align: center;
   }
   .em-add{
     color: #443B76;

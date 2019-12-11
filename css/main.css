@@ -1764,6 +1764,7 @@ button:active {
     height: 9em;
     background: white;
     border: 1px solid #f3efef;
+    padding: .5em;
     width: 100%;
     border-bottom: 1px solid #443B76; }
 
@@ -1779,7 +1780,8 @@ button:active {
     background: white;
     border: 1px solid #f3efef;
     width: 97%;
-    border-bottom: 1px solid #443B76; }
+    border-bottom: 1px solid #443B76;
+    padding: 0 .5em; }
 
   .sign-if {
     text-align: center;
@@ -1804,7 +1806,8 @@ button:active {
     border: 1px solid #f3efef;
     margin-bottom: 2em;
     width: 100%;
-    border-bottom: 1px solid #443B76; }
+    border-bottom: 1px solid #443B76;
+    padding: 0 .5em; }
 
   .sign-up-wrapper-web {
     float: left;
@@ -1813,7 +1816,11 @@ button:active {
     margin-top: 3em; }
 
   .meg-wrapper {
-    margin-top: 12em; }
+    margin-top: 5em; }
+
+  .failure-web {
+    color: red;
+    text-align: center; }
 
   .em-add {
     color: #443B76; }

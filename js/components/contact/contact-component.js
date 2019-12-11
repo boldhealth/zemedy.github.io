@@ -15,6 +15,34 @@ const ContactComponent = {
         location.reload();
     }
   },
+  data: function(){
+    return {
+      success: false,
+      failure: false,
+      name: '',
+      email: '',
+      message: ''
+    }
+  },
+  methods: {
+    formSubmit(e){
+      e.preventDefault();
+      axios.post('https://api.sendgrid.com/api/mail.send.json', {
+        api_user: 'app96320335@heroku.com',
+        api_key: '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',
+        to: 'chineduabalogu@gmail.com',
+        subject: 'Form submission from Zemedy website',
+        text: this.message,
+        from: this.email
+      })
+      .then(function (response) {
+        this.success = true;
+      })
+      .catch(function (error) {
+        this.failure = true;
+      });
+    }
+  },
   components: {
     'header-component': HeaderComponent,
     'footer-component': FooterComponent,

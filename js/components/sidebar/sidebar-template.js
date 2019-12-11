@@ -44,7 +44,7 @@ const SidebarTemplate =
                 </a>
             </li>
             <li class="sbbutton">
-                <a href="/#/terms">
+                <a href="https://apps.apple.com/gb/app/zemedy-ibs-gut-relief/id1442789941">
                     <button class="btn sb-btn">download</button>
                 </a>
             </li>
