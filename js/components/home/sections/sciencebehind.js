@@ -1,13 +1,11 @@
-
 const ScienceBehind = {
-  template: 
-  `
+  template: `
     <section id="science_behind" class="science_behind">
       <div class="sb_mobile">
         <h2>The Science Behind Zemedy</h2>
         <img class="diagramapp" src="img/diagram.png">
         <div class="find_out_more_container">
-          <a href="/science">
+          <a href="/#/science">
             <h5>Find out more about the science</h5>
             <img src="img/arrowup.png">
           </a>
@@ -25,7 +23,7 @@ const ScienceBehind = {
         <img id="sb6" class="diagramweb sb6" src="img/sb6.png">
         <img id="sb7" class="diagramweb sb7" src="img/sb7.png">
         <div class="find_out_more_container">
-          <a href="/science">
+          <a href="/#/science">
             <h5>Find out more about the science</h5>
             <img src="img/arrowup.svg">
           </a>
@@ -33,7 +31,7 @@ const ScienceBehind = {
         </div>
       </div>
     </section>
-  `,
-}
+  `
+};
 
-export { ScienceBehind }
+export { ScienceBehind };
