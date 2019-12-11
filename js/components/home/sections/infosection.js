@@ -37,8 +37,8 @@ const InfoSection = {
 
             <div class="info_box">
                 <img src="img/infoimg2.svg">
-                <h2>"your time"</h2>  
-                <p>We consider Zemedy time “you time’. Our programme is the first step to putting your health number one.</p>
+                <h2>"you time"</h2>  
+                <p>We consider Zemedy time "you time". Our programme is the first step to putting your health number one.</p>
             </div>  
 
             <div class="info_box">
