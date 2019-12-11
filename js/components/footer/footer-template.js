@@ -23,6 +23,9 @@ const FooterTemplate =
                 <a href="/#/accessibility">Accessibility</a>
             </li>
         </div>
+        <div class="mc_btn_web">
+          <a class="manage_cookies_btn_web" href="javascript:window.Metomic('ConsentManager:show')">manage cookies</a>
+        </div>
     </footer>
     
     <footer class="appfooter">
@@ -61,7 +64,9 @@ const FooterTemplate =
                 Copyright © 2019 Bold Health. All rights reserved
             </li>
         </ul>
-        <a href="javascript:window.Metomic('ConsentManager:show')">manage cookies</a>
+        <div class="mc_btn_mobile">
+          <a class="manage_cookies_btn_mobile" href="javascript:window.Metomic('ConsentManager:show')">manage cookies</a>
+        </div>
     </footer>
   </div>
 `

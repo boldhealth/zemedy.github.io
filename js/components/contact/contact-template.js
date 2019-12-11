@@ -52,25 +52,26 @@ const ContactTemplate =
                 <p> 
                   If you’re interested in what we’re doing or have a question, fill in the form below and we’ll get back to you in 1-2 working days!.
                 </p>
-
-                <div class="sign-up-wrapper">
-                    <label class="ad-top">Name*</label>
-                    <input class="first-input"></input>
-                </div>
-                
-                <div>
-                    <label>Email address*</label>
-                    <input class="first-input"></input>
-                </div>
-                    
-                <div>
-                    <label>Message*</label>
-                    <input class="message"></input>
-                </div>
-                
-                <button class="submit"> Submit</button>
-                <p class="success">Success! Your message has been submitted. We’ll be in touch soon</p>
-
+                <form @submit="formSubmit">
+                  <div class="sign-up-wrapper">
+                      <label>Name*</label>
+                      <input class="first-input" v-model="name"></input>
+                  </div>
+                  
+                  <div>
+                      <label>Email address*</label>
+                      <input class="first-input" v-model="email"></input>
+                  </div>
+                      
+                  <div>
+                      <label>Message*</label>
+                      <textarea class="message-mobile" v-model="message"></textarea>
+                  </div>
+                  
+                  <button class="submit"> Submit</button>
+                  <p v-show="success" class="success-web">Success! Your message has been submitted. We’ll be in touch soon</p>
+                  <p v-show="failure" class="failure-web">Error! Something went wrong. Please try again later</p>
+                 </form>
               </div>
             </div>
 
