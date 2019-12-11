@@ -25,8 +25,8 @@ const ContactComponent = {
     formSubmit(e){
       e.preventDefault();
       axios.post('https://api.sendgrid.com/api/mail.send.json', {
-        api_user: 'app96320335@heroku.com',
-        api_key: 'xgutuu4o4444',
+        api_user: 'hello@zemedy.com',
+        api_key: 'boldhealth2019',
         to: 'hello@zemedy.com',
         subject: 'Form submission from Zemedy website',
         text: this.message,
