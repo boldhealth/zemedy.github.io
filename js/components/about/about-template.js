@@ -1,5 +1,4 @@
-const AboutPage = 
-`
+const AboutPage = `
   <div>
     <sidebar-component></sidebar-component>
     <div class="aboutwrapper">
@@ -42,7 +41,7 @@ const AboutPage =
             </div>
             <div class="aa_programs">
               <div id="card1" class="program_card">
-                <h5>10-week CTB programme</h5>
+                <h5>10-week CBT programme</h5>
                 <p>Throughout the programme we’ll be introducing you to specialist CBT techniques that will help you manage your symptoms and stress</p>
               </div>
               <div id="card2" class="program_card">
@@ -253,6 +252,6 @@ const AboutPage =
       <footer-component></footer-component>
     </div>
   </div>
-`
+`;
 
-export { AboutPage }
+export { AboutPage };
