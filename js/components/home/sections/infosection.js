@@ -1,7 +1,5 @@
-
 const InfoSection = {
-  template: 
-  `
+  template: `
     <section class="infosection">
         <div class="intro_cont">
             <h2>We're treating you differently</h2>
@@ -39,8 +37,8 @@ const InfoSection = {
 
             <div class="info_box">
                 <img src="img/infoimg2.svg">
-                <h2>"your time"</h2>  
-                <p>We consider Zemedy time “you time’. Our programme is the first step to putting your health number one.</p>
+                <h2>"you time"</h2>  
+                <p>We consider Zemedy time "you time". Our programme is the first step to putting your health number one.</p>
             </div>  
 
             <div class="info_box">
@@ -53,14 +51,14 @@ const InfoSection = {
         </div>
 
         <div class="find_out_more_container">
-          <a href="/about">
+          <a href="/#/about">
             <h5>Find out more about the programme</h5>
             <img src="img/arrowup.svg">
           </a>
           <div style="clear: both;"></div>
         </div>
     </section>
-  `,
-}
+  `
+};
 
-export { InfoSection }
+export { InfoSection };
