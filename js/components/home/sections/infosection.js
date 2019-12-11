@@ -1,7 +1,5 @@
-
 const InfoSection = {
-  template: 
-  `
+  template: `
     <section class="infosection">
         <div class="intro_cont">
             <h2>We're treating you differently</h2>
@@ -53,14 +51,14 @@ const InfoSection = {
         </div>
 
         <div class="find_out_more_container">
-          <a href="about.html">
+          <a href="/#/about">
             <h5>Find out more about the programme</h5>
             <img src="img/arrowup.svg">
           </a>
           <div style="clear: both;"></div>
         </div>
     </section>
-  `,
-}
+  `
+};
 
-export { InfoSection }
+export { InfoSection };
