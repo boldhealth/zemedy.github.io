@@ -53,7 +53,7 @@ const InfoSection = {
         </div>
 
         <div class="find_out_more_container">
-          <a href="about.html">
+          <a href="/about">
             <h5>Find out more about the programme</h5>
             <img src="img/arrowup.svg">
           </a>
