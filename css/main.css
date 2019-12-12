@@ -332,6 +332,9 @@ html {
     width: 70%;
     margin-bottom: 1.7em;
   }
+  .landing_section_web .texts_container h5 {
+    font-size: 18px;
+  }
 
   .homewrapper {
     background: #fdf6f3;
@@ -650,6 +653,9 @@ html {
     width: 70%;
     margin-bottom: 3em;
   }
+  .landing_section_web .texts_container h5 {
+    font-size: 18px;
+  }
 
   .homewrapper {
     background: #fdf6f3;
@@ -839,7 +845,7 @@ html {
   }
 
   .webheader {
-    background: #fdf6f3;
+    background: #FDF6F3;
     position: fixed;
     display: block;
     width: 100%;
@@ -853,7 +859,7 @@ html {
     list-style-type: none;
   }
   .webheader ul a {
-    color: #eb6054;
+    color: #EB6054;
   }
   .webheader ul li {
     float: left;
@@ -874,7 +880,7 @@ html {
   }
 
   .webheader {
-    background: #fdf6f3;
+    background: #FDF6F3;
     display: block;
     width: 100%;
     height: 6em;
@@ -886,7 +892,7 @@ html {
     list-style-type: none;
   }
   .webheader ul a {
-    color: #eb6054;
+    color: #EB6054;
   }
   .webheader ul li {
     float: left;
@@ -918,10 +924,10 @@ html {
   color: white;
   font-weight: 800;
   border-radius: 10px;
-  background: #ffa74c;
+  background: #FFA74C;
 }
 .manage_cookies_btn_web:hover {
-  background: #f0906c;
+  background: #F0906C;
 }
 
 .manage_cookies_btn_mobile {
@@ -930,14 +936,14 @@ html {
   color: white;
   font-weight: 800;
   border-radius: 10px;
-  background: #ffa74c;
+  background: #FFA74C;
 }
 .manage_cookies_btn_mobile:hover {
-  background: #f0906c;
+  background: #F0906C;
 }
 
 .appfooter {
-  background: #eb6054;
+  background: #EB6054;
   padding: 4em 0;
 }
 .appfooter ul {
@@ -991,7 +997,7 @@ a {
 @media (min-width: 768px) and (max-width: 1600px) {
   .webfooter {
     display: block;
-    background: #eb6054;
+    background: #EB6054;
     padding: 4em 0;
   }
   .webfooter .top_links {
@@ -1003,7 +1009,7 @@ a {
     margin: 0 3em;
   }
   .webfooter .top_links a:hover {
-    color: #f8cb95;
+    color: #F8CB95;
   }
   .webfooter .middle_links {
     text-align: center;
@@ -1014,7 +1020,7 @@ a {
     font-size: 18px;
   }
   .webfooter .middle_links a:hover {
-    color: #f8cb95;
+    color: #F8CB95;
   }
   .webfooter .middle_links img {
     padding: 0 0 32px 10%;
@@ -1038,7 +1044,7 @@ a {
     margin: 0 2em;
   }
   .webfooter .bottom_links li a:hover {
-    color: #f8cb95;
+    color: #F8CB95;
   }
 
   .appfooter {
@@ -1048,7 +1054,7 @@ a {
 @media (min-width: 1600px) {
   .webfooter {
     display: block;
-    background: #eb6054;
+    background: #EB6054;
     padding: 4em 0;
   }
   .webfooter .top_links {
@@ -1060,7 +1066,7 @@ a {
     margin: 0 3em;
   }
   .webfooter .top_links a:hover {
-    color: #f8cb95;
+    color: #F8CB95;
   }
   .webfooter .middle_links {
     text-align: center;
@@ -1071,7 +1077,7 @@ a {
     font-size: 18px;
   }
   .webfooter .middle_links a:hover {
-    color: #f8cb95;
+    color: #F8CB95;
   }
   .webfooter .middle_links img {
     padding: 0 0 32px 10%;
@@ -1095,7 +1101,7 @@ a {
     margin: 0 1em;
   }
   .webfooter .bottom_links li a:hover {
-    color: #f8cb95;
+    color: #F8CB95;
   }
 
   .appfooter {
@@ -1111,7 +1117,7 @@ a {
 }
 
 .aboutwrapper {
-  background: #f8cb95;
+  background: #F8CB95;
 }
 
 .applanding_container {
@@ -1163,7 +1169,7 @@ a {
 }
 
 .founder_section {
-  background: #fdf6f3;
+  background: #FDF6F3;
   padding: 3em 1em;
 }
 .founder_section h2 {
@@ -1247,7 +1253,7 @@ a {
   width: 100%;
 }
 .promise_section .our_promise_cont {
-  background: #fdebd7;
+  background: #FDEBD7;
   padding: 2em 1em 0 1em;
 }
 .promise_section .our_promise_cont h2 {
@@ -1260,7 +1266,7 @@ a {
   padding: 2em 0 2em 0;
 }
 .promise_section .our_promise_cont h5 span a {
-  color: #6872e7;
+  color: #6872E7;
 }
 
 @media (min-width: 768px) {
@@ -1383,8 +1389,7 @@ a {
     width: 50%;
     padding: 4em 7% 0 4em;
   }
-  .applanding_container .aboutlanding h2,
-  .applanding_container .aboutlanding p {
+  .applanding_container .aboutlanding h2, .applanding_container .aboutlanding p {
     position: relative;
     z-index: 5;
   }
@@ -1422,7 +1427,7 @@ a {
 
   .web_about_img {
     padding: 4em;
-    background: #fdf6f3;
+    background: #FDF6F3;
     display: block;
     text-align: center;
   }
@@ -1449,7 +1454,7 @@ a {
   }
 
   .promise_section {
-    background: #fdebd7;
+    background: #FDEBD7;
   }
   .promise_section .psimg_container {
     float: left;
@@ -1467,7 +1472,7 @@ a {
 
   .ps_container {
     padding: 5rem 0;
-    background: #fdf6f3;
+    background: #FDF6F3;
   }
 
   .ourpromise {
@@ -1475,7 +1480,7 @@ a {
   }
 }
 hr {
-  border: 2px solid #443b76;
+  border: 2px solid #443B76;
   margin: 10px 0 2em 0;
 }
 
@@ -1493,7 +1498,7 @@ hr {
   width: 50%;
   height: 5px;
   float: left;
-  background: #e0e0e0;
+  background: #E0E0E0;
 }
 .image_slide_section .slide_control:hover {
   cursor: pointer;
@@ -1502,14 +1507,14 @@ hr {
   width: 50%;
   height: 5px;
   float: left;
-  background: #eb6054;
+  background: #EB6054;
 }
 .image_slide_section .slide_active:hover {
   cursor: default !important;
 }
 
 .sciencewrapper {
-  background: #fdf6f3;
+  background: #FDF6F3;
 }
 
 .sciencelanding {
@@ -1537,7 +1542,7 @@ hr {
 }
 
 .cbt_explainer {
-  background: #fdebd7;
+  background: #FDEBD7;
   padding: 4em 3em;
   text-align: center;
 }
@@ -1553,11 +1558,11 @@ hr {
 }
 
 .nhs_section {
-  background: #fdebd7;
+  background: #FDEBD7;
   padding: 4em 2em;
 }
 .nhs_section span {
-  color: #eb6054;
+  color: #EB6054;
 }
 
 .bumps_image {
@@ -1578,7 +1583,7 @@ hr {
 }
 
 .gut_brain_section {
-  background: #daf6f5;
+  background: #DAF6F5;
   padding: 3em 2em;
   text-align: center;
 }
@@ -1607,7 +1612,7 @@ hr {
 }
 
 .school_card {
-  background: #eb6054;
+  background: #EB6054;
   border-radius: 10px;
   padding: 3em 1.5em;
   margin-bottom: 2em;
@@ -1631,7 +1636,7 @@ hr {
 
 .references_container {
   padding: 3em 1.5em;
-  background: #daf6f5;
+  background: #DAF6F5;
 }
 .references_container h1 {
   font-size: 50px;
@@ -1644,7 +1649,7 @@ hr {
 }
 .references_container hr {
   width: 70%;
-  border: 1px solid #443b76;
+  border: 1px solid #443B76;
 }
 .references_container p {
   margin-bottom: 3em;
@@ -1699,7 +1704,7 @@ hr {
     width: 50%;
     height: 5px;
     float: left;
-    background: #e0e0e0;
+    background: #E0E0E0;
   }
   .image_slide_section .slide_control:hover {
     cursor: pointer;
@@ -1708,7 +1713,7 @@ hr {
     width: 50%;
     height: 5px;
     float: left;
-    background: #eb6054;
+    background: #EB6054;
   }
 
   .sciencelandingweb {
@@ -1728,8 +1733,7 @@ hr {
     padding: 2rem 7%;
     font-weight: 200;
   }
-  .cbt_section h2,
-  .cbt_section h5 {
+  .cbt_section h2, .cbt_section h5 {
     padding: 2rem 15% 0;
   }
 
@@ -1818,7 +1822,7 @@ hr {
     position: absolute;
   }
   .nhs_section span {
-    color: #eb6054;
+    color: #EB6054;
   }
 
   .brain_gut_section {
@@ -1827,8 +1831,7 @@ hr {
   .brain_gut_section p {
     padding: 4rem 7% 2rem;
   }
-  .brain_gut_section h2,
-  .brain_gut_section h5 {
+  .brain_gut_section h2, .brain_gut_section h5 {
     padding: 2rem 15% 0;
   }
 
@@ -1868,7 +1871,7 @@ hr {
   .references_container_web {
     display: block;
     padding: 5rem 15%;
-    background: #daf6f5;
+    background: #DAF6F5;
   }
   .references_container_web h1 {
     margin-bottom: 1em;
@@ -1887,11 +1890,11 @@ hr {
 }
 .legalheader {
   height: 5em;
-  background: #f8cb95 !important;
+  background: #F8CB95 !important;
 }
 
 .bg-section {
-  background: #f8cb95;
+  background: #F8CB95;
 }
 
 .bg-section-web {
@@ -1914,7 +1917,7 @@ hr {
   font-weight: 300;
   font-size: 36px;
   line-height: 40px;
-  color: #443b76;
+  color: #443B76;
 }
 
 .links {
@@ -1924,11 +1927,10 @@ hr {
 .app-main {
   padding: 1em !important;
   height: 100%;
-  background: #fdf6f3;
+  background: #FDF6F3;
 }
-.app-main p,
-.app-main a li {
-  color: #443b76;
+.app-main P, .app-main a li {
+  color: #443B76;
 }
 
 .app-main-web {
@@ -1943,7 +1945,7 @@ hr {
   .bg-section-web {
     padding: 0 13% 0 13% !important;
     display: block !important;
-    background: #fdf6f3;
+    background: #FDF6F3;
   }
 
   .microbiome-sec-web {
@@ -1957,7 +1959,7 @@ hr {
   }
 
   .webheader {
-    background: #fdf6f3;
+    background: #FDF6F3;
     height: 5em;
   }
 
@@ -1973,14 +1975,10 @@ hr {
     padding: 1em 15% 0 15% !important;
     padding-bottom: 8em;
     display: block !important;
-    background: #fdf6f3;
+    background: #FDF6F3;
   }
-  .app-main-web p,
-  .app-main-web h2,
-  .app-main-web h5,
-  .app-main-web a,
-  .app-main-web h4 {
-    color: #443b76;
+  .app-main-web p, .app-main-web h2, .app-main-web h5, .app-main-web a, .app-main-web h4 {
+    color: #443B76;
   }
 
   .cookies {
@@ -1997,7 +1995,7 @@ hr {
 }
 .legalheader {
   height: 5em;
-  background: #f8cb95 !important;
+  background: #F8CB95 !important;
 }
 
 .bg-section-web {
@@ -2025,7 +2023,7 @@ hr {
 .app-main {
   padding: 1em !important;
   height: 100%;
-  background: #fdf6f3;
+  background: #FDF6F3;
 }
 
 .app-main-web {
@@ -2038,7 +2036,7 @@ hr {
 }
 
 .termswrapper {
-  background: #f8cb95;
+  background: #F8CB95;
 }
 
 .div_wrapper {
@@ -2057,7 +2055,7 @@ hr {
 }
 
 .bg-section {
-  background: #f8cb95;
+  background: #F8CB95;
 }
 
 .bg-section-web {
@@ -2067,11 +2065,10 @@ hr {
 .app-main {
   padding: 1em !important;
   height: 100%;
-  background: #fdf6f3;
+  background: #FDF6F3;
 }
-.app-main p,
-.app-main div {
-  color: #443b76;
+.app-main p, .app-main div {
+  color: #443B76;
 }
 
 .div_wrapper-web {
@@ -2088,7 +2085,7 @@ hr {
   .bg-section-web {
     padding: 0 13% 0 13% !important;
     display: block !important;
-    background: #fdf6f3;
+    background: #FDF6F3;
   }
 
   .microbiome-sec-web {
@@ -2103,12 +2100,11 @@ hr {
   .app-main-web {
     padding: 1em 15% 0 15% !important;
     display: block !important;
-    background: #fdf6f3;
+    background: #FDF6F3;
     height: 100%;
   }
-  .app-main-web p,
-  .app-main-web div {
-    color: #443b76;
+  .app-main-web P, .app-main-web div {
+    color: #443B76;
   }
 
   .cookies {
@@ -2150,7 +2146,7 @@ hr {
 }
 
 .bg-section2 {
-  background: #fdebd7;
+  background: #FDEBD7;
 }
 
 .lg_infor2 {
@@ -2188,7 +2184,7 @@ hr {
 
 .submit {
   width: 80%;
-  background: #f58967;
+  background: #F58967;
   border-radius: 100px;
   border: 1px solid #f3efef;
   margin: 2em auto;
@@ -2197,7 +2193,7 @@ hr {
 }
 
 .success {
-  color: #6872e7;
+  color: #6872E7;
   font-size: 15px;
 }
 
@@ -2211,7 +2207,7 @@ hr {
   border: 1px solid #f3efef;
   padding: 0.5em;
   width: 100%;
-  border-bottom: 1px solid #443b76;
+  border-bottom: 1px solid #443B76;
 }
 
 .first-input-web {
@@ -2241,7 +2237,7 @@ hr {
 .app-main {
   padding: 1em !important;
   height: 100%;
-  background: #fdf6f3;
+  background: #FDF6F3;
 }
 
 .app-main-web2 {
@@ -2257,21 +2253,21 @@ button:active {
 }
 
 .contactwrapper {
-  background: #fdebd7;
+  background: #FDEBD7;
 }
 
 @media (min-width: 768px) {
   .bg-section-web1 {
     display: block !important;
-    background: #fdebd7 !important;
+    background: #FDEBD7 !important;
     height: 30em;
     padding-top: 10em;
     text-align: center !important;
-    color: #443b76;
+    color: #443B76;
   }
 
   .webheader {
-    background: #fdf6f3;
+    background: #FDF6F3;
     height: 5em;
   }
 
@@ -2287,7 +2283,7 @@ button:active {
     padding: 1em 25% 0 25% !important;
     height: 100% !important;
     display: block !important;
-    background: #fdf6f3;
+    background: #FDF6F3;
   }
 
   .app-main {
@@ -2329,7 +2325,7 @@ button:active {
     border: 1px solid #f3efef;
     padding: 0.5em;
     width: 100%;
-    border-bottom: 1px solid #443b76;
+    border-bottom: 1px solid #443B76;
   }
 
   input:hover {
@@ -2346,13 +2342,13 @@ button:active {
     background: white;
     border: 1px solid #f3efef;
     width: 97%;
-    border-bottom: 1px solid #443b76;
+    border-bottom: 1px solid #443B76;
     padding: 0 0.5em;
   }
 
   .sign-if {
     text-align: center;
-    color: #443b76;
+    color: #443B76;
     margin-top: 2em;
     font-family: Gibson;
     font-style: normal;
@@ -2375,7 +2371,7 @@ button:active {
     border: 1px solid #f3efef;
     margin-bottom: 2em;
     width: 100%;
-    border-bottom: 1px solid #443b76;
+    border-bottom: 1px solid #443B76;
     padding: 0 0.5em;
   }
 
@@ -2396,13 +2392,13 @@ button:active {
   }
 
   .em-add {
-    color: #443b76;
+    color: #443B76;
   }
 
   .submitbtn {
     display: block;
     margin-top: 5em;
-    background: #f58967;
+    background: #F58967;
     border-radius: 10px;
     border: 1px solid #f3efef;
     color: white;
@@ -2410,7 +2406,7 @@ button:active {
   }
   .submitbtn:hover {
     cursor: pointer;
-    background: #eb6054;
+    background: #EB6054;
   }
 
   .submit-web1 {
@@ -2432,7 +2428,7 @@ button:active {
   .bg-section-web {
     padding: 0 13% 0 13% !important;
     display: block !important;
-    background: #fdf6f3;
+    background: #FDF6F3;
   }
 
   .microbiome-sec-web {
@@ -2445,7 +2441,7 @@ button:active {
   }
 
   .webheader {
-    background: #fdf6f3;
+    background: #FDF6F3;
     height: 5em;
   }
 
@@ -2460,7 +2456,7 @@ button:active {
   .app-main-web {
     padding: 1em 15% 0 15% !important;
     display: block !important;
-    background: #fdf6f3;
+    background: #FDF6F3;
   }
 
   .cookies {
@@ -2523,14 +2519,26 @@ p {
 
 @font-face {
   body {
-    font-family: "Gibson" !important;
-    src: url(../fonts/Gibson-Light.otf) format("truetype") font-weight-lighter,
-      url(../fonts/Gibson-Regular.ttf) format("truetype") font-weight-normal,
-      url(../fonts/Gibson-RegularItalic.ttf) format("truetype")
-        font-weight-italic,
-      url(../fonts/Gibson-bold.otf) format("truetype") font-weight-bold,
-      url(../fonts/Gibson-BoldItalic.ttf) format("truetype") font-italic
-        font-weight-bold;
+    font-family: "GibsonBold";
+    src: url(../fonts/gibson-bold.ttf) format("truetype");
+  }
+}
+@font-face {
+  body {
+    font-family: "GibsonBoldItalic";
+    src: url(../fonts/Gibson-BoldItalic.ttf) format("truetype");
+  }
+}
+@font-face {
+  body {
+    font-family: "GibsonRegular";
+    src: url(../fonts/Gibson-Regular.ttf) format("truetype");
+  }
+}
+@font-face {
+  body {
+    font-family: "GibsonRegularItalic";
+    src: url(../fonts/Gibson-RegularItalic.ttf) format("truetype");
   }
 }
 

@@ -1,15 +1,15 @@
-$blue: #443B76;
-$orange: #EB6054;
+$blue: #443b76;
+$orange: #eb6054;
 
 html {
   scroll-behavior: smooth;
 }
 
-@media (min-width: 768px){
+@media (min-width: 768px) {
   h1 {
-  font-size: 50px;
-  color: $blue;
-  font-weight: 300;
+    font-size: 50px;
+    color: $blue;
+    font-weight: 300;
   }
   h2 {
     font-size: 36px;
@@ -31,7 +31,7 @@ html {
   }
 }
 
-/* For mobile phones: */ 
+/* For mobile phones: */
 @import "home";
 @import "homeweb";
 @import "header";
@@ -77,21 +77,29 @@ p {
 }
 .blue-btn {
   padding: 5px 2em;
-  background: #443B76;
+  background: #443b76;
   border-radius: 50px;
   color: white;
   &:hover {
-    background: #6872E7;
+    background: #6872e7;
   }
 }
-    
+
 body {
   @font-face {
-    font-family: 'Gibson' !important;
-    src: url(../fonts/Gibson-Light.otf) format('truetype') font-weight-lighter,
-         url(../fonts/Gibson-Regular.ttf) format('truetype') font-weight-normal,
-         url(../fonts/Gibson-RegularItalic.ttf) format('truetype') font-weight-italic,
-         url(../fonts/Gibson-bold.otf) format('truetype') font-weight-bold,
-         url(../fonts/Gibson-BoldItalic.ttf) format('truetype') font-italic font-weight-bold;
+    font-family: "GibsonBold";
+    src: url(../fonts/gibson-bold.ttf) format("truetype");
+  }
+  @font-face {
+    font-family: "GibsonBoldItalic";
+    src: url(../fonts/Gibson-BoldItalic.ttf) format("truetype");
+  }
+  @font-face {
+    font-family: "GibsonRegular";
+    src: url(../fonts/Gibson-Regular.ttf) format("truetype");
+  }
+  @font-face {
+    font-family: "GibsonRegularItalic";
+    src: url(../fonts/Gibson-RegularItalic.ttf) format("truetype");
   }
 }
