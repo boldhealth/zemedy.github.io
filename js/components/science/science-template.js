@@ -1,5 +1,4 @@
-const ScienceTemplate = 
-`
+const ScienceTemplate = `
   <div>
     <sidebar-component></sidebar-component>
     <div class="sciencewrapper">
@@ -41,14 +40,14 @@ const ScienceTemplate =
             <h5>Why CBT for IBS?</h5>
             <p>It’s a treatment you’ve probably heard of (or gone through) for anxiety and depression. Luckily, doctors and researchers have found that it’s also effective for IBS, even more so than diet and medication!</p>
             <div class="cl_img">
-              <img src="img/graph.png">
+              <img data-src="img/graph.png" class="lazyload">
             </div>
           </div>
           <div class="cbt_right">
             <h5>The Vicious Cycle</h5>
             <p>Our flare ups are often triggered by stress and anxiety, and then getting stressed or anxious about the condition in the first place can cause even more symptoms, <strong> what therapists call a ‘vicious cycle’.</strong></p>
             <div class="cb_img">
-             <img src="img/cycle.png">
+             <img data-src="img/cycle.png" class="lazyload">
             </div>
           </div>
           <div style="clear: both;"></div>
@@ -94,8 +93,8 @@ const ScienceTemplate =
 
       <section class="image_slide_section">
         <div class="is_web">
-          <img v-show="slide1" src="img/slide1.png">
-          <img v-show="slide2" src="img/slide2.png">
+          <img v-show="slide1" data-src="img/slide1.png" class="lazyload">
+          <img v-show="slide2" data-src="img/slide2.png" class="lazyload">
           <div @click="togglePhones" class="slide_control" v-bind:class="{ slide_active: slide1 }">
           </div>
           <div @click="togglePhones" class="slide_control" v-bind:class="{ slide_active: slide2 }">
@@ -104,8 +103,8 @@ const ScienceTemplate =
         </div>
         <div class="is_mobile">
           <div class="is_mobile_scroll">
-            <img v-show="slide1" src="img/slide1.png">
-            <img v-show="slide2" src="img/slide2.png">
+            <img v-show="slide1" data-src="img/slide1.png" class="lazyload">
+            <img v-show="slide2" data-src="img/slide2.png" class="lazyload">
           </div>
           <div @click="togglePhones" class="slide_control" v-bind:class="{ slide_active: slide1 }">
           </div>
@@ -263,6 +262,6 @@ const ScienceTemplate =
       <footer-component></footer-component>
     </div>
   </div>
-`
+`;
 
-export { ScienceTemplate }
+export { ScienceTemplate };

@@ -1,5 +1,4 @@
-const FooterTemplate = 
-` <div>
+const FooterTemplate = ` <div>
     <footer class="webfooter">
         <div class="top_links">
             <a href="/#/about">About</a>
@@ -12,7 +11,7 @@ const FooterTemplate =
             <a href="https://twitter.com/tryzemedy"><i class="fab fa-twitter"></i></a>
             <a href="/#/terms"><i class="fab fa-linkedin"></i></a>
             <a href="https://www.instagram.com/tryzemedy/"><i class="fab fa-instagram"></i></a>
-            <img src="img/footerstarer.png">
+            <img data-src="img/footerstarer.png" class="lazyload">
         </div>
         <div class="bottom_links">
             <li><p>Copyright © 2019 Bold Health. All rights reserved</p></li>
@@ -43,7 +42,7 @@ const FooterTemplate =
                 <a href="/#/contact">Contact</a>
             </li>
             <li class="fimg">
-                <img src="img/footerstarer.png">
+                <img data-src="img/footerstarer.png" class="lazyload">
             </li>
             <li class="ficons">
                 <a href="/#/contact"><i class="far fa-envelope"></i></a>
@@ -63,6 +62,6 @@ const FooterTemplate =
         </ul>
     </footer>
   </div>
-`
+`;
 
-export { FooterTemplate }
+export { FooterTemplate };

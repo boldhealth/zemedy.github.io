@@ -13,13 +13,13 @@ const AboutPage = `
               <a href="#founders_section" id="readmore_mobile" class="btn blue-btn">Read more</a>
           </div>
           <div class="founders_img">
-              <img class="fapp" src="img/founders.png">
-              <img class="fweb" src="img/foundersweb.png">
+              <img class="fapp lazyload" data-src="img/founders.png">
+              <img class="fweb lazyload" data-src="img/foundersweb.png">
           </div>
           <div style="clear: both;"></div>
       </section>
       <section id="web_about" class="web_about_img">
-          <img src="img/weabout.png">
+          <img data-src="img/weabout.png" class="lazyload">
           <div class="about_animated">
             <div class="aa_download">
               <h2>Download <br> Zemedy today.</h2>
@@ -34,10 +34,10 @@ const AboutPage = `
             </div>
             <div class="aa_phone_images">
               <img id="iphone" src="img/iphone.svg">
-              <img id="iphone1" class="ip" src="img/iphone1.png">
-              <img id="iphone2" class="ip" src="img/iphone2.png">
-              <img id="iphone3" class="ip" src="img/iphone3.png">
-              <img id="iphone4" class="ip" src="img/iphone4.png">
+              <img id="iphone1" class="ip lazyload" data-src="img/iphone1.png">
+              <img id="iphone2" class="ip lazyload" data-src="img/iphone2.png">
+              <img id="iphone3" class="ip lazyload" data-src="img/iphone3.png">
+              <img id="iphone4" class="ip lazyload" data-src="img/iphone4.png">
             </div>
             <div class="aa_programs">
               <div id="card1" class="program_card">
@@ -165,42 +165,42 @@ const AboutPage = `
           <h2>Science & research advisors</h2>
 
           <div class="prof_card">
-              <img src="img/profpeter.png">
+              <img data-src="img/profpeter.png" class="lazyload">
               <h5>Professor Peter Whorwell</h5>
               <p>Professor of Medicine & Gastroenterology</p>
               <p class="p14">University of Manchester</p>
           </div>
 
           <div class="prof_card">
-              <img src="img/profnewt.png">
+              <img data-src="img/profnewt.png" class="lazyload">
               <h5>Professor Newton Howard</h5>
               <p>Professor of Neuroscience</p>
               <p class="p14">University of Oxford</p>
           </div>
 
           <div class="prof_card">
-              <img src="img/helen.png">
+              <img data-src="img/helen.png" class="lazyload">
               <h5>Helen Burton-Murray</h5>
               <p>Clinical & Research Fellow</p>
               <p class="p14">Mass Gen Hospital</p>
           </div>
 
           <div class="prof_card">
-              <img src="img/profclaudia.png">
+              <img data-src="img/profclaudia.png" class="lazyload">
               <h5>Professor Claudia Witt</h5>
               <p>Director of Medicine</p>
               <p class="p14">University of Zurich</p>
           </div>
 
           <div class="prof_card">
-              <img src="img/drannie.png">
+              <img data-src="img/drannie.png" class="lazyload">
               <h5>Dr Annie Lau</h5>
               <p>Senior Research Fellow</p>
               <p class="p14">Macquarie University</p>
           </div>
 
           <div class="prof_card">
-              <img src="img/drmelissa.png">
+              <img data-src="img/drmelissa.png" class="lazyload">
               <h5>Dr Melissa Hunt</h5>
               <p>Associate Director of Clinical Training</p>
               <p class="p14">University of Pennsylvania</p>
@@ -211,19 +211,19 @@ const AboutPage = `
           <h2>We’re committed to providing you with</h2>
           <div class="cs_box">
               <h5>A personal touch</h5>
-              <img src="img/g.png">
+              <img data-src="img/g.png" class="lazyload">
               <p>Our product is built around you and your needs. We provide personal solutions to a personal problem.</p>
           </div>
 
           <div class="cs_box">
               <h5>Accuracy</h5>
-              <img src="img/g1.png">
+              <img data-src="img/g1.png" class="lazyload">
               <p>Zemedy was created by leading IBS experts, which means the programme is science and data-driven (and used by the NHS)</p>
           </div>
 
           <div class="cs_box">
               <h5>Acessibility</h5>
-              <img src="img/g2.png">
+              <img data-src="img/g2.png" class="lazyload">
               <p>IBS can come on suddenly and urgently. Thats why we made Zemedy accessible at any time and wherever you are.</p>
           </div>
           <div style="clear: both"></div>
@@ -231,9 +231,9 @@ const AboutPage = `
 
       <div class="ps_container"> 
         <section class="promise_section">
-            <img class="ourpromise" src="img/ourpromise.png">
+            <img class="ourpromise lazyload" data-src="img/ourpromise.png">
             <div class="psimg_container">
-              <img class="fappwe" src="img/g3.png">
+              <img class="fappwe lazyload" data-src="img/g3.png">
             </div>
             <div class="our_promise_cont">
                 <h2>Our promise</h2>
