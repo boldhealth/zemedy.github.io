@@ -244,6 +244,7 @@ html {
 
 @media (min-width: 768px) and (max-width: 2000px) {
   .landing_section_web {
+    display: block;
     padding: 4em 2em; }
     .landing_section_web .iphone_img_container {
       width: 50%;
@@ -258,10 +259,10 @@ html {
         margin-bottom: 2em; }
       .landing_section_web .texts_container h2 {
         text-align: left;
-        margin-bottom: 2em; }
+        margin-bottom: 1em; }
       .landing_section_web .texts_container p {
         width: 70%;
-        margin-bottom: 3em; }
+        margin-bottom: 1.7em; }
 
   .homewrapper {
     background: #FDF6F3; }
