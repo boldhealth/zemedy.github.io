@@ -8,13 +8,13 @@ const InfoSection = {
 
             <p>Find effective ways to ease stress and anxiety through our behavioural therapies while getting to know yourself and your triggers.</p>
 
-            <img class="infoimg" src="img/infoimg.png">
+            <img class="infoimg" src="img/infoimg.svg">
         </div>
 
         <div class="will_gain_web">
             <div class="landing_section_web">
               <div class="iphone_img_container">
-                <img src="img/iphone.png">
+                <img src="img/iphone.svg">
               </div>
               <div class="texts_container">
                 <img src="img/lookers.svg">

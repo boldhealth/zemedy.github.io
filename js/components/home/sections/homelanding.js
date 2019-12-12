@@ -1,7 +1,5 @@
-
 const HomeLanding = {
-  template: 
-  `
+  template: `
     <section class="homelanding">
         <h2>We know IBS is a pain</h2>
         <h2 class="secondline">Let us help you with that</h2>
@@ -19,10 +17,10 @@ const HomeLanding = {
             <img class="ce_img_web" src="img/ce.svg" >
         </div>
         
-        <img class="institutes_img" src="img/institutes.png">
-        <img class="institutes_img_web" src="img/institutesweb.png">
+        <img class="institutes_img lazyload" data-src="img/institutes.png">
+        <img class="institutes_img_web lazyload" data-src="img/institutesweb.png">
     </section>
-  `,
-}
+  `
+};
 
-export { HomeLanding }
+export { HomeLanding };

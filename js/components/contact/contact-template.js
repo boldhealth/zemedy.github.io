@@ -1,5 +1,4 @@
-const ContactTemplate = 
-`
+const ContactTemplate = `
   <div>
     <sidebar-component></sidebar-component>
     <div class="contactwrapper">
@@ -85,13 +84,13 @@ const ContactTemplate =
                         <img src="img/dl1.svg">
                     </a>
                 </div>
-                <img class="halfiphone" src="img/halfiphone.png">
-                <img class="halfiphoneweb" src="img/halfiphoneweb.png">
+                <img class="halfiphone" src="img/halfiphone.svg">
+                <img class="halfiphoneweb" src="img/halfiphoneweb.svg">
                 <div style="clear: both;"></div>
             </section>
       <footer-component></footer-component>
     </div>
   </div>
-`
+`;
 
-export { ContactTemplate }
+export { ContactTemplate };
