@@ -266,7 +266,7 @@ const PrivacyTemplate =
 
 <p>   <b>3. Other Important Information for You</b></p>
 
-<p>  To provide the Service, We may use Your Information based on Our legitimate interests for the following purposes. We Use legitimate interest basis 
+<p>  1.To provide the Service, We may use Your Information based on Our legitimate interests for the following purposes. We Use legitimate interest basis 
      to process Your Information in a way which might reasonably be expected as part of running Our business and which does not materially impact 
      Your rights, freedom or interest.</p>
 
@@ -290,8 +290,8 @@ const PrivacyTemplate =
 
 
 </ol>  
-<p>    2.  By using the Service, You hereby agree to the use of Your Information for the above mentioned purposes.</p>      
-<p><b> 3.  How does Bold Health protect Your information?</b></p>
+<p>    By using the Service, You hereby agree to the use of Your Information for the above mentioned purposes.</p>      
+<p><b> 2.  How does Bold Health protect Your information?</b></p>
 
 <p> To fulfil Our commitment to respecting and protecting Your privacy and the confidentiality of Your Personal Information, Bold health has implemented industry-standard 
     safeguards to prevent unauthorized access or disclosure, misuse, alteration or destruction of Your information. More specifically, We will comply with all applicable data 
@@ -299,7 +299,7 @@ const PrivacyTemplate =
     Because no method of electronic transmission or method of data storage is perfect or impenetrable, We cannot guarantee that Your Information will be absolutely safe from intrusion during transmission or while stored in Our systems. 
     To help protect Your privacy and confidentiality of Your Information, We also need to ask for Your cooperation regarding the following: Please do not copy and transmit Your chat conversations, health data and/or Personal Information with other people. Also, please notify at the contact information provided at the end of this policy, in the event You suspect any unauthorized use of Your account or any other breach of security via Our contact information.
     </p>
-<p>   <b>4.  Where is Your Information transmitted and stored?</b></p>
+<p>   <b>3.  Where is Your Information transmitted and stored?</b></p>
 
 <p> To provide the Service in a reliable and responsible manner, Bold Health processes and stores Your Information on secure servers which may be physically 
     located in different countries around the world, including countries outside the United Kingdom.
@@ -315,7 +315,7 @@ const PrivacyTemplate =
     the exercise of Your rights, in accordance with this Privacy Policy and in compliance with
     Data Protection Law. </p>
 
-<p>   <b>5.  How long does Bold Health keep Your Information?</b></p>
+<p>   <b>4.  How long does Bold Health keep Your Information?</b></p>
 <p> Bold Health retains any Information You provide or automatically collected while Your account is in existence, for the length of time 
     needed to fulfil any of the applicable purposes of use described in this Privacy Policy, or to comply with applicable Data Protection Law.
     We may retain Your Information even after Your account is closed if retention is reasonably necessary. These could be in situations 
@@ -323,7 +323,7 @@ const PrivacyTemplate =
     service, resolve disputes between or with Bold Health users, or to detect and deter unauthorized or fraudulent use of or abuse of the 
     Service.
     </p>
-<p>   <b>6.  Does Bold health use outside service providers or agents?</b></p>
+<p>   <b>5.  Does Bold health use outside service providers or agents?</b></p>
 
 <p> To facilitate and provide You with the Service, it sometimes is necessary for Bold Health to request third party partner service 
     providers or agents to help Us process and/or store your Information. We strictly evaluate the partner service providers and agents, and 
@@ -331,7 +331,7 @@ const PrivacyTemplate =
     systems, and We strictly require that they comply with confidentiality obligations and applicable laws and regulations including Data 
     Protection Law as relevant. We also require that they access Your Information only to the extent necessary to perform tasks on Our behalf.</p>
 
-<p>    <b>7.  Does Bold Health give Your Information to third parties?</b></p>
+<p>    <b>6.  Does Bold Health give Your Information to third parties?</b></p>
 
 <p>     
     Other than as described in this Privacy Policy and, where relevant, other applicable privacy policies or addendums, Bold Health will never 
@@ -346,13 +346,13 @@ const PrivacyTemplate =
     transactions, please read this Privacy Policy from time to time.
     </p>
 
-<p>    <b>8.  Does Bold Health use third-party modules?</b></p>
+<p>    <b>7.  Does Bold Health use third-party modules?</b></p>
 <p> 
     Bold health uses third party advertising agencies to place advertisements on the internet or in other media. To measure the effectiveness of 
     the advertisements to determine how much to pay to the advertising agencies, We may install third-party modules within the Zemedy app. 
     We may also install other third-party modules within the Zemedy App in order to deliver the Service and help Us understand how the Service 
     is used.</p>
-<p>    <b>9.  What are Your data protection rights?</b></p>
+<p>    <b>8.  What are Your data protection rights?</b></p>
 
 <p> 
     You have certain rights under the Data Protection Law in relation to the Personal Information that You share with Us. We have tried to make it as easy as
@@ -379,7 +379,7 @@ const PrivacyTemplate =
             CONVERSATION MESSAGES.</li>
     </ol>
 
-<p>   10.  If You are not happy about any aspect of the way We collect, share or Use Your Personal Information, please let Us know at the contact 
+<p>   9.  If You are not happy about any aspect of the way We collect, share or Use Your Personal Information, please let Us know at the contact 
       Information provided in this policy. You have the right to complain to a Data Protection supervisory authority in Your state of residence. </p>
 
 <p>     <b>4. Security</b></p>
