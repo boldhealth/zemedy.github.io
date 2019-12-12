@@ -1,4 +1,4 @@
-@media (min-width: 768px) and (max-width: 2000px){
+@media (min-width: 768px) and (max-width: 2000px) {
   .landing_section_web {
     display: block;
     padding: 4em 2em;
@@ -26,14 +26,14 @@
       }
     }
   }
-	.homewrapper {
-		background: #FDF6F3;
-	}
+  .homewrapper {
+    background: #fdf6f3;
+  }
   .download_btn {
     margin: 0 1em 0 0;
   }
   .download_btn_red {
-    background: #EB6054;
+    background: #eb6054;
     padding: 1em 1em;
     border-radius: 5px;
     margin: 0 1em 0 0;
@@ -44,139 +44,139 @@
     }
   }
   .landing_bg_img_app {
-		display: none;
-	}
-	.landing_bg_img_web {
-		display: block;
-		position: absolute;
-		top: 15%;
-		right: 10%;
-		width: 60%;
-		z-index: 0;
-	}
-	.character_img {
-	    text-align: center;
-	    position: absolute;
-	    top: 30%;
-	    left: 55%;
-	}
-	.homelanding {
-		text-align: left;
-		padding: 13% 7% 0 7%;
-		h2 {
-			position: relative;
-			z-index: 5;
-      padding: 0 1.3em;
-		}
-	}
-	.download_container {
-		position: relative;
-		text-align: left;
-		padding: 2em 0 0 3em;
-		z-index: 5;
-	}
-	.apps_img_container {
-		text-align: left;
-		position: relative;
-		z-index: 5;
-		margin-bottom: 29em;
-		padding: 3em 0 0 3em;
-		img {
-			margin: 0 1em 0 0;
-		}
-	}
-	.ce_img {
-		display: none;
-	}
-	.institutes_img_web {
-		display: block;
-		width: 100%;
-		position: absolute;
-	    left: 0;
-	    top: 97%;
-	    z-index: 5;
-	}
-	.institutes_img {
-		display: none;
-	}
-	.ce_img_web {
-		display: inline;
-	}
-	.intro_cont {
-		display: none;
-	}
-	.intro_img {
-		display: block;
-		width: 100%;
-		text-align: center;
-		img {
-			width: 60%;
-		}
-	}
-	.infosection {
-		padding: 0;
-		margin-top: 38em;
-		h2 {
-			text-align: center;
-		}
-	}
-	.will_gain_web {
+    display: none;
+  }
+  .landing_bg_img_web {
     display: block;
-		margin: 0 12.5%;
-	}
-	.info_box {
-		width: 30%;
-		float: left;
-		margin: 0 1.5%;
-	}
-	.find_out_more_container {
-		text-align: center;
-		margin: 5% 35%;
-	}
-	.testimonialcontainer {
-		padding: 10em 20em;
-		background: url(../img/testimonialbgweb.png);
-		background-size: cover;
-		background-repeat: no-repeat;
+    position: absolute;
+    top: 15%;
+    right: 10%;
+    width: 60%;
+    z-index: 0;
+  }
+  .character_img {
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 55%;
+  }
+  .homelanding {
+    text-align: left;
+    padding: 13% 7% 0 7%;
+    h2 {
+      position: relative;
+      z-index: 5;
+      padding: 0 1.3em;
+    }
+  }
+  .download_container {
+    position: relative;
+    text-align: left;
+    padding: 2em 0 0 3em;
+    z-index: 5;
+  }
+  .apps_img_container {
+    text-align: left;
+    position: relative;
+    z-index: 5;
+    margin-bottom: 29em;
+    padding: 3em 0 0 3em;
+    img {
+      margin: 0 1em 0 0;
+    }
+  }
+  .ce_img {
+    display: none;
+  }
+  .institutes_img_web {
+    display: block;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 97%;
+    z-index: 5;
+  }
+  .institutes_img {
+    display: none;
+  }
+  .ce_img_web {
+    display: inline;
+  }
+  .intro_cont {
+    display: none;
+  }
+  .intro_img {
+    display: block;
+    width: 100%;
+    text-align: center;
+    img {
+      width: 60%;
+    }
+  }
+  .infosection {
+    padding: 0;
+    margin-top: 38em;
+    h2 {
+      text-align: center;
+    }
+  }
+  .will_gain_web {
+    display: block;
+    margin: 0 12.5%;
+  }
+  .info_box {
+    width: 30%;
+    float: left;
+    margin: 0 1.5%;
+  }
+  .find_out_more_container {
+    text-align: center;
+    margin: 5% 35%;
+  }
+  .testimonialcontainer {
+    padding: 10em 20em;
+    background: url(../img/testimonialbg.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
     h5 {
       font-size: 36px;
       height: 7em !important;
     }
-	}
-	.diagramapp {
-		display: none;
-	}
-	.science_behind {
-		padding: 5% 8%;
-		h2 {
-			width: 10em;
-		}
-	}
-	.get_app_section {
-		padding: 2% 22% 0;
-		background: #FDEBD7;
-		.halfiphoneweb {
-			float: left;
+  }
+  .diagramapp {
+    display: none;
+  }
+  .science_behind {
+    padding: 5% 8%;
+    h2 {
+      width: 10em;
+    }
+  }
+  .get_app_section {
+    padding: 2% 22% 0;
+    background: #fdebd7;
+    .halfiphoneweb {
+      float: left;
       width: 45%;
-		}
-		.store_imgs_cont {
-		    position: absolute;
-		    right: 25%;
-		    margin-top: 15em;
-		}
-		h5 {
-			float: right;
-			padding: 15% 0 0 0;
-			width: 50%;
-			text-align: left;
-		}
-	}
-	.halfiphone {
-		display: none;
-	}
-	.halfiphoneweb {
-		display: block;
-	}
+    }
+    .store_imgs_cont {
+      position: absolute;
+      right: 25%;
+      margin-top: 15em;
+    }
+    h5 {
+      float: right;
+      padding: 15% 0 0 0;
+      width: 50%;
+      text-align: left;
+    }
+  }
+  .halfiphone {
+    display: none;
+  }
+  .halfiphoneweb {
+    display: block;
+  }
   .sb_web {
     display: block;
     position: relative;
@@ -242,7 +242,7 @@
     display: none;
   }
 }
-@media (min-width: 1500px) and (max-width: 2000px){
+@media (min-width: 1500px) and (max-width: 2000px) {
   .institutes_img_web {
     top: 86% !important;
   }
@@ -262,7 +262,7 @@
     padding-left: 4em !important;
   }
 }
-@media (min-width: 2000px){
+@media (min-width: 2000px) {
   .is_mobile {
     display: none;
   }
@@ -300,9 +300,9 @@
     }
   }
   .homewrapper {
-    background: #FDF6F3;
+    background: #fdf6f3;
   }
-    .landing_bg_img_app {
+  .landing_bg_img_app {
     display: none;
   }
   .landing_bg_img_web {
@@ -314,10 +314,10 @@
     z-index: 0;
   }
   .character_img {
-      text-align: center;
-      position: absolute;
-      top: 30%;
-      left: 55%;
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 55%;
   }
   .homelanding {
     text-align: left;
@@ -393,7 +393,7 @@
   }
   .testimonialcontainer {
     padding: 10em 20em;
-    background: url(../img/testimonialbgweb.png);
+    background: url(../img/testimonialbg.svg);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -412,14 +412,14 @@
   }
   .get_app_section {
     padding: 2% 22% 0;
-    background: #FDEBD7;
+    background: #fdebd7;
     .halfiphoneweb {
       float: left;
     }
     .store_imgs_cont {
-        position: absolute;
-        right: 30.5%;
-        margin-top: 15em;
+      position: absolute;
+      right: 30.5%;
+      margin-top: 15em;
     }
     h5 {
       float: right;

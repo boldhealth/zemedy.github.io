@@ -1,5 +1,4 @@
-const HomepageTemplate = 
-`
+const HomepageTemplate = `
   <div>
     <sidebar-component></sidebar-component>
     <div class="homewrapper">
@@ -16,6 +15,6 @@ const HomepageTemplate =
       <footer-component></footer-component>
     </div>
   </div>
-`
+`;
 
-export { HomepageTemplate }
+export { HomepageTemplate };

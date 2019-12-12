@@ -1,5 +1,4 @@
-const GetAppTemplate = 
-`
+const GetAppTemplate = `
   <section class="get_app_section">
       <h5>Zemedy. The smart little app that helps you take control of your gut health.</h5>
       <div class="store_imgs_cont">
@@ -10,10 +9,10 @@ const GetAppTemplate =
               <img src="img/dl1.svg">
           </a>
       </div>
-      <img class="halfiphone" src="img/halfiphone.png">
-      <img class="halfiphoneweb" src="img/halfiphoneweb.png">
+      <img class="halfiphone" src="img/halfiphone.svg">
+      <img class="halfiphoneweb" src="img/halfiphoneweb.svg">
       <div style="clear: both;"></div>
   </section>
-`
+`;
 
-export { GetAppTemplate }
+export { GetAppTemplate };

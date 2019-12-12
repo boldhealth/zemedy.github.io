@@ -33,7 +33,7 @@ const AboutPage = `
               <div style="clear: both"></div>
             </div>
             <div class="aa_phone_images">
-              <img id="iphone" src="img/iphone.png">
+              <img id="iphone" src="img/iphone.svg">
               <img id="iphone1" class="ip" src="img/iphone1.png">
               <img id="iphone2" class="ip" src="img/iphone2.png">
               <img id="iphone3" class="ip" src="img/iphone3.png">
@@ -132,7 +132,7 @@ const AboutPage = `
               <img src="img/androidstore.svg">
           </div>
           <div class="dl_right">
-              <img src="img/iphone.png">
+              <img src="img/iphone.svg">
           </div>
           <div style="clear:both"></div>
 

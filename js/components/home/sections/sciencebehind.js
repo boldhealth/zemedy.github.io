@@ -21,7 +21,7 @@ const ScienceBehind = {
         <img id="sb4" class="diagramweb sb4" src="img/sb4.png">
         <img id="sb5" class="diagramweb sb5" src="img/sb5.png">
         <img id="sb6" class="diagramweb sb6" src="img/sb6.png">
-        <img id="sb7" class="diagramweb sb7" src="img/sb7.png">
+        <img id="sb7" class="diagramweb sb7" src="img/sb7.svg">
         <div class="find_out_more_container">
           <a href="/#/science">
             <h5>Find out more about the science</h5>

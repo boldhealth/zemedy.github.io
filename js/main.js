@@ -1,60 +1,60 @@
-import Vue from './vue.js'
-import { HomeComponent } from './components/home/home-component.js'
-import { MainTemplate } from './components/main-template.js'
-import { AboutComponent } from './components/about/about-component.js'
-import { ScienceComponent } from './components/science/science-component.js'
-import { TermsComponent } from './components/terms/terms-component.js'
-import { PrivacyComponent } from './components/privacy/privacy-component.js'
-import { AccessibilityComponent } from './components/accessibility/accessibility-component.js'
-import { ContactComponent } from './components/contact/contact-component.js'
+import Vue from "./vue.js";
+import { HomeComponent } from "./components/home/home-component.js";
+import { MainTemplate } from "./components/main-template.js";
+import { AboutComponent } from "./components/about/about-component.js";
+import { ScienceComponent } from "./components/science/science-component.js";
+import { TermsComponent } from "./components/terms/terms-component.js";
+import { PrivacyComponent } from "./components/privacy/privacy-component.js";
+import { AccessibilityComponent } from "./components/accessibility/accessibility-component.js";
+import { ContactComponent } from "./components/contact/contact-component.js";
 
-Vue.use(VueRouter)
+Vue.use(VueRouter);
 
 const router = new VueRouter({
   routes: [
     {
-      path: '/',
+      path: "/",
       component: HomeComponent,
       name: "Home"
     },
     {
-      path: '/about',
+      path: "/about",
       component: AboutComponent,
-      name: "About Zemedy" 
+      name: "About Zemedy"
     },
     {
-      path: '/science',
+      path: "/science",
       component: ScienceComponent,
-      name: "Science" 
+      name: "Science"
     },
     {
-      path: '/terms',
+      path: "/terms",
       component: TermsComponent,
-      name: "Terms" 
+      name: "Terms"
     },
     {
-      path: '/privacy',
+      path: "/privacy",
       component: PrivacyComponent,
-      name: "Privacy" 
+      name: "Privacy"
     },
     {
-      path: '/accessibility',
+      path: "/accessibility",
       component: AccessibilityComponent,
-      name: "Accessibility" 
+      name: "Accessibility"
     },
     {
-      path: '/contact',
+      path: "/contact",
       component: ContactComponent,
-      name: "Contact Zemedy" 
+      name: "Contact Zemedy"
     }
   ]
-})
+});
 
 // router.replace({ path: '*', redirect: '/' })
-export default router
+export default router;
 
 new Vue({
-  el: '#app',
+  el: "#app",
   router,
   template: MainTemplate
-})
+});
