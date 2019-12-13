@@ -78,11 +78,11 @@
   .homelanding {
     text-align: left;
     padding: 13% 7% 0 7%;
-    h2 {
+    h1 {
       position: relative;
       z-index: 5;
       padding: 0 1.3em;
-      font-size: 50px;
+      font-size: 50px !important;
       font-family: GibsonLight;
       font-weight: normal;
     }
@@ -375,11 +375,11 @@
   .homelanding {
     text-align: left;
     padding: 13% 7% 0 7%;
-    h2 {
+    h1 {
       position: relative;
       z-index: 5;
       padding: 0 1.3em;
-      font-size: 50px;
+      font-size: 50px !important;
       font-family: GibsonLight;
       font-weight: normal;
     }

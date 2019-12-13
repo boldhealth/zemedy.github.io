@@ -1,8 +1,8 @@
 const HomeLanding = {
   template: `
     <section class="homelanding">
-        <h2>We know IBS is a pain</h2>
-        <h2 class="secondline">Let us help you with that</h2>
+        <h1>We know IBS is a pain</h1>
+        <h1 class="secondline">Let us help you with that</h1>
         <div class="download_container">
             <a class="download_btn" href="https://apps.apple.com/gb/app/zemedy-ibs-gut-relief/id1442789941">
                 <img src="img/dl.svg">
