@@ -22,13 +22,13 @@ const ScienceBehind = {
         <img id="sb5" class="diagramweb sb5 lazyload" data-src="img/sb5.png">
         <img id="sb6" class="diagramweb sb6 lazyload" data-src="img/sb6.png">
         <img id="sb7" class="diagramweb sb7 lazyload" data-src="img/sb7.svg">
-        <div class="find_out_more_container">
-          <a href="/#/science">
-            <h5>Find out more about the science</h5>
-            <img src="img/arrowup.svg">
-          </a>
-          <div style="clear: both;"></div>
-        </div>
+      </div>
+      <div class="find_out_more_container">
+        <a href="/#/science">
+          <h5>Find out more about the science</h5>
+          <img src="img/arrowup.svg">
+        </a>
+        <div style="clear: both;"></div>
       </div>
     </section>
   `
