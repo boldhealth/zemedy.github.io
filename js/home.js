@@ -1,6 +1,11 @@
 $(function() {
   var testimonialIndex = 0;
-  showTestimonialSlides();
+
+  try {
+    showTestimonialSlides();
+  } catch {
+    //
+  }
 
   function currentSlide(n) {
     testimonialIndex = n;
@@ -48,12 +53,6 @@ $(function() {
     e.preventDefault();
     $("#wrapper").removeClass("toggled");
   });
-
-  $("#iphone").show();
-  $("#iphone1").hide();
-  $("#iphone2").hide();
-  $("#iphone3").hide();
-  $("#iphone4").hide();
 
   $("#card1").mouseenter(function() {
     $("#iphone1").show();
