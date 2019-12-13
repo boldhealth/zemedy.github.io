@@ -2,6 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  font-family: Gibson;
+  font-weight: normal;
+}
 @font-face {
   body {
     font-family: "GibsonBold";
