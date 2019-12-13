@@ -19,13 +19,25 @@
       h2 {
         text-align: left;
         margin-bottom: 1em;
+        font-family: GibsonLight;
+        font-weight: normal;
+        font-size: 36px;
+        line-height: 50px;
       }
       p {
         width: 70%;
         margin-bottom: 1.7em;
+        font-family: GibsonLight;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 27px;
       }
       h5 {
         font-size: 18px;
+        margin-bottom: 1.7em;
+        font-family: Gibson;
+        font-weight: normal;
+        line-height: 27px;
       }
     }
   }
@@ -70,6 +82,9 @@
       position: relative;
       z-index: 5;
       padding: 0 1.3em;
+      font-size: 50px;
+      font-family: GibsonLight;
+      font-weight: normal;
     }
   }
   .download_container {
@@ -126,6 +141,26 @@
   .will_gain_web {
     display: block;
     margin: 0 12.5%;
+
+    h2 {
+      font-family: GibsonLight;
+      font-weight: normal;
+      font-size: 50px;
+    }
+
+    .info_box {
+      h2 {
+        font-family: Gibson;
+        font-weight: normal;
+        font-size: 36px;
+      }
+
+      p {
+        font-family: GibsonLight;
+        font-weight: normal;
+        font-size: 18px;
+      }
+    }
   }
   .info_box {
     width: 30%;
@@ -295,13 +330,25 @@
       h2 {
         text-align: left;
         margin-bottom: 2em;
+        font-family: GibsonLight;
+        font-weight: normal;
+        font-size: 36px;
+        line-height: 50px;
       }
       p {
         width: 70%;
         margin-bottom: 3em;
+        font-family: GibsonLight;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 27px;
       }
       h5 {
         font-size: 18px;
+        margin-bottom: 1.7em;
+        font-family: Gibson;
+        font-weight: normal;
+        line-height: 27px;
       }
     }
   }
@@ -332,6 +379,9 @@
       position: relative;
       z-index: 5;
       padding: 0 1.3em;
+      font-size: 50px;
+      font-family: GibsonLight;
+      font-weight: normal;
     }
   }
   .download_container {
@@ -387,6 +437,26 @@
   }
   .will_gain_web {
     margin: 0 12.5%;
+
+    h2 {
+      font-family: GibsonLight;
+      font-weight: normal;
+      font-size: 50px;
+    }
+
+    .info_box {
+      h2 {
+        font-family: Gibson;
+        font-weight: normal;
+        font-size: 36px;
+      }
+
+      p {
+        font-family: GibsonLight;
+        font-weight: normal;
+        font-size: 18px;
+      }
+    }
   }
   .info_box {
     width: 30%;

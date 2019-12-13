@@ -5,6 +5,32 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  @font-face {
+    font-family: "GibsonBold";
+    src: url(../fonts/Gibson-Bold.ttf) format("truetype");
+  }
+  @font-face {
+    font-family: "GibsonBoldItalic";
+    src: url(../fonts/Gibson-BoldItalic.ttf) format("truetype");
+  }
+  @font-face {
+    font-family: "GibsonLight";
+    src: url(../fonts/Gibson-Light.ttf) format("truetype");
+  }
+  @font-face {
+    font-family: "GibsonRegular";
+    src: url(../fonts/Gibson-Regular.ttf) format("truetype");
+  }
+  @font-face {
+    font-family: "GibsonRegularItalic";
+    src: url(../fonts/Gibson-RegularItalic.ttf) format("truetype");
+  }
+
+  font-family: Gibson;
+  font-weight: normal;
+}
+
 @media (min-width: 768px) {
   h1 {
     font-size: 50px;
@@ -82,24 +108,5 @@ p {
   color: white;
   &:hover {
     background: #6872e7;
-  }
-}
-
-body {
-  @font-face {
-    font-family: "GibsonBold";
-    src: url(../fonts/gibson-bold.ttf) format("truetype");
-  }
-  @font-face {
-    font-family: "GibsonBoldItalic";
-    src: url(../fonts/Gibson-BoldItalic.ttf) format("truetype");
-  }
-  @font-face {
-    font-family: "GibsonRegular";
-    src: url(../fonts/Gibson-Regular.ttf) format("truetype");
-  }
-  @font-face {
-    font-family: "GibsonRegularItalic";
-    src: url(../fonts/Gibson-RegularItalic.ttf) format("truetype");
   }
 }
