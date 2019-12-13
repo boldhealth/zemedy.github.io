@@ -2660,4 +2660,11 @@ p {
   background: #6872e7;
 }
 
+.aa_phone_images #iphone1,
+.aa_phone_images #iphone2,
+.aa_phone_images #iphone3,
+.aa_phone_images #iphone4 {
+  display: none;
+}
+
 /*# sourceMappingURL=main.css.map */
