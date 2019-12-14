@@ -7,9 +7,12 @@ const ScienceTemplate = `
           <h5>SCIENCE</h5>
           <h2>Zemedy uses cognitive behavioural therapy to help reduce your flare ups</h2>
       </section>
-
+      
       <section class="sciencelandingweb">
-          <img src="img/sciencelanding.svg">
+          <img src="img/sciencelandingx.png">
+          <div class="tm_sciencelandingx"> <p> <b>SCIENCE</b></p></div>
+
+          <div class="sciencelandingx"><h1> <b>Zemedy uses cognitive behavioural therapy to help reduce your flare ups </b></h1></div>
       </section>
 
       <section class="cbt_section">

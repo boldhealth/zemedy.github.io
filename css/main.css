@@ -131,12 +131,14 @@ body {
   text-align: center;
   padding-top: 3em;
 }
-.homelanding h2 {
+.homelanding h1 {
+  position: relative;
   color: #443b76;
-  padding: 0 0.5em;
-  font-size: 36px;
+  padding: 0 1em;
+  font-size: 33px;
   font-family: GibsonLight;
   font-weight: normal;
+  z-index: 100;
 }
 .homelanding .secondline {
   color: #eb6054;
@@ -450,11 +452,11 @@ body {
     text-align: left;
     padding: 13% 7% 0 7%;
   }
-  .homelanding h2 {
+  .homelanding h1 {
     position: relative;
     z-index: 5;
     padding: 0 1.3em;
-    font-size: 50px;
+    font-size: 50px !important;
     font-family: GibsonLight;
     font-weight: normal;
   }
@@ -786,11 +788,11 @@ body {
     text-align: left;
     padding: 13% 7% 0 7%;
   }
-  .homelanding h2 {
+  .homelanding h1 {
     position: relative;
     z-index: 5;
     padding: 0 1.3em;
-    font-size: 50px;
+    font-size: 50px !important;
     font-family: GibsonLight;
     font-weight: normal;
   }
@@ -1260,11 +1262,12 @@ a {
 }
 
 .aboutwrapper {
-  background: #F8CB95;
+  background: #f8cb95;
 }
 
 .applanding_container {
   width: 100%;
+  background: url("../img/ropebg.png") center center no-repeat;
 }
 
 .aboutlanding {
@@ -1312,7 +1315,7 @@ a {
 }
 
 .founder_section {
-  background: #FDF6F3;
+  background: #fdf6f3;
   padding: 3em 1em;
 }
 .founder_section h2 {
@@ -1396,7 +1399,7 @@ a {
   width: 100%;
 }
 .promise_section .our_promise_cont {
-  background: #FDEBD7;
+  background: #fdebd7;
   padding: 2em 1em 0 1em;
 }
 .promise_section .our_promise_cont h2 {
@@ -1409,10 +1412,37 @@ a {
   padding: 2em 0 2em 0;
 }
 .promise_section .our_promise_cont h5 span a {
-  color: #6872E7;
+  color: #6872e7;
 }
 
 @media (min-width: 768px) {
+  .weaboutx {
+    position: absolute;
+    font-size: 38px;
+    top: 23em;
+    width: 51%;
+    left: 8.5em;
+    font-weight: 300;
+  }
+
+  .lg_zemedy {
+    position: absolute;
+    font-size: 38px;
+    top: 25em;
+    width: 49%;
+    left: 8.5em;
+    font-weight: 300;
+  }
+
+  .bf_zemedy {
+    position: absolute;
+    font-size: 38px;
+    top: 27.5em;
+    width: 49%;
+    left: 8.5em;
+    font-weight: 300;
+  }
+
   #readmore_mobile {
     display: none;
   }
@@ -1853,6 +1883,23 @@ hr {
 }
 
 @media (min-width: 768px) {
+  .sciencelandingx {
+    position: absolute;
+    font-size: 50px;
+    top: 4.9em;
+    width: 50%;
+    left: 7.9em;
+    font-weight: 300;
+  }
+
+  .tm_sciencelandingx {
+    position: absolute;
+    font-size: 50px;
+    top: 3.3em;
+    width: 50%;
+    left: 7.9em;
+  }
+
   .image_slide_section {
     padding: 5rem 6rem;
     background: white;

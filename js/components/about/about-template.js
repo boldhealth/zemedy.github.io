@@ -4,7 +4,6 @@ const AboutPage = `
     <div class="aboutwrapper">
       <header-component></header-component>
       <section class="applanding_container">
-          <img class="ropebg" src="img/ropebg.svg">
           <div class="aboutlanding">
               <h1>Our Story</h1>
               <h2>Founded by a doctor and an IBS patient</h2>
@@ -20,6 +19,11 @@ const AboutPage = `
       </section>
       <section id="web_about" class="web_about_img">
           <img data-src="img/weabout.png" class="lazyload">
+          <!--
+          <div class="weaboutx"><h2><b>There’s no easy solution to irritable bowels</b></h2></div>
+          <div class="lg_zemedy"><p> <b> But here at Zemedy, we believe there are better ways to manage IBS than just diet and drugs.</b></p></div>
+          <div class="bf_zemedy"><p> <b> IBS symptoms are closely related to mental wellbeing. Our cognitive programme and practical management tips combine to help you soothe your IBS symptoms.</b> </p></div>
+          -->
           <div class="about_animated">
             <div class="aa_download">
               <h2>Download <br> Zemedy today.</h2>

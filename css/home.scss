@@ -55,12 +55,14 @@
 .homelanding {
   text-align: center;
   padding-top: 3em;
-  h2 {
+  h1 {
+    position: relative;
     color: $blue;
-    padding: 0 0.5em;
-    font-size: 36px;
+    padding: 0 1em;
+    font-size: 33px;
     font-family: GibsonLight;
     font-weight: normal;
+    z-index: 100;
   }
   .secondline {
     color: $orange;
