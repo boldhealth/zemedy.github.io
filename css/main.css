@@ -1565,6 +1565,9 @@ a {
     margin-bottom: 0;
   }
 
+  .applanding_container {
+    background: url("../img/ropebg.png") center center no-repeat;
+  }
   .applanding_container .aboutlanding {
     float: left;
     width: 50%;
@@ -1673,7 +1676,7 @@ a {
   }
 }
 hr {
-  border: 2px solid #443B76;
+  border: 2px solid #443b76;
   margin: 10px 0 2em 0;
 }
 
@@ -1691,7 +1694,7 @@ hr {
   width: 50%;
   height: 5px;
   float: left;
-  background: #E0E0E0;
+  background: #e0e0e0;
 }
 .image_slide_section .slide_control:hover {
   cursor: pointer;
@@ -1700,14 +1703,14 @@ hr {
   width: 50%;
   height: 5px;
   float: left;
-  background: #EB6054;
+  background: #eb6054;
 }
 .image_slide_section .slide_active:hover {
   cursor: default !important;
 }
 
 .sciencewrapper {
-  background: #FDF6F3;
+  background: #fdf6f3;
 }
 
 .sciencelanding {
@@ -1735,7 +1738,7 @@ hr {
 }
 
 .cbt_explainer {
-  background: #FDEBD7;
+  background: #fdebd7;
   padding: 4em 3em;
   text-align: center;
 }
@@ -1751,11 +1754,11 @@ hr {
 }
 
 .nhs_section {
-  background: #FDEBD7;
+  background: #fdebd7;
   padding: 4em 2em;
 }
 .nhs_section span {
-  color: #EB6054;
+  color: #eb6054;
 }
 
 .bumps_image {
@@ -1776,7 +1779,7 @@ hr {
 }
 
 .gut_brain_section {
-  background: #DAF6F5;
+  background: #daf6f5;
   padding: 3em 2em;
   text-align: center;
 }
@@ -1802,10 +1805,12 @@ hr {
   text-align: center;
   padding: 0 0 1em 0;
   margin-bottom: 1em;
+  font-family: GibsonLight;
+  font-weight: normal;
 }
 
 .school_card {
-  background: #EB6054;
+  background: #eb6054;
   border-radius: 10px;
   padding: 3em 1.5em;
   margin-bottom: 2em;
@@ -1829,7 +1834,7 @@ hr {
 
 .references_container {
   padding: 3em 1.5em;
-  background: #DAF6F5;
+  background: #daf6f5;
 }
 .references_container h1 {
   font-size: 50px;
@@ -1842,7 +1847,7 @@ hr {
 }
 .references_container hr {
   width: 70%;
-  border: 1px solid #443B76;
+  border: 1px solid #443b76;
 }
 .references_container p {
   margin-bottom: 3em;
@@ -1914,7 +1919,7 @@ hr {
     width: 50%;
     height: 5px;
     float: left;
-    background: #E0E0E0;
+    background: #e0e0e0;
   }
   .image_slide_section .slide_control:hover {
     cursor: pointer;
@@ -1923,7 +1928,7 @@ hr {
     width: 50%;
     height: 5px;
     float: left;
-    background: #EB6054;
+    background: #eb6054;
   }
 
   .sciencelandingweb {
@@ -1943,8 +1948,11 @@ hr {
     padding: 2rem 7%;
     font-weight: 200;
   }
-  .cbt_section h2, .cbt_section h5 {
+  .cbt_section h2,
+.cbt_section h5 {
     padding: 2rem 15% 0;
+    font-family: GibsonLight;
+    font-weight: normal;
   }
 
   .cbt_explainer {
@@ -2012,6 +2020,8 @@ hr {
   }
   .why_cbt_section .cbt_left p {
     margin-bottom: 4rem;
+    font-family: GibsonLight;
+    font-weight: normal;
   }
   .why_cbt_section .cbt_left img {
     width: 80%;
@@ -2032,7 +2042,11 @@ hr {
     position: absolute;
   }
   .nhs_section span {
-    color: #EB6054;
+    color: #eb6054;
+  }
+  .nhs_section h5 {
+    font-family: GibsonLight;
+    font-weight: normal;
   }
 
   .brain_gut_section {
@@ -2041,8 +2055,11 @@ hr {
   .brain_gut_section p {
     padding: 4rem 7% 2rem;
   }
-  .brain_gut_section h2, .brain_gut_section h5 {
+  .brain_gut_section h2,
+.brain_gut_section h5 {
     padding: 2rem 15% 0;
+    font-family: GibsonLight;
+    font-weight: normal;
   }
 
   .gut_brain_section {
@@ -2072,6 +2089,8 @@ hr {
     float: left;
     margin: 0 1%;
     height: 30rem;
+    font-family: GibsonLight;
+    font-weight: normal;
   }
 
   .references_container {
@@ -2081,7 +2100,7 @@ hr {
   .references_container_web {
     display: block;
     padding: 5rem 15%;
-    background: #DAF6F5;
+    background: #daf6f5;
   }
   .references_container_web h1 {
     margin-bottom: 1em;
@@ -2356,7 +2375,7 @@ hr {
 }
 
 .bg-section2 {
-  background: #FDEBD7;
+  background: #fdebd7;
 }
 
 .lg_infor2 {
@@ -2394,7 +2413,7 @@ hr {
 
 .submit {
   width: 80%;
-  background: #F58967;
+  background: #f58967;
   border-radius: 100px;
   border: 1px solid #f3efef;
   margin: 2em auto;
@@ -2403,7 +2422,7 @@ hr {
 }
 
 .success {
-  color: #6872E7;
+  color: #6872e7;
   font-size: 15px;
 }
 
@@ -2443,11 +2462,15 @@ hr {
 .lg_infor-web1 {
   display: none;
 }
+.lg_infor-web1 h2 {
+  font-family: GibsonLight;
+  font-weight: normal;
+}
 
 .app-main {
   padding: 1em !important;
   height: 100%;
-  background: #FDF6F3;
+  background: #fdf6f3;
 }
 
 .app-main-web2 {
@@ -2463,21 +2486,21 @@ button:active {
 }
 
 .contactwrapper {
-  background: #FDEBD7;
+  background: #fdebd7;
 }
 
 @media (min-width: 768px) {
   .bg-section-web1 {
     display: block !important;
-    background: #FDEBD7 !important;
+    background: #fdebd7 !important;
     height: 30em;
     padding-top: 10em;
     text-align: center !important;
-    color: #443B76;
+    color: #443b76;
   }
 
   .webheader {
-    background: #FDF6F3;
+    background: #fdf6f3;
     height: 5em;
   }
 
@@ -2493,7 +2516,7 @@ button:active {
     padding: 1em 25% 0 25% !important;
     height: 100% !important;
     display: block !important;
-    background: #FDF6F3;
+    background: #fdf6f3;
   }
 
   .app-main {
@@ -2510,6 +2533,10 @@ button:active {
 
   .lg_infor-web1 {
     display: block;
+  }
+  .lg_infor-web1 h2 {
+    font-family: GibsonLight;
+    font-weight: normal;
   }
 
   .message {
@@ -2552,15 +2579,15 @@ button:active {
     background: white;
     border: 1px solid #f3efef;
     width: 97%;
-    border-bottom: 1px solid #443B76;
+    border-bottom: 1px solid #443b76;
     padding: 0 0.5em;
   }
 
   .sign-if {
     text-align: center;
-    color: #443B76;
+    color: #443b76;
     margin-top: 2em;
-    font-family: Gibson;
+    font-family: GibsonLight;
     font-style: normal;
     font-weight: 300;
     font-size: 25px;
@@ -2581,7 +2608,7 @@ button:active {
     border: 1px solid #f3efef;
     margin-bottom: 2em;
     width: 100%;
-    border-bottom: 1px solid #443B76;
+    border-bottom: 1px solid #443b76;
     padding: 0 0.5em;
   }
 
@@ -2602,13 +2629,13 @@ button:active {
   }
 
   .em-add {
-    color: #443B76;
+    color: #443b76;
   }
 
   .submitbtn {
     display: block;
     margin-top: 5em;
-    background: #F58967;
+    background: #f58967;
     border-radius: 10px;
     border: 1px solid #f3efef;
     color: white;
@@ -2616,7 +2643,7 @@ button:active {
   }
   .submitbtn:hover {
     cursor: pointer;
-    background: #EB6054;
+    background: #eb6054;
   }
 
   .submit-web1 {

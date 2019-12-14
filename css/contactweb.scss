@@ -1,139 +1,144 @@
-@media (min-width: 768px){
-  .bg-section-web1{
+@media (min-width: 768px) {
+  .bg-section-web1 {
     display: block !important;
-    background: #FDEBD7 !important;
+    background: #fdebd7 !important;
     height: 30em;
     padding-top: 10em;
     text-align: center !important;
-    color: #443B76;
-  } 
-  .webheader{
-    background: #FDF6F3;
+    color: #443b76;
+  }
+  .webheader {
+    background: #fdf6f3;
     height: 5em;
   }
-  .bg-section{
-    display: none;  
-  }
-  .microbiome-sec{
+  .bg-section {
     display: none;
   }
-  .app-main-web2{
-    padding:1em 25% 0 25% !important;
+  .microbiome-sec {
+    display: none;
+  }
+  .app-main-web2 {
+    padding: 1em 25% 0 25% !important;
     height: 100% !important;
     display: block !important;
-    background: #FDF6F3;    
+    background: #fdf6f3;
   }
-  .app-main{
+  .app-main {
     display: none;
   }
-  .bg-section2{
+  .bg-section2 {
     display: none;
   }
-  .lg_infor2{
+  .lg_infor2 {
     display: none;
   }
-  .lg_infor-web1{
+  .lg_infor-web1 {
     display: block;
+
+    h2 {
+      font-family: GibsonLight;
+      font-weight: normal;
+    }
   }
-  .message{
-    display: none;
-  }  
-  .first-input{
-    display: none;
-  }
-  .submit{
-    display: none;
-  }
-  .success{
+  .message {
     display: none;
   }
-  .message-web{
+  .first-input {
+    display: none;
+  }
+  .submit {
+    display: none;
+  }
+  .success {
+    display: none;
+  }
+  .message-web {
     display: block;
     height: 9em;
     background: white;
     border: 1px solid rgb(243, 239, 239);
-    padding: .5em;
+    padding: 0.5em;
     width: 100%;
     border-bottom: 1px solid#443B76;
   }
-  input:hover{
-    border: 2px solid rgb(0, 204, 255) ;
+  input:hover {
+    border: 2px solid rgb(0, 204, 255);
   }
-  button:active{
-    background:  rgb(0, 204, 255);
+  button:active {
+    background: rgb(0, 204, 255);
   }
-  .first-input-web{
+  .first-input-web {
     display: block;
     height: 3em;
     background: white;
     border: 1px solid rgb(243, 239, 239);
     width: 97%;
-    border-bottom: 1px solid #443B76;
-    padding: 0 .5em;
+    border-bottom: 1px solid #443b76;
+    padding: 0 0.5em;
   }
-  .sign-if{
+  .sign-if {
     text-align: center;
-    color: #443B76;
+    color: #443b76;
     margin-top: 2em;
-    font-family: Gibson;
+    font-family: GibsonLight;
     font-style: normal;
     font-weight: 300;
     font-size: 25px;
     line-height: 150%;
   }
-  .float-rigt{
+  .float-rigt {
     float: right;
     width: 50%;
     height: 2em;
     margin-top: 3em;
-  } 
-  .first-input-web2{
+  }
+  .first-input-web2 {
     display: block;
     height: 3em;
     background: white;
     border: 1px solid rgb(243, 239, 239);
     margin-bottom: 2em;
     width: 100%;
-    border-bottom: 1px solid #443B76;
-    padding: 0 .5em;
+    border-bottom: 1px solid #443b76;
+    padding: 0 0.5em;
   }
-  .sign-up-wrapper-web{
+  .sign-up-wrapper-web {
     float: left;
     width: 50%;
     height: 2em;
     margin-top: 3em;
   }
-  .meg-wrapper{
-    margin-top: 5em;  
+  .meg-wrapper {
+    margin-top: 5em;
   }
   .failure-web {
     color: red;
     text-align: center;
   }
-  .em-add{
-    color: #443B76;
+  .em-add {
+    color: #443b76;
   }
-  .submitbtn{
+  .submitbtn {
     display: block;
     margin-top: 5em;
-    background: #F58967;
+    background: #f58967;
     border-radius: 10px;
     border: 1px solid rgb(243, 239, 239);
     color: white;
     padding: 1em 6em;
     &:hover {
       cursor: pointer;
-      background: #EB6054;
+      background: #eb6054;
     }
   }
-  .submit-web1{
+  .submit-web1 {
     text-align: center;
     button {
       margin: 4em auto;
       display: block;
     }
   }
-  .success-web{
+  .success-web {
     margin-top: 2em;
     text-align: center;
     padding-bottom: 8em;
