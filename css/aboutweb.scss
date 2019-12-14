@@ -1,4 +1,4 @@
-@media (min-width: 768px){
+@media (min-width: 768px) {
   #readmore_mobile {
     display: none;
   }
@@ -16,7 +16,7 @@
         margin-bottom: 1.3em;
       }
       .download_btn {
-        padding: .5em 1.1em;
+        padding: 0.5em 1.1em;
         display: inline-block;
         margin-bottom: 15px;
         img {
@@ -32,7 +32,7 @@
       float: left;
       text-align: center;
       img {
-        width: 80%;
+        width: 65%;
       }
     }
     .aa_programs {
@@ -47,10 +47,12 @@
         h5 {
           font-weight: 400;
           font-size: 25px;
-        } 
+        }
         p {
           font-size: 14px;
           margin-bottom: 0;
+          font-family: GibsonLight;
+          font-weight: normal;
         }
       }
       &:hover {
@@ -64,10 +66,14 @@
       margin: 15% 0;
       width: 60%;
       float: left;
-      padding-left: 20%; 
+      padding-left: 20%;
       text-align: left;
       h2 {
         margin-bottom: 1em;
+      }
+      h5 {
+        font-family: GibsonLight;
+        font-weight: normal;
       }
     }
     .tackle_img {
@@ -87,11 +93,13 @@
     }
     h5 {
       margin-bottom: 2rem;
+      font-family: GibsonLight;
+      font-weight: normal;
     }
     .expert_card {
       padding-left: 4rem;
       width: 30%;
-      float: left; 
+      float: left;
       margin: 0 1.5%;
       text-align: left;
       height: 12rem;
@@ -110,93 +118,105 @@
       }
     }
   }
-	.applanding_container {
-		.aboutlanding {
-			float: left;
-			width: 50%;
-			padding: 4em 7% 0 4em;
-			h2, p {
-				position: relative;
-				z-index: 5;
-			}
+  .applanding_container {
+    .aboutlanding {
+      float: left;
+      width: 50%;
+      padding: 4em 7% 0 4em;
+      h2,
+      p {
+        position: relative;
+        z-index: 5;
+        font-family: GibsonLight;
+        font-weight: normal;
+      }
       h1 {
         position: relative;
         z-index: 5;
-        padding: 2em 0 .5em 0;
+        padding: 2em 0 0.5em 0;
       }
-		}
-		.founders_img {
-			float: right;
-			width: 50%;
-			img {
-				width: 100%;
-			}
-		}
-	}
-	.fweb {
-	  display: inline; 
-	}
+    }
+    .founders_img {
+      float: right;
+      width: 50%;
+      img {
+        width: 100%;
+      }
+    }
+  }
+  .fweb {
+    display: inline;
+  }
 
-	 .fappwe{
-		 display: inline;
-	 }
-	
-	 
-	.fapp {
-		display: none; 
-	}
-	.ropebg {
-		display: block;
-		position: absolute;
-		top: 35%;
-		right: 35%;
-	}
-	.web_about_img {
-		padding: 4em;
-		background: #FDF6F3;
-		display: block;
-		text-align: center;
+  .fappwe {
+    display: inline;
+  }
+
+  .fapp {
+    display: none;
+  }
+  .ropebg {
+    display: block;
+    position: absolute;
+    top: 35%;
+    right: 35%;
+  }
+  .web_about_img {
+    padding: 4em;
+    background: #fdf6f3;
+    display: block;
+    text-align: center;
     img {
       width: 100%;
     }
-	}
-	.founder_section {
-		display: none;
-	}
-	.committed_section {
-		padding: 1em 10%;
-		.cs_box {
-			float: left;
-			text-align: center;
-			width: 33%;
-			padding: 0 3%;
-			img {
-				position: relative;
-				top: 0;
-			}
-		}
-	}
-	.promise_section {
-		background: #FDEBD7;
-		
-		.psimg_container {
-			float: left;
-			width: 40%;
-			margin-top: 5rem;
-			img {
-				width: 100%;
-			}
-		}
-		.our_promise_cont {
-			margin: 4.5rem 0 0 4rem;
-			float: left;
-			width: 40%;
-		}
-	}
-	.ps_container {
-		padding: 5rem 0;
-		background: #FDF6F3;
-	}
+  }
+  .founder_section {
+    display: none;
+  }
+  .committed_section {
+    padding: 1em 10%;
+    .cs_box {
+      float: left;
+      text-align: center;
+      width: 33%;
+      padding: 0 3%;
+      img {
+        position: relative;
+        top: 0;
+      }
+      p {
+        font-family: GibsonLight;
+        font-weight: normal;
+      }
+    }
+  }
+  .promise_section {
+    background: #fdebd7;
+
+    .psimg_container {
+      float: left;
+      width: 40%;
+      margin-top: 5rem;
+      img {
+        width: 100%;
+      }
+    }
+    .our_promise_cont {
+      margin: 4.5rem 0 0 4rem;
+      float: left;
+      width: 40%;
+
+      p,
+      h5 {
+        font-family: GibsonLight;
+        font-weight: normal;
+      }
+    }
+  }
+  .ps_container {
+    padding: 5rem 0;
+    background: #fdf6f3;
+  }
   .ourpromise {
     display: none;
   }

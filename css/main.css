@@ -199,7 +199,7 @@ body {
 .infosection h5 {
   font-family: Gibson;
   font-weight: normal;
-  margin-bottom: 1.7em;
+  margin-bottom: 1em;
 }
 .infosection p {
   font-family: GibsonLight;
@@ -1448,7 +1448,7 @@ a {
     text-align: center;
   }
   .about_animated .aa_phone_images img {
-    width: 80%;
+    width: 65%;
   }
   .about_animated .aa_programs {
     width: 35%;
@@ -1468,6 +1468,8 @@ a {
   .about_animated .aa_programs .program_card p {
     font-size: 14px;
     margin-bottom: 0;
+    font-family: GibsonLight;
+    font-weight: normal;
   }
   .about_animated .aa_programs:hover {
     cursor: pointer;
@@ -1485,6 +1487,10 @@ a {
   }
   .tackle_section .tackle_text_container h2 {
     margin-bottom: 1em;
+  }
+  .tackle_section .tackle_text_container h5 {
+    font-family: GibsonLight;
+    font-weight: normal;
   }
   .tackle_section .tackle_img {
     width: 40%;
@@ -1504,6 +1510,8 @@ a {
   }
   .experts_section h5 {
     margin-bottom: 2rem;
+    font-family: GibsonLight;
+    font-weight: normal;
   }
   .experts_section .expert_card {
     padding-left: 4rem;
@@ -1532,9 +1540,12 @@ a {
     width: 50%;
     padding: 4em 7% 0 4em;
   }
-  .applanding_container .aboutlanding h2, .applanding_container .aboutlanding p {
+  .applanding_container .aboutlanding h2,
+.applanding_container .aboutlanding p {
     position: relative;
     z-index: 5;
+    font-family: GibsonLight;
+    font-weight: normal;
   }
   .applanding_container .aboutlanding h1 {
     position: relative;
@@ -1570,7 +1581,7 @@ a {
 
   .web_about_img {
     padding: 4em;
-    background: #FDF6F3;
+    background: #fdf6f3;
     display: block;
     text-align: center;
   }
@@ -1595,9 +1606,13 @@ a {
     position: relative;
     top: 0;
   }
+  .committed_section .cs_box p {
+    font-family: GibsonLight;
+    font-weight: normal;
+  }
 
   .promise_section {
-    background: #FDEBD7;
+    background: #fdebd7;
   }
   .promise_section .psimg_container {
     float: left;
@@ -1612,10 +1627,15 @@ a {
     float: left;
     width: 40%;
   }
+  .promise_section .our_promise_cont p,
+.promise_section .our_promise_cont h5 {
+    font-family: GibsonLight;
+    font-weight: normal;
+  }
 
   .ps_container {
     padding: 5rem 0;
-    background: #FDF6F3;
+    background: #fdf6f3;
   }
 
   .ourpromise {

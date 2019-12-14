@@ -121,11 +121,6 @@ const AboutPage = `
       </section>
 
       <section id="founders_section" class="founder_section">
-          <h2>There’s no easy solution to irritable bowels</h2>
-          <p>But here at Zemedy, we believe there are better ways to manage IBS than just a diet or medication.</p>
-
-          <p>IBS symptoms are closely related to mental wellbeing. Our cognitive programme and practical management tips combine to help you soothe your IBS symptoms.</p>
-
           <div class="dl_left">
               <h5>Download Zemedy today.</h5>
               <img src="img/appstore.svg">
