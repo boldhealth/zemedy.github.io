@@ -97,7 +97,7 @@ const ScienceTemplate = `
       <section class="image_slide_section">
         <div class="is_web">
           <img v-show="slide1" data-src="img/slide1.png" class="lazyload">
-          <img v-show="slide2" data-src="img/slide2.png" class="lazyload">
+          <img v-show="slide2" data-src="img/slide2.png" class="lazyload slide-img2">
           <div @click="togglePhones" class="slide_control" v-bind:class="{ slide_active: slide1 }">
           </div>
           <div @click="togglePhones" class="slide_control" v-bind:class="{ slide_active: slide2 }">
