@@ -43,17 +43,6 @@ $(function() {
     currentSlide(position);
   });
 
-  $("#menu-toggle").click(function(e) {
-    console.log("clicked");
-    e.preventDefault();
-    $("#wrapper").toggleClass("toggled");
-  });
-
-  $("#remove-toggle").click(function(e) {
-    e.preventDefault();
-    $("#wrapper").removeClass("toggled");
-  });
-
   $("#card1").mouseenter(function() {
     $("#iphone1").show();
     $("#iphone2").hide();

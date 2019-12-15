@@ -8,7 +8,7 @@ const SidebarTemplate =
                 </a>
             </div>
             <div class="swhright">
-                <img id="remove-toggle" class="side-img" src="img/closesidebar.svg"> 
+                <img @click="removeToggle" id="remove-toggle" class="side-img" src="img/closesidebar.svg"> 
             </div>
             <div style="clear: both;"></div>
         </div>

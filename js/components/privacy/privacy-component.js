@@ -5,12 +5,7 @@ import { SidebarComponent } from '../sidebar/sidebar-component.js'
 
 const PrivacyComponent = {
   mounted: function(){
-    if (localStorage.getItem('reloaded')) {
-        localStorage.removeItem('reloaded');
-    } else {
-        localStorage.setItem('reloaded', '1');
-        location.reload();
-    }
+    this.$store.dispatch("removeToggle");
   },
   components: {
     'header-component': HeaderComponent,

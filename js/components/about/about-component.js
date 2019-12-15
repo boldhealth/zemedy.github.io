@@ -4,20 +4,15 @@ import { FooterComponent } from '../footer/footer-component.js'
 import { SidebarComponent } from '../sidebar/sidebar-component.js'
 
 const AboutComponent = {
+  mounted: function(){
+    this.$store.dispatch("removeToggle");
+  },
   components: {
     'header-component': HeaderComponent,
     'footer-component': FooterComponent,
     'sidebar-component': SidebarComponent
   },
-  template: AboutPage,
-  mounted: function(){
-    if (localStorage.getItem('reloaded')) {
-        localStorage.removeItem('reloaded');
-    } else {
-        localStorage.setItem('reloaded', '1');
-        location.reload();
-    }
-  },
+  template: AboutPage
 }
 
 export { AboutComponent }

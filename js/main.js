@@ -7,9 +7,36 @@ import { TermsComponent } from "./components/terms/terms-component.js";
 import { PrivacyComponent } from "./components/privacy/privacy-component.js";
 import { AccessibilityComponent } from "./components/accessibility/accessibility-component.js";
 import { ContactComponent } from "./components/contact/contact-component.js";
+Vue.use(Vuex);
+
+const store = new Vuex.Store({
+  state: {
+    toggled: false
+  },
+  mutations: {
+    addToggle: (state) => {
+      return state.toggled = true;
+    },
+    removeToggle: (state) => {
+      return state.toggled = false;
+    }
+  },
+  actions: {
+    addToggle({ commit }) {
+      commit('addToggle');
+    },
+    removeToggle({ commit }) {
+      commit('removeToggle');
+    }
+  },
+  getters: {
+    toggled: state => {
+      return state.toggled; 
+    }
+  }
+})
 
 Vue.use(VueRouter);
-
 const router = new VueRouter({
   routes: [
     {
@@ -49,12 +76,19 @@ const router = new VueRouter({
     }
   ]
 });
-
-// router.replace({ path: '*', redirect: '/' })
 export default router;
 
 new Vue({
   el: "#app",
   router,
-  template: MainTemplate
+  store,
+  template: MainTemplate,
+  mounted: function(){
+    this.$store.dispatch("removeToggle");
+  },
+  computed: {
+    toggled(){
+      return this.$store.getters.toggled;
+    }
+  }
 });

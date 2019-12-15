@@ -6,7 +6,7 @@ const HeaderTemplate =
           <img src="img/orangelogo.svg">
         </a>
       </div>
-      <div id="menu-toggle" class="ahright">
+      <div @click="addToggle" id="menu-toggle" class="ahright">
         <a>
           <img src="img/menubar.svg">
         </a>

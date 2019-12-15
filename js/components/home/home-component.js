@@ -9,15 +9,10 @@ import { FooterComponent } from '../footer/footer-component.js'
 import { SidebarComponent } from '../sidebar/sidebar-component.js'
 
 const HomeComponent = {
-  template: HomepageTemplate,
   mounted: function(){
-    if (localStorage.getItem('reloaded')) {
-        localStorage.removeItem('reloaded');
-    } else {
-        localStorage.setItem('reloaded', '1');
-        location.reload();
-    }
+    this.$store.dispatch("removeToggle");
   },
+  template: HomepageTemplate,
   components: {
     'header-component': HeaderComponent,
     'sidebar-component': SidebarComponent,

@@ -5,12 +5,7 @@ import { SidebarComponent } from '../sidebar/sidebar-component.js'
 
 const ContactComponent = {
   mounted: function(){
-    if (localStorage.getItem('reloaded')) {
-        localStorage.removeItem('reloaded');
-    } else {
-        localStorage.setItem('reloaded', '1');
-        location.reload();
-    }
+    this.$store.dispatch("removeToggle");
   },
   data: function(){
     return {
