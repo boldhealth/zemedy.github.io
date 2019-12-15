@@ -1895,7 +1895,7 @@ hr {
   width: 100%;
   border-bottom: 1px solid black; }
 
-.submit {
+.submitbtn_mobile {
   width: 80%;
   background: #f58967;
   border-radius: 100px;
@@ -1903,6 +1903,9 @@ hr {
   margin: 2em auto;
   margin-left: 2em;
   color: white; }
+  .submitbtn_mobile:hover {
+    cursor: pointer;
+    background: #eb6054; }
 
 .success {
   color: #6872e7;
@@ -1947,12 +1950,6 @@ hr {
 
 .app-main-web2 {
   display: none; }
-
-input:hover {
-  border: 2px solid #00ccff; }
-
-button:active {
-  background: #00ccff; }
 
 .contactwrapper {
   background: #fdebd7; }

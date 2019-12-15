@@ -67,7 +67,7 @@ const ContactTemplate = `
                       <textarea class="message-mobile" v-model="message"></textarea>
                   </div>
                   
-                  <button class="submit"> Submit</button>
+                  <button class="submitbtn_mobile"> Submit</button>
                   <p v-show="success" class="success-web">Success! Your message has been submitted. We’ll be in touch soon</p>
                   <p v-show="failure" class="failure-web">Error! Something went wrong. Please try again later</p>
                  </form>

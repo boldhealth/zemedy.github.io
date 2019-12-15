@@ -36,7 +36,7 @@
   width: 100%;
   border-bottom: 1px solid black;
 }
-.submit {
+.submitbtn_mobile {
   width: 80%;
   background: #f58967;
   border-radius: 100px;
@@ -44,6 +44,10 @@
   margin: 2em auto;
   margin-left: 2em;
   color: white;
+  &:hover {
+    cursor: pointer;
+    background: #eb6054;
+  }
 }
 .success {
   color: #6872e7;
@@ -90,12 +94,6 @@
 }
 .app-main-web2 {
   display: none;
-}
-input:hover {
-  border: 2px solid rgb(0, 204, 255);
-}
-button:active {
-  background: rgb(0, 204, 255);
 }
 .contactwrapper {
   background: #fdebd7;
