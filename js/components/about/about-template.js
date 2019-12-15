@@ -35,26 +35,26 @@ const AboutPage = `
               <div style="clear: both"></div>
             </div>
             <div class="aa_phone_images">
-              <img id="iphone" src="img/iphone.svg">
-              <img id="iphone1" class="ip lazyload" data-src="img/iphone1.png">
-              <img id="iphone2" class="ip lazyload" data-src="img/iphone2.png">
-              <img id="iphone3" class="ip lazyload" data-src="img/iphone3.png">
-              <img id="iphone4" class="ip lazyload" data-src="img/iphone4.png">
+              <img v-if="iphone" src="img/iphone.svg">
+              <img v-if="iphone1" class="ip lazyload" data-src="img/iphone1.png">
+              <img v-if="iphone2" class="ip lazyload" data-src="img/iphone2.png">
+              <img v-if="iphone3" class="ip lazyload" data-src="img/iphone3.png">
+              <img v-if="iphone4" class="ip lazyload" data-src="img/iphone4.png">
             </div>
             <div class="aa_programs">
-              <div id="card1" class="program_card">
+              <div @mouseover="mouseOver1" @mouseleave="mouseLeave" class="program_card">
                 <h5>10-week CBT programme</h5>
                 <p>Throughout the programme we’ll be introducing you to specialist CBT techniques that will help you manage your symptoms and stress</p>
               </div>
-              <div id="card2" class="program_card">
+              <div @mouseover="mouseOver2" @mouseleave="mouseLeave" class="program_card">
                 <h5>Relaxation practices</h5>
                 <p>Just like if you were seeing a CBT therapist, you’ll be given 'homework' after each session. These come in the form of ‘Practices’, such as relaxation activities or goal setting.</p>
               </div>
-              <div id="card3" class="program_card">
+              <div @mouseover="mouseOver3" @mouseleave="mouseLeave" class="program_card">
                 <h5>Gut-focused hypnotherapy</h5>
                 <p>Hypnotherapy exercises were designed by Professor Whorwell, the leading clinician in this field. His dulcet tones will lull your gut into a state of deep relaxation.</p>
               </div>
-              <div id="card4" class="program_card">
+              <div @mouseover="mouseOver4" @mouseleave="mouseLeave" class="program_card">
                 <h5>Flare mode</h5>
                 <p>Flare mode is designed to deliver quick relaxation exercises and tips for when you need it the most.</p>
               </div>
