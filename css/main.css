@@ -269,7 +269,7 @@ li {
 @media (min-width: 768px) and (max-width: 2000px) {
   .landing_section_web {
     display: block;
-    padding: 4em 2em; }
+    padding: 0 2em; }
     .landing_section_web .iphone_img_container {
       width: 50%;
       float: left; }
