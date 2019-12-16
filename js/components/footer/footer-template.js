@@ -9,7 +9,6 @@ const FooterTemplate = ` <div>
             <a href="/#/contact"><i class="far fa-envelope"></i></a>
             <a href="https://www.facebook.com/tryzemedy/"><i class="fab fa-facebook-f"></i></a>
             <a href="https://twitter.com/tryzemedy"><i class="fab fa-twitter"></i></a>
-            <a href="/#/terms"><i class="fab fa-linkedin"></i></a>
             <a href="https://www.instagram.com/tryzemedy/"><i class="fab fa-instagram"></i></a>
             <img data-src="img/footerstarer.png" class="lazyload">
         </div>
@@ -48,7 +47,6 @@ const FooterTemplate = ` <div>
                 <a href="/#/contact"><i class="far fa-envelope"></i></a>
                 <a href="https://www.facebook.com/tryzemedy/"><i class="fab fa-facebook-f"></i></a>
                 <a href="https://twitter.com/tryzemedy"><i class="fab fa-twitter"></i></a>
-                <a href="/#/terms"><i class="fab fa-linkedin"></i></a>
                 <a href="https://www.instagram.com/tryzemedy/"><i class="fab fa-instagram"></i></a>
             </li>
             <li class="floated_list">

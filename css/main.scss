@@ -7,28 +7,13 @@ html {
 
 body {
   @font-face {
-    font-family: "GibsonBold";
-    src: url(../fonts/Gibson-Bold.ttf) format("truetype");
+    font-family: 'Gibson' !important;
+    src: url(../fonts/Gibson-Light.otf) format('truetype') font-weight-lighter,
+         url(../fonts/Gibson-Regular.ttf) format('truetype') font-weight-normal,
+         url(../fonts/Gibson-RegularItalic.ttf) format('truetype') font-weight-italic,
+         url(../fonts/Gibson-bold.otf) format('truetype') font-weight-bold,
+         url(../fonts/Gibson-BoldItalic.ttf) format('truetype') font-italic font-weight-bold;
   }
-  @font-face {
-    font-family: "GibsonBoldItalic";
-    src: url(../fonts/Gibson-BoldItalic.ttf) format("truetype");
-  }
-  @font-face {
-    font-family: "GibsonLight";
-    src: url(../fonts/Gibson-Light.ttf) format("truetype");
-  }
-  @font-face {
-    font-family: "GibsonRegular";
-    src: url(../fonts/Gibson-Regular.ttf) format("truetype");
-  }
-  @font-face {
-    font-family: "GibsonRegularItalic";
-    src: url(../fonts/Gibson-RegularItalic.ttf) format("truetype");
-  }
-
-  font-family: Gibson;
-  font-weight: normal;
 }
 
 @media (min-width: 768px) {
@@ -36,24 +21,29 @@ body {
     font-size: 50px;
     color: $blue;
     font-weight: 300;
+    letter-spacing: .5px;
   }
   h2 {
     font-size: 36px;
     font-weight: 300;
     color: $blue;
+    letter-spacing: .5px;
   }
   h5 {
     font-size: 25px;
-    font-weight: 300;
+    font-weight: 200;
     color: $blue;
+    letter-spacing: .5px;
   }
   p {
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 200;
     color: $blue;
+    letter-spacing: .5px;
   }
   .p14 {
     font-size: 14px;
+    letter-spacing: .5px;
   }
 }
 

@@ -4,13 +4,6 @@ const ScienceBehind = {
       <div class="sb_mobile">
         <h2>The Science Behind Zemedy</h2>
         <img class="diagramapp lazyload" data-src="img/diagram.png">
-        <div class="find_out_more_container">
-          <a href="/#/science">
-            <h5>Find out more about the science</h5>
-            <img data-src="img/arrowup.png" class="lazyload">
-          </a>
-          <div style="clear: both;"></div>
-        </div>
       </div>
       <div class="sb_web">
         <h2>The Science Behind Zemedy</h2>

@@ -5,7 +5,6 @@
     top: 23em;
     width: 51%;
     left: 8.5em;
-    font-weight: 300;
   }
   .lg_zemedy {
     position: absolute;
@@ -13,7 +12,6 @@
     top: 25em;
     width: 49%;
     left: 8.5em;
-    font-weight: 300;
   }
   .bf_zemedy {
     position: absolute;
@@ -21,7 +19,6 @@
     top: 27.5em;
     width: 49%;
     left: 8.5em;
-    font-weight: 300;
   }
   #readmore_mobile {
     display: none;
@@ -69,14 +66,11 @@
         border-left: 2px solid $blue;
         margin-bottom: 1em;
         h5 {
-          font-weight: 400;
           font-size: 25px;
         }
         p {
           font-size: 14px;
           margin-bottom: 0;
-          font-family: GibsonLight;
-          font-weight: normal;
         }
       }
       &:hover {
@@ -94,10 +88,6 @@
       text-align: left;
       h2 {
         margin-bottom: 1em;
-      }
-      h5 {
-        font-family: GibsonLight;
-        font-weight: normal;
       }
     }
     .tackle_img {
@@ -117,8 +107,6 @@
     }
     h5 {
       margin-bottom: 2rem;
-      font-family: GibsonLight;
-      font-weight: normal;
     }
     .expert_card {
       padding-left: 4rem;
@@ -134,7 +122,6 @@
       h5 {
         margin-bottom: 0;
         font-size: 18px;
-        font-weight: 400;
       }
       p {
         font-size: 14px;
@@ -153,8 +140,6 @@
       p {
         position: relative;
         z-index: 5;
-        font-family: GibsonLight;
-        font-weight: normal;
       }
       h1 {
         position: relative;
@@ -210,10 +195,6 @@
         position: relative;
         top: 0;
       }
-      p {
-        font-family: GibsonLight;
-        font-weight: normal;
-      }
     }
   }
   .promise_section {
@@ -231,12 +212,6 @@
       margin: 4.5rem 0 0 4rem;
       float: left;
       width: 40%;
-
-      p,
-      h5 {
-        font-family: GibsonLight;
-        font-weight: normal;
-      }
     }
   }
   .ps_container {
