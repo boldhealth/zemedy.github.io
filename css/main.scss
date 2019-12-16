@@ -16,6 +16,16 @@ body {
   }
 }
 
+strong {
+  font-weight: 500 !important;
+}
+b {
+  font-weight: 500 !important;
+}
+li {
+  color: $blue;
+}
+
 @media (min-width: 768px) {
   h1 {
     font-size: 50px;
