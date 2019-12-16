@@ -26,7 +26,7 @@ const Testimonials = {
         <p>App Store (Anon)</p>
       </h5>
       <div class="tcircle">
-        <i rel="0" @click="currentTestimonial" class="fas fa-circle tactive dot"></i>
+        <i rel="0" class="fas fa-circle tactive dot"></i>
         <i rel="1" class="fas fa-circle dot"></i>
         <i rel="2" class="fas fa-circle dot"></i>
         <i rel="3" class="fas fa-circle dot"></i>
