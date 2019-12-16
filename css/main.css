@@ -198,9 +198,10 @@ body {
     font-size: 36px; }
     .testimonialcontainer h5 p {
       font-size: 25px;
-      margin: 2em 0 0.5em 0; }
+      margin: 1.5em 0 0.5em 0; }
 
 .tcircle {
+  margin-top: 4em;
   text-align: center;
   width: 100%;
   font-size: 10px; }
@@ -312,7 +313,7 @@ body {
         font-size: 36px;
         line-height: 50px; }
       .landing_section_web .texts_container p {
-        width: 70%;
+        width: 85%;
         margin-bottom: 1.7em;
         font-family: GibsonLight;
         font-weight: normal;

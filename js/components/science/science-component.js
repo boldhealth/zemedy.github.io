@@ -6,6 +6,7 @@ import { SidebarComponent } from '../sidebar/sidebar-component.js'
 
 const ScienceComponent = {
   mounted: function(){
+    window.scrollTo(0,0);
     this.$store.dispatch("removeToggle");
   },
   components: {

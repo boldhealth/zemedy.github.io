@@ -6,6 +6,7 @@ import { SidebarComponent } from '../sidebar/sidebar-component.js'
 const PrivacyComponent = {
   mounted: function(){
     this.$store.dispatch("removeToggle");
+    window.scrollTo(0,0);
   },
   components: {
     'header-component': HeaderComponent,

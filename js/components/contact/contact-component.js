@@ -6,6 +6,7 @@ import { SidebarComponent } from '../sidebar/sidebar-component.js'
 const ContactComponent = {
   mounted: function(){
     this.$store.dispatch("removeToggle");
+    window.scrollTo(0,0);
   },
   data: function(){
     return {
