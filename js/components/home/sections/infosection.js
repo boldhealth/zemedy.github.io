@@ -30,19 +30,19 @@ const InfoSection = {
             <h2>What you will gain from Zemedy</h2>
 
             <div class="info_box">
-                <img src="img/infoimg1.svg">
+                <img src="img/infoimg1.png">
                 <h2>back in control</h2>  
                 <p>With IBS its easy to feel out of control. That’s why our course puts you back in the driver's seat of your own body and mind.</p>  
             </div>
 
             <div class="info_box">
-                <img src="img/infoimg2.svg">
+                <img src="img/infoimg2.png">
                 <h2>"you time"</h2>  
                 <p>We consider Zemedy time "you time". Our programme is the first step to putting your health number one.</p>
             </div>  
 
             <div class="info_box">
-                <img src="img/infoimg3.svg">
+                <img src="img/infoimg3.png">
                 <h2>tools and tricks</h2>  
                 <p>Our programme is packed with cool features. Discover and unlock new tools and resources when you complete a session.</p> 
             </div> 
