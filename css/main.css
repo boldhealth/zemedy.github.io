@@ -3,8 +3,9 @@ html {
 
 @font-face {
   body {
-    font-family: 'Gibson' !important;
-    src: url(../fonts/Gibson-Light.otf) format("truetype") font-weight-lighter, url(../fonts/Gibson-Regular.ttf) format("truetype") font-weight-normal, url(../fonts/Gibson-RegularItalic.ttf) format("truetype") font-weight-italic, url(../fonts/Gibson-bold.otf) format("truetype") font-weight-bold, url(../fonts/Gibson-BoldItalic.ttf) format("truetype") font-italic font-weight-bold; } }
+    font-family: canada-type-gibson, sans-serif;
+    font-style: normal;
+    font-weight: 100; } }
 strong {
   font-weight: 500 !important; }
 
@@ -2018,7 +2019,7 @@ hr {
 
   .webheader {
     background: #FDF6F3;
-    height: 5em; }
+    height: 6.15em; }
 
   .bg-section {
     display: none; }
